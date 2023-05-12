@@ -17,7 +17,10 @@ simple steps to install are:
 5. pip install ~/isaacgym/python/
 6. ./dev_requirements.sh
 ``` 
- 
+## running
+
+1. cd Controllers_learners
+2. python run_Gecko.py (or 1 of the run files of the other morphologies)
 ## Documentation 
 
 [ci-group.github.io/revolve2](https://ci-group.github.io/revolve2/) 
