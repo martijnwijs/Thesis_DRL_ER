@@ -1,0 +1,1105 @@
+[2022-11-23 23:12:47,906] [INFO] [optimize] Starting learning
+[2022-11-23 23:12:47,935] [INFO] [optimize] Starting learning process..
+[2022-11-23 23:12:48,086] [INFO] [runner_train_mujoco] Starting simulation batch with mujoco.
+[2022-11-23 23:12:48,087] [INFO] [runner_train_mujoco] Environment 0
+[2022-11-23 23:13:01,039] [INFO] [runner_train_mujoco] Environment 1
+[2022-11-23 23:13:13,337] [INFO] [runner_train_mujoco] Environment 2
+[2022-11-23 23:13:25,196] [INFO] [runner_train_mujoco] Environment 3
+[2022-11-23 23:13:36,507] [INFO] [runner_train_mujoco] Environment 4
+[2022-11-23 23:13:48,074] [INFO] [runner_train_mujoco] Environment 5
+[2022-11-23 23:13:59,425] [INFO] [runner_train_mujoco] Environment 6
+[2022-11-23 23:14:11,750] [INFO] [runner_train_mujoco] Environment 7
+[2022-11-23 23:14:23,567] [INFO] [runner_train_mujoco] Environment 8
+[2022-11-23 23:14:35,358] [INFO] [runner_train_mujoco] Environment 9
+[2022-11-23 23:14:46,809] [INFO] [runner_train_mujoco] Average cumulative reward after 150 steps: 0.5386609570275758
+[2022-11-23 23:14:46,810] [INFO] [runner_train_mujoco] Average state value: -0.28864385056247316
+[2022-11-23 23:14:46,810] [INFO] [controller] ITERATION NUM: 1
+[2022-11-23 23:14:46,900] [INFO] [controller] EPOCH 1 loss ppo:  -0.01390, loss val: 0.79936
+[2022-11-23 23:14:46,969] [INFO] [controller] EPOCH 2 loss ppo:  -0.05177, loss val: 0.71584
+[2022-11-23 23:14:47,045] [INFO] [controller] EPOCH 3 loss ppo:  -0.06863, loss val: 0.64308
+[2022-11-23 23:14:47,116] [INFO] [controller] EPOCH 4 loss ppo:  -0.08001, loss val: 0.58180
+[2022-11-23 23:14:47,129] [INFO] [runner_train_mujoco] Finished batch.
+[2022-11-23 23:14:47,254] [INFO] [runner_train_mujoco] Starting simulation batch with mujoco.
+[2022-11-23 23:14:47,254] [INFO] [runner_train_mujoco] Environment 0
+[2022-11-23 23:14:59,016] [INFO] [runner_train_mujoco] Environment 1
+[2022-11-23 23:15:10,491] [INFO] [runner_train_mujoco] Environment 2
+[2022-11-23 23:15:24,035] [INFO] [runner_train_mujoco] Environment 3
+[2022-11-23 23:15:36,476] [INFO] [runner_train_mujoco] Environment 4
+[2022-11-23 23:15:49,851] [INFO] [runner_train_mujoco] Environment 5
+[2022-11-23 23:16:01,510] [INFO] [runner_train_mujoco] Environment 6
+[2022-11-23 23:16:13,370] [INFO] [runner_train_mujoco] Environment 7
+[2022-11-23 23:16:24,766] [INFO] [runner_train_mujoco] Environment 8
+[2022-11-23 23:16:35,755] [INFO] [runner_train_mujoco] Environment 9
+[2022-11-23 23:16:47,684] [INFO] [runner_train_mujoco] Average cumulative reward after 150 steps: 0.5708353704011381
+[2022-11-23 23:16:47,684] [INFO] [runner_train_mujoco] Average state value: -0.10013832003126541
+[2022-11-23 23:16:47,684] [INFO] [controller] ITERATION NUM: 2
+[2022-11-23 23:16:47,765] [INFO] [controller] EPOCH 1 loss ppo:  -0.01490, loss val: 0.42903
+[2022-11-23 23:16:47,835] [INFO] [controller] EPOCH 2 loss ppo:  -0.04618, loss val: 0.37551
+[2022-11-23 23:16:47,904] [INFO] [controller] EPOCH 3 loss ppo:  -0.06504, loss val: 0.33600
+[2022-11-23 23:16:47,969] [INFO] [controller] EPOCH 4 loss ppo:  -0.07646, loss val: 0.28851
+[2022-11-23 23:16:47,982] [INFO] [runner_train_mujoco] Finished batch.
+[2022-11-23 23:16:48,133] [INFO] [runner_train_mujoco] Starting simulation batch with mujoco.
+[2022-11-23 23:16:48,134] [INFO] [runner_train_mujoco] Environment 0
+[2022-11-23 23:17:00,222] [INFO] [runner_train_mujoco] Environment 1
+[2022-11-23 23:17:12,039] [INFO] [runner_train_mujoco] Environment 2
+[2022-11-23 23:17:23,578] [INFO] [runner_train_mujoco] Environment 3
+[2022-11-23 23:17:34,639] [INFO] [runner_train_mujoco] Environment 4
+[2022-11-23 23:17:45,713] [INFO] [runner_train_mujoco] Environment 5
+[2022-11-23 23:17:57,804] [INFO] [runner_train_mujoco] Environment 6
+[2022-11-23 23:18:09,199] [INFO] [runner_train_mujoco] Environment 7
+[2022-11-23 23:18:21,223] [INFO] [runner_train_mujoco] Environment 8
+[2022-11-23 23:18:35,079] [INFO] [runner_train_mujoco] Environment 9
+[2022-11-23 23:18:48,155] [INFO] [runner_train_mujoco] Average cumulative reward after 150 steps: 0.48302340466986016
+[2022-11-23 23:18:48,155] [INFO] [runner_train_mujoco] Average state value: 0.09533235744945705
+[2022-11-23 23:18:48,155] [INFO] [controller] ITERATION NUM: 3
+[2022-11-23 23:18:48,238] [INFO] [controller] EPOCH 1 loss ppo:  -0.01449, loss val: 0.25258
+[2022-11-23 23:18:48,370] [INFO] [controller] EPOCH 2 loss ppo:  -0.04905, loss val: 0.22207
+[2022-11-23 23:18:48,523] [INFO] [controller] EPOCH 3 loss ppo:  -0.06790, loss val: 0.18765
+[2022-11-23 23:18:48,616] [INFO] [controller] EPOCH 4 loss ppo:  -0.07798, loss val: 0.16543
+[2022-11-23 23:18:48,630] [INFO] [runner_train_mujoco] Finished batch.
+[2022-11-23 23:18:48,762] [INFO] [runner_train_mujoco] Starting simulation batch with mujoco.
+[2022-11-23 23:18:48,762] [INFO] [runner_train_mujoco] Environment 0
+[2022-11-23 23:19:02,003] [INFO] [runner_train_mujoco] Environment 1
+[2022-11-23 23:19:19,288] [INFO] [runner_train_mujoco] Environment 2
+[2022-11-23 23:19:38,524] [INFO] [runner_train_mujoco] Environment 3
+[2022-11-23 23:19:55,149] [INFO] [runner_train_mujoco] Environment 4
+[2022-11-23 23:20:11,155] [INFO] [runner_train_mujoco] Environment 5
+[2022-11-23 23:20:24,376] [INFO] [runner_train_mujoco] Environment 6
+[2022-11-23 23:20:36,401] [INFO] [runner_train_mujoco] Environment 7
+[2022-11-23 23:20:49,272] [INFO] [runner_train_mujoco] Environment 8
+[2022-11-23 23:21:01,479] [INFO] [runner_train_mujoco] Environment 9
+[2022-11-23 23:21:13,435] [INFO] [runner_train_mujoco] Average cumulative reward after 150 steps: 0.5244943457083638
+[2022-11-23 23:21:13,435] [INFO] [runner_train_mujoco] Average state value: 0.24320080317060153
+[2022-11-23 23:21:13,435] [INFO] [controller] ITERATION NUM: 4
+[2022-11-23 23:21:13,540] [INFO] [controller] EPOCH 1 loss ppo:  -0.01491, loss val: 0.14966
+[2022-11-23 23:21:13,645] [INFO] [controller] EPOCH 2 loss ppo:  -0.05257, loss val: 0.13063
+[2022-11-23 23:21:13,712] [INFO] [controller] EPOCH 3 loss ppo:  -0.06871, loss val: 0.11441
+[2022-11-23 23:21:13,781] [INFO] [controller] EPOCH 4 loss ppo:  -0.07961, loss val: 0.10265
+[2022-11-23 23:21:13,798] [INFO] [runner_train_mujoco] Finished batch.
+[2022-11-23 23:21:13,933] [INFO] [runner_train_mujoco] Starting simulation batch with mujoco.
+[2022-11-23 23:21:13,933] [INFO] [runner_train_mujoco] Environment 0
+[2022-11-23 23:21:26,714] [INFO] [runner_train_mujoco] Environment 1
+[2022-11-23 23:21:39,993] [INFO] [runner_train_mujoco] Environment 2
+[2022-11-23 23:21:53,917] [INFO] [runner_train_mujoco] Environment 3
+[2022-11-23 23:22:05,352] [INFO] [runner_train_mujoco] Environment 4
+[2022-11-23 23:22:16,860] [INFO] [runner_train_mujoco] Environment 5
+[2022-11-23 23:22:28,407] [INFO] [runner_train_mujoco] Environment 6
+[2022-11-23 23:22:40,560] [INFO] [runner_train_mujoco] Environment 7
+[2022-11-23 23:22:49,427] [INFO] [runner_train_mujoco] Environment 8
+[2022-11-23 23:22:58,339] [INFO] [runner_train_mujoco] Environment 9
+[2022-11-23 23:23:06,930] [INFO] [runner_train_mujoco] Average cumulative reward after 150 steps: 0.4288966169404797
+[2022-11-23 23:23:06,931] [INFO] [runner_train_mujoco] Average state value: 0.4104628919201593
+[2022-11-23 23:23:06,931] [INFO] [controller] ITERATION NUM: 5
+[2022-11-23 23:23:06,980] [INFO] [controller] EPOCH 1 loss ppo:  -0.01270, loss val: 0.07854
+[2022-11-23 23:23:07,023] [INFO] [controller] EPOCH 2 loss ppo:  -0.05177, loss val: 0.07379
+[2022-11-23 23:23:07,084] [INFO] [controller] EPOCH 3 loss ppo:  -0.07089, loss val: 0.06867
+[2022-11-23 23:23:07,127] [INFO] [controller] EPOCH 4 loss ppo:  -0.08203, loss val: 0.06622
+[2022-11-23 23:23:07,136] [INFO] [runner_train_mujoco] Finished batch.
+[2022-11-23 23:23:07,228] [INFO] [runner_train_mujoco] Starting simulation batch with mujoco.
+[2022-11-23 23:23:07,228] [INFO] [runner_train_mujoco] Environment 0
+[2022-11-23 23:23:15,820] [INFO] [runner_train_mujoco] Environment 1
+[2022-11-23 23:23:24,154] [INFO] [runner_train_mujoco] Environment 2
+[2022-11-23 23:23:32,488] [INFO] [runner_train_mujoco] Environment 3
+[2022-11-23 23:23:41,048] [INFO] [runner_train_mujoco] Environment 4
+[2022-11-23 23:23:49,956] [INFO] [runner_train_mujoco] Environment 5
+[2022-11-23 23:24:00,011] [INFO] [runner_train_mujoco] Environment 6
+[2022-11-23 23:24:09,559] [INFO] [runner_train_mujoco] Environment 7
+[2022-11-23 23:24:17,947] [INFO] [runner_train_mujoco] Environment 8
+[2022-11-23 23:24:26,917] [INFO] [runner_train_mujoco] Environment 9
+[2022-11-23 23:24:36,631] [INFO] [runner_train_mujoco] Average cumulative reward after 150 steps: 0.44429249934407766
+[2022-11-23 23:24:36,631] [INFO] [runner_train_mujoco] Average state value: 0.48073968942587564
+[2022-11-23 23:24:36,631] [INFO] [controller] ITERATION NUM: 6
+[2022-11-23 23:24:36,684] [INFO] [controller] EPOCH 1 loss ppo:  -0.01300, loss val: 0.07172
+[2022-11-23 23:24:36,728] [INFO] [controller] EPOCH 2 loss ppo:  -0.04738, loss val: 0.06818
+[2022-11-23 23:24:36,782] [INFO] [controller] EPOCH 3 loss ppo:  -0.06300, loss val: 0.06488
+[2022-11-23 23:24:36,828] [INFO] [controller] EPOCH 4 loss ppo:  -0.07498, loss val: 0.06175
+[2022-11-23 23:24:36,837] [INFO] [runner_train_mujoco] Finished batch.
+[2022-11-23 23:24:36,937] [INFO] [runner_train_mujoco] Starting simulation batch with mujoco.
+[2022-11-23 23:24:36,938] [INFO] [runner_train_mujoco] Environment 0
+[2022-11-23 23:24:45,723] [INFO] [runner_train_mujoco] Environment 1
+[2022-11-23 23:24:55,747] [INFO] [runner_train_mujoco] Environment 2
+[2022-11-23 23:25:05,561] [INFO] [runner_train_mujoco] Environment 3
+[2022-11-23 23:25:14,194] [INFO] [runner_train_mujoco] Environment 4
+[2022-11-23 23:25:22,555] [INFO] [runner_train_mujoco] Environment 5
+[2022-11-23 23:25:31,154] [INFO] [runner_train_mujoco] Environment 6
+[2022-11-23 23:25:39,933] [INFO] [runner_train_mujoco] Environment 7
+[2022-11-23 23:25:48,642] [INFO] [runner_train_mujoco] Environment 8
+[2022-11-23 23:25:58,070] [INFO] [runner_train_mujoco] Environment 9
+[2022-11-23 23:26:07,403] [INFO] [runner_train_mujoco] Average cumulative reward after 150 steps: 0.5491556154301988
+[2022-11-23 23:26:07,403] [INFO] [runner_train_mujoco] Average state value: 0.5198327855716149
+[2022-11-23 23:26:07,403] [INFO] [controller] ITERATION NUM: 7
+[2022-11-23 23:26:07,472] [INFO] [controller] EPOCH 1 loss ppo:  -0.01129, loss val: 0.05835
+[2022-11-23 23:26:07,518] [INFO] [controller] EPOCH 2 loss ppo:  -0.04278, loss val: 0.05605
+[2022-11-23 23:26:07,570] [INFO] [controller] EPOCH 3 loss ppo:  -0.06128, loss val: 0.05272
+[2022-11-23 23:26:07,620] [INFO] [controller] EPOCH 4 loss ppo:  -0.07498, loss val: 0.04883
+[2022-11-23 23:26:07,639] [INFO] [runner_train_mujoco] Finished batch.
+[2022-11-23 23:26:07,741] [INFO] [runner_train_mujoco] Starting simulation batch with mujoco.
+[2022-11-23 23:26:07,744] [INFO] [runner_train_mujoco] Environment 0
+[2022-11-23 23:26:17,028] [INFO] [runner_train_mujoco] Environment 1
+[2022-11-23 23:26:26,134] [INFO] [runner_train_mujoco] Environment 2
+[2022-11-23 23:26:34,832] [INFO] [runner_train_mujoco] Environment 3
+[2022-11-23 23:26:43,346] [INFO] [runner_train_mujoco] Environment 4
+[2022-11-23 23:26:52,151] [INFO] [runner_train_mujoco] Environment 5
+[2022-11-23 23:27:01,411] [INFO] [runner_train_mujoco] Environment 6
+[2022-11-23 23:27:10,634] [INFO] [runner_train_mujoco] Environment 7
+[2022-11-23 23:27:19,607] [INFO] [runner_train_mujoco] Environment 8
+[2022-11-23 23:27:28,510] [INFO] [runner_train_mujoco] Environment 9
+[2022-11-23 23:27:37,687] [INFO] [runner_train_mujoco] Average cumulative reward after 150 steps: 0.6128842567695136
+[2022-11-23 23:27:37,687] [INFO] [runner_train_mujoco] Average state value: 0.47675818836689
+[2022-11-23 23:27:37,687] [INFO] [controller] ITERATION NUM: 8
+[2022-11-23 23:27:37,750] [INFO] [controller] EPOCH 1 loss ppo:  -0.01120, loss val: 0.04755
+[2022-11-23 23:27:37,810] [INFO] [controller] EPOCH 2 loss ppo:  -0.04292, loss val: 0.04778
+[2022-11-23 23:27:37,887] [INFO] [controller] EPOCH 3 loss ppo:  -0.06092, loss val: 0.04820
+[2022-11-23 23:27:37,985] [INFO] [controller] EPOCH 4 loss ppo:  -0.07367, loss val: 0.04530
+[2022-11-23 23:27:37,996] [INFO] [runner_train_mujoco] Finished batch.
+[2022-11-23 23:27:38,101] [INFO] [runner_train_mujoco] Starting simulation batch with mujoco.
+[2022-11-23 23:27:38,102] [INFO] [runner_train_mujoco] Environment 0
+[2022-11-23 23:27:47,689] [INFO] [runner_train_mujoco] Environment 1
+[2022-11-23 23:27:56,960] [INFO] [runner_train_mujoco] Environment 2
+[2022-11-23 23:28:06,457] [INFO] [runner_train_mujoco] Environment 3
+[2022-11-23 23:28:15,594] [INFO] [runner_train_mujoco] Environment 4
+[2022-11-23 23:28:24,636] [INFO] [runner_train_mujoco] Environment 5
+[2022-11-23 23:28:33,493] [INFO] [runner_train_mujoco] Environment 6
+[2022-11-23 23:28:43,094] [INFO] [runner_train_mujoco] Environment 7
+[2022-11-23 23:28:52,528] [INFO] [runner_train_mujoco] Environment 8
+[2022-11-23 23:29:05,307] [INFO] [runner_train_mujoco] Environment 9
+[2022-11-23 23:29:17,352] [INFO] [runner_train_mujoco] Average cumulative reward after 150 steps: 0.6415320341594546
+[2022-11-23 23:29:17,352] [INFO] [runner_train_mujoco] Average state value: 0.48101902423302334
+[2022-11-23 23:29:17,352] [INFO] [controller] ITERATION NUM: 9
+[2022-11-23 23:29:17,405] [INFO] [controller] EPOCH 1 loss ppo:  -0.00912, loss val: 0.04303
+[2022-11-23 23:29:17,463] [INFO] [controller] EPOCH 2 loss ppo:  -0.03764, loss val: 0.04279
+[2022-11-23 23:29:17,512] [INFO] [controller] EPOCH 3 loss ppo:  -0.05594, loss val: 0.04095
+[2022-11-23 23:29:17,560] [INFO] [controller] EPOCH 4 loss ppo:  -0.06947, loss val: 0.03976
+[2022-11-23 23:29:17,571] [INFO] [runner_train_mujoco] Finished batch.
+[2022-11-23 23:29:17,670] [INFO] [runner_train_mujoco] Starting simulation batch with mujoco.
+[2022-11-23 23:29:17,670] [INFO] [runner_train_mujoco] Environment 0
+[2022-11-23 23:29:26,111] [INFO] [runner_train_mujoco] Environment 1
+[2022-11-23 23:29:34,214] [INFO] [runner_train_mujoco] Environment 2
+[2022-11-23 23:29:41,914] [INFO] [runner_train_mujoco] Environment 3
+[2022-11-23 23:29:49,703] [INFO] [runner_train_mujoco] Environment 4
+[2022-11-23 23:29:58,546] [INFO] [runner_train_mujoco] Environment 5
+[2022-11-23 23:30:08,287] [INFO] [runner_train_mujoco] Environment 6
+[2022-11-23 23:30:16,991] [INFO] [runner_train_mujoco] Environment 7
+[2022-11-23 23:30:25,287] [INFO] [runner_train_mujoco] Environment 8
+[2022-11-23 23:30:34,279] [INFO] [runner_train_mujoco] Environment 9
+[2022-11-23 23:30:42,557] [INFO] [runner_train_mujoco] Average cumulative reward after 150 steps: 0.6753774795054528
+[2022-11-23 23:30:42,557] [INFO] [runner_train_mujoco] Average state value: 0.4620402362445991
+[2022-11-23 23:30:42,557] [INFO] [controller] ITERATION NUM: 10
+[2022-11-23 23:30:42,611] [INFO] [controller] EPOCH 1 loss ppo:  -0.01031, loss val: 0.03899
+[2022-11-23 23:30:42,654] [INFO] [controller] EPOCH 2 loss ppo:  -0.04079, loss val: 0.03859
+[2022-11-23 23:30:42,699] [INFO] [controller] EPOCH 3 loss ppo:  -0.05850, loss val: 0.03758
+[2022-11-23 23:30:42,762] [INFO] [controller] EPOCH 4 loss ppo:  -0.06766, loss val: 0.03959
+[2022-11-23 23:30:42,772] [INFO] [runner_train_mujoco] Finished batch.
+[2022-11-23 23:30:42,863] [INFO] [runner_train_mujoco] Starting simulation batch with mujoco.
+[2022-11-23 23:30:42,863] [INFO] [runner_train_mujoco] Environment 0
+[2022-11-23 23:30:51,422] [INFO] [runner_train_mujoco] Environment 1
+[2022-11-23 23:31:00,290] [INFO] [runner_train_mujoco] Environment 2
+[2022-11-23 23:31:09,528] [INFO] [runner_train_mujoco] Environment 3
+[2022-11-23 23:31:18,629] [INFO] [runner_train_mujoco] Environment 4
+[2022-11-23 23:31:26,764] [INFO] [runner_train_mujoco] Environment 5
+[2022-11-23 23:31:34,904] [INFO] [runner_train_mujoco] Environment 6
+[2022-11-23 23:31:43,222] [INFO] [runner_train_mujoco] Environment 7
+[2022-11-23 23:31:52,181] [INFO] [runner_train_mujoco] Environment 8
+[2022-11-23 23:32:02,154] [INFO] [runner_train_mujoco] Environment 9
+[2022-11-23 23:32:11,273] [INFO] [runner_train_mujoco] Average cumulative reward after 150 steps: 0.6252751160426179
+[2022-11-23 23:32:11,273] [INFO] [runner_train_mujoco] Average state value: 0.4317499891941746
+[2022-11-23 23:32:11,273] [INFO] [controller] ITERATION NUM: 11
+[2022-11-23 23:32:11,330] [INFO] [controller] EPOCH 1 loss ppo:  -0.01155, loss val: 0.04376
+[2022-11-23 23:32:11,377] [INFO] [controller] EPOCH 2 loss ppo:  -0.04256, loss val: 0.04310
+[2022-11-23 23:32:11,430] [INFO] [controller] EPOCH 3 loss ppo:  -0.06139, loss val: 0.04264
+[2022-11-23 23:32:11,485] [INFO] [controller] EPOCH 4 loss ppo:  -0.07321, loss val: 0.04182
+[2022-11-23 23:32:11,496] [INFO] [runner_train_mujoco] Finished batch.
+[2022-11-23 23:32:11,606] [INFO] [runner_train_mujoco] Starting simulation batch with mujoco.
+[2022-11-23 23:32:11,606] [INFO] [runner_train_mujoco] Environment 0
+[2022-11-23 23:32:20,922] [INFO] [runner_train_mujoco] Environment 1
+[2022-11-23 23:32:29,593] [INFO] [runner_train_mujoco] Environment 2
+[2022-11-23 23:32:38,298] [INFO] [runner_train_mujoco] Environment 3
+[2022-11-23 23:32:46,735] [INFO] [runner_train_mujoco] Environment 4
+[2022-11-23 23:32:55,616] [INFO] [runner_train_mujoco] Environment 5
+[2022-11-23 23:33:04,721] [INFO] [runner_train_mujoco] Environment 6
+[2022-11-23 23:33:13,873] [INFO] [runner_train_mujoco] Environment 7
+[2022-11-23 23:33:23,007] [INFO] [runner_train_mujoco] Environment 8
+[2022-11-23 23:33:33,101] [INFO] [runner_train_mujoco] Environment 9
+[2022-11-23 23:33:42,624] [INFO] [runner_train_mujoco] Average cumulative reward after 150 steps: 0.6526694791591884
+[2022-11-23 23:33:42,624] [INFO] [runner_train_mujoco] Average state value: 0.4577492926816145
+[2022-11-23 23:33:42,624] [INFO] [controller] ITERATION NUM: 12
+[2022-11-23 23:33:42,686] [INFO] [controller] EPOCH 1 loss ppo:  -0.01069, loss val: 0.04703
+[2022-11-23 23:33:42,735] [INFO] [controller] EPOCH 2 loss ppo:  -0.03901, loss val: 0.04597
+[2022-11-23 23:33:42,785] [INFO] [controller] EPOCH 3 loss ppo:  -0.05949, loss val: 0.04430
+[2022-11-23 23:33:42,834] [INFO] [controller] EPOCH 4 loss ppo:  -0.07159, loss val: 0.04512
+[2022-11-23 23:33:42,845] [INFO] [runner_train_mujoco] Finished batch.
+[2022-11-23 23:33:42,955] [INFO] [runner_train_mujoco] Starting simulation batch with mujoco.
+[2022-11-23 23:33:42,955] [INFO] [runner_train_mujoco] Environment 0
+[2022-11-23 23:33:52,683] [INFO] [runner_train_mujoco] Environment 1
+[2022-11-23 23:34:02,487] [INFO] [runner_train_mujoco] Environment 2
+[2022-11-23 23:34:11,828] [INFO] [runner_train_mujoco] Environment 3
+[2022-11-23 23:34:21,366] [INFO] [runner_train_mujoco] Environment 4
+[2022-11-23 23:34:30,623] [INFO] [runner_train_mujoco] Environment 5
+[2022-11-23 23:34:40,442] [INFO] [runner_train_mujoco] Environment 6
+[2022-11-23 23:34:49,842] [INFO] [runner_train_mujoco] Environment 7
+[2022-11-23 23:35:00,219] [INFO] [runner_train_mujoco] Environment 8
+[2022-11-23 23:35:10,292] [INFO] [runner_train_mujoco] Environment 9
+[2022-11-23 23:35:19,799] [INFO] [runner_train_mujoco] Average cumulative reward after 150 steps: 0.7367317676025078
+[2022-11-23 23:35:19,799] [INFO] [runner_train_mujoco] Average state value: 0.5111811354756356
+[2022-11-23 23:35:19,799] [INFO] [controller] ITERATION NUM: 13
+[2022-11-23 23:35:19,863] [INFO] [controller] EPOCH 1 loss ppo:  -0.01070, loss val: 0.04064
+[2022-11-23 23:35:19,914] [INFO] [controller] EPOCH 2 loss ppo:  -0.04410, loss val: 0.04007
+[2022-11-23 23:35:19,966] [INFO] [controller] EPOCH 3 loss ppo:  -0.06341, loss val: 0.04034
+[2022-11-23 23:35:20,017] [INFO] [controller] EPOCH 4 loss ppo:  -0.07530, loss val: 0.04181
+[2022-11-23 23:35:20,028] [INFO] [runner_train_mujoco] Finished batch.
+[2022-11-23 23:35:20,141] [INFO] [runner_train_mujoco] Starting simulation batch with mujoco.
+[2022-11-23 23:35:20,141] [INFO] [runner_train_mujoco] Environment 0
+[2022-11-23 23:35:30,065] [INFO] [runner_train_mujoco] Environment 1
+[2022-11-23 23:35:39,249] [INFO] [runner_train_mujoco] Environment 2
+[2022-11-23 23:35:48,314] [INFO] [runner_train_mujoco] Environment 3
+[2022-11-23 23:35:57,698] [INFO] [runner_train_mujoco] Environment 4
+[2022-11-23 23:36:07,356] [INFO] [runner_train_mujoco] Environment 5
+[2022-11-23 23:36:15,921] [INFO] [runner_train_mujoco] Environment 6
+[2022-11-23 23:36:24,509] [INFO] [runner_train_mujoco] Environment 7
+[2022-11-23 23:36:33,986] [INFO] [runner_train_mujoco] Environment 8
+[2022-11-23 23:36:44,057] [INFO] [runner_train_mujoco] Environment 9
+[2022-11-23 23:36:52,883] [INFO] [runner_train_mujoco] Average cumulative reward after 150 steps: 0.6442248375940612
+[2022-11-23 23:36:52,883] [INFO] [runner_train_mujoco] Average state value: 0.5373486908872922
+[2022-11-23 23:36:52,883] [INFO] [controller] ITERATION NUM: 14
+[2022-11-23 23:36:52,942] [INFO] [controller] EPOCH 1 loss ppo:  -0.01267, loss val: 0.04039
+[2022-11-23 23:36:52,992] [INFO] [controller] EPOCH 2 loss ppo:  -0.04142, loss val: 0.03954
+[2022-11-23 23:36:53,110] [INFO] [controller] EPOCH 3 loss ppo:  -0.05597, loss val: 0.03822
+[2022-11-23 23:36:53,160] [INFO] [controller] EPOCH 4 loss ppo:  -0.06930, loss val: 0.03683
+[2022-11-23 23:36:53,171] [INFO] [runner_train_mujoco] Finished batch.
+[2022-11-23 23:36:53,282] [INFO] [runner_train_mujoco] Starting simulation batch with mujoco.
+[2022-11-23 23:36:53,283] [INFO] [runner_train_mujoco] Environment 0
+[2022-11-23 23:37:03,352] [INFO] [runner_train_mujoco] Environment 1
+[2022-11-23 23:37:12,723] [INFO] [runner_train_mujoco] Environment 2
+[2022-11-23 23:37:20,954] [INFO] [runner_train_mujoco] Environment 3
+[2022-11-23 23:37:29,085] [INFO] [runner_train_mujoco] Environment 4
+[2022-11-23 23:37:37,792] [INFO] [runner_train_mujoco] Environment 5
+[2022-11-23 23:37:46,142] [INFO] [runner_train_mujoco] Environment 6
+[2022-11-23 23:37:54,544] [INFO] [runner_train_mujoco] Environment 7
+[2022-11-23 23:38:03,936] [INFO] [runner_train_mujoco] Environment 8
+[2022-11-23 23:38:13,017] [INFO] [runner_train_mujoco] Environment 9
+[2022-11-23 23:38:21,716] [INFO] [runner_train_mujoco] Average cumulative reward after 150 steps: 0.9962639434067129
+[2022-11-23 23:38:21,716] [INFO] [runner_train_mujoco] Average state value: 0.49595577806234353
+[2022-11-23 23:38:21,716] [INFO] [controller] ITERATION NUM: 15
+[2022-11-23 23:38:21,780] [INFO] [controller] EPOCH 1 loss ppo:  -0.01288, loss val: 0.02886
+[2022-11-23 23:38:21,833] [INFO] [controller] EPOCH 2 loss ppo:  -0.04595, loss val: 0.02886
+[2022-11-23 23:38:21,883] [INFO] [controller] EPOCH 3 loss ppo:  -0.06657, loss val: 0.03090
+[2022-11-23 23:38:21,930] [INFO] [controller] EPOCH 4 loss ppo:  -0.07731, loss val: 0.02986
+[2022-11-23 23:38:21,937] [INFO] [runner_train_mujoco] Finished batch.
+[2022-11-23 23:38:22,042] [INFO] [runner_train_mujoco] Starting simulation batch with mujoco.
+[2022-11-23 23:38:22,042] [INFO] [runner_train_mujoco] Environment 0
+[2022-11-23 23:38:30,953] [INFO] [runner_train_mujoco] Environment 1
+[2022-11-23 23:38:39,847] [INFO] [runner_train_mujoco] Environment 2
+[2022-11-23 23:38:47,992] [INFO] [runner_train_mujoco] Environment 3
+[2022-11-23 23:38:56,528] [INFO] [runner_train_mujoco] Environment 4
+[2022-11-23 23:39:04,873] [INFO] [runner_train_mujoco] Environment 5
+[2022-11-23 23:39:12,596] [INFO] [runner_train_mujoco] Environment 6
+[2022-11-23 23:39:21,036] [INFO] [runner_train_mujoco] Environment 7
+[2022-11-23 23:39:29,642] [INFO] [runner_train_mujoco] Environment 8
+[2022-11-23 23:39:37,862] [INFO] [runner_train_mujoco] Environment 9
+[2022-11-23 23:39:45,584] [INFO] [runner_train_mujoco] Average cumulative reward after 150 steps: 1.2046628598132565
+[2022-11-23 23:39:45,584] [INFO] [runner_train_mujoco] Average state value: 0.4602733263472715
+[2022-11-23 23:39:45,584] [INFO] [controller] ITERATION NUM: 16
+[2022-11-23 23:39:45,645] [INFO] [controller] EPOCH 1 loss ppo:  -0.01370, loss val: 0.03072
+[2022-11-23 23:39:45,687] [INFO] [controller] EPOCH 2 loss ppo:  -0.04833, loss val: 0.03265
+[2022-11-23 23:39:45,731] [INFO] [controller] EPOCH 3 loss ppo:  -0.06770, loss val: 0.03021
+[2022-11-23 23:39:45,774] [INFO] [controller] EPOCH 4 loss ppo:  -0.07866, loss val: 0.03119
+[2022-11-23 23:39:45,785] [INFO] [runner_train_mujoco] Finished batch.
+[2022-11-23 23:39:45,987] [INFO] [runner_train_mujoco] Starting simulation batch with mujoco.
+[2022-11-23 23:39:45,989] [INFO] [runner_train_mujoco] Environment 0
+[2022-11-23 23:39:53,643] [INFO] [runner_train_mujoco] Environment 1
+[2022-11-23 23:40:01,289] [INFO] [runner_train_mujoco] Environment 2
+[2022-11-23 23:40:08,828] [INFO] [runner_train_mujoco] Environment 3
+[2022-11-23 23:40:16,231] [INFO] [runner_train_mujoco] Environment 4
+[2022-11-23 23:40:23,590] [INFO] [runner_train_mujoco] Environment 5
+[2022-11-23 23:40:30,844] [INFO] [runner_train_mujoco] Environment 6
+[2022-11-23 23:40:38,385] [INFO] [runner_train_mujoco] Environment 7
+[2022-11-23 23:40:46,023] [INFO] [runner_train_mujoco] Environment 8
+[2022-11-23 23:40:53,435] [INFO] [runner_train_mujoco] Environment 9
+[2022-11-23 23:41:01,268] [INFO] [runner_train_mujoco] Average cumulative reward after 150 steps: 1.2946067447256597
+[2022-11-23 23:41:01,268] [INFO] [runner_train_mujoco] Average state value: 0.45369764850536987
+[2022-11-23 23:41:01,268] [INFO] [controller] ITERATION NUM: 17
+[2022-11-23 23:41:01,320] [INFO] [controller] EPOCH 1 loss ppo:  -0.01477, loss val: 0.03586
+[2022-11-23 23:41:01,363] [INFO] [controller] EPOCH 2 loss ppo:  -0.04467, loss val: 0.03354
+[2022-11-23 23:41:01,405] [INFO] [controller] EPOCH 3 loss ppo:  -0.06054, loss val: 0.03331
+[2022-11-23 23:41:01,448] [INFO] [controller] EPOCH 4 loss ppo:  -0.07672, loss val: 0.03308
+[2022-11-23 23:41:01,458] [INFO] [runner_train_mujoco] Finished batch.
+[2022-11-23 23:41:01,573] [INFO] [runner_train_mujoco] Starting simulation batch with mujoco.
+[2022-11-23 23:41:01,582] [INFO] [runner_train_mujoco] Environment 0
+[2022-11-23 23:41:09,485] [INFO] [runner_train_mujoco] Environment 1
+[2022-11-23 23:41:17,464] [INFO] [runner_train_mujoco] Environment 2
+[2022-11-23 23:41:25,389] [INFO] [runner_train_mujoco] Environment 3
+[2022-11-23 23:41:32,746] [INFO] [runner_train_mujoco] Environment 4
+[2022-11-23 23:41:40,584] [INFO] [runner_train_mujoco] Environment 5
+[2022-11-23 23:41:47,870] [INFO] [runner_train_mujoco] Environment 6
+[2022-11-23 23:41:55,146] [INFO] [runner_train_mujoco] Environment 7
+[2022-11-23 23:42:02,969] [INFO] [runner_train_mujoco] Environment 8
+[2022-11-23 23:42:10,411] [INFO] [runner_train_mujoco] Environment 9
+[2022-11-23 23:42:18,818] [INFO] [runner_train_mujoco] Average cumulative reward after 150 steps: 1.6275397328465533
+[2022-11-23 23:42:18,818] [INFO] [runner_train_mujoco] Average state value: 0.47304909603794415
+[2022-11-23 23:42:18,818] [INFO] [controller] ITERATION NUM: 18
+[2022-11-23 23:42:18,877] [INFO] [controller] EPOCH 1 loss ppo:  -0.01359, loss val: 0.04394
+[2022-11-23 23:42:18,927] [INFO] [controller] EPOCH 2 loss ppo:  -0.04126, loss val: 0.04332
+[2022-11-23 23:42:18,973] [INFO] [controller] EPOCH 3 loss ppo:  -0.05882, loss val: 0.04186
+[2022-11-23 23:42:19,020] [INFO] [controller] EPOCH 4 loss ppo:  -0.07159, loss val: 0.03919
+[2022-11-23 23:42:19,030] [INFO] [runner_train_mujoco] Finished batch.
+[2022-11-23 23:42:19,130] [INFO] [runner_train_mujoco] Starting simulation batch with mujoco.
+[2022-11-23 23:42:19,131] [INFO] [runner_train_mujoco] Environment 0
+[2022-11-23 23:42:28,226] [INFO] [runner_train_mujoco] Environment 1
+[2022-11-23 23:42:35,759] [INFO] [runner_train_mujoco] Environment 2
+[2022-11-23 23:42:43,285] [INFO] [runner_train_mujoco] Environment 3
+[2022-11-23 23:42:50,616] [INFO] [runner_train_mujoco] Environment 4
+[2022-11-23 23:42:58,049] [INFO] [runner_train_mujoco] Environment 5
+[2022-11-23 23:43:06,068] [INFO] [runner_train_mujoco] Environment 6
+[2022-11-23 23:43:14,241] [INFO] [runner_train_mujoco] Environment 7
+[2022-11-23 23:43:22,313] [INFO] [runner_train_mujoco] Environment 8
+[2022-11-23 23:43:30,277] [INFO] [runner_train_mujoco] Environment 9
+[2022-11-23 23:43:38,132] [INFO] [runner_train_mujoco] Average cumulative reward after 150 steps: 1.730170729522132
+[2022-11-23 23:43:38,133] [INFO] [runner_train_mujoco] Average state value: 0.4247295785546303
+[2022-11-23 23:43:38,133] [INFO] [controller] ITERATION NUM: 19
+[2022-11-23 23:43:38,213] [INFO] [controller] EPOCH 1 loss ppo:  -0.01353, loss val: 0.03440
+[2022-11-23 23:43:38,467] [INFO] [controller] EPOCH 2 loss ppo:  -0.04222, loss val: 0.03316
+[2022-11-23 23:43:38,542] [INFO] [controller] EPOCH 3 loss ppo:  -0.06232, loss val: 0.03404
+[2022-11-23 23:43:38,603] [INFO] [controller] EPOCH 4 loss ppo:  -0.07745, loss val: 0.03374
+[2022-11-23 23:43:38,615] [INFO] [runner_train_mujoco] Finished batch.
+[2022-11-23 23:43:38,737] [INFO] [runner_train_mujoco] Starting simulation batch with mujoco.
+[2022-11-23 23:43:38,737] [INFO] [runner_train_mujoco] Environment 0
+[2022-11-23 23:43:47,533] [INFO] [runner_train_mujoco] Environment 1
+[2022-11-23 23:43:55,753] [INFO] [runner_train_mujoco] Environment 2
+[2022-11-23 23:44:04,426] [INFO] [runner_train_mujoco] Environment 3
+[2022-11-23 23:44:12,425] [INFO] [runner_train_mujoco] Environment 4
+[2022-11-23 23:44:20,682] [INFO] [runner_train_mujoco] Environment 5
+[2022-11-23 23:44:28,996] [INFO] [runner_train_mujoco] Environment 6
+[2022-11-23 23:44:37,179] [INFO] [runner_train_mujoco] Environment 7
+[2022-11-23 23:44:45,135] [INFO] [runner_train_mujoco] Environment 8
+[2022-11-23 23:44:53,052] [INFO] [runner_train_mujoco] Environment 9
+[2022-11-23 23:45:01,289] [INFO] [runner_train_mujoco] Average cumulative reward after 150 steps: 2.1848402810898784
+[2022-11-23 23:45:01,289] [INFO] [runner_train_mujoco] Average state value: 0.3757437244156997
+[2022-11-23 23:45:01,289] [INFO] [controller] ITERATION NUM: 20
+[2022-11-23 23:45:01,345] [INFO] [controller] EPOCH 1 loss ppo:  -0.01639, loss val: 0.04135
+[2022-11-23 23:45:01,390] [INFO] [controller] EPOCH 2 loss ppo:  -0.04552, loss val: 0.04141
+[2022-11-23 23:45:01,434] [INFO] [controller] EPOCH 3 loss ppo:  -0.06051, loss val: 0.04102
+[2022-11-23 23:45:01,481] [INFO] [controller] EPOCH 4 loss ppo:  -0.07372, loss val: 0.03993
+[2022-11-23 23:45:01,489] [INFO] [runner_train_mujoco] Finished batch.
+[2022-11-23 23:45:01,579] [INFO] [runner_train_mujoco] Starting simulation batch with mujoco.
+[2022-11-23 23:45:01,579] [INFO] [runner_train_mujoco] Environment 0
+[2022-11-23 23:45:09,940] [INFO] [runner_train_mujoco] Environment 1
+[2022-11-23 23:45:17,773] [INFO] [runner_train_mujoco] Environment 2
+[2022-11-23 23:45:25,647] [INFO] [runner_train_mujoco] Environment 3
+[2022-11-23 23:45:33,376] [INFO] [runner_train_mujoco] Environment 4
+[2022-11-23 23:45:40,888] [INFO] [runner_train_mujoco] Environment 5
+[2022-11-23 23:45:48,596] [INFO] [runner_train_mujoco] Environment 6
+[2022-11-23 23:45:57,497] [INFO] [runner_train_mujoco] Environment 7
+[2022-11-23 23:46:05,323] [INFO] [runner_train_mujoco] Environment 8
+[2022-11-23 23:46:12,776] [INFO] [runner_train_mujoco] Environment 9
+[2022-11-23 23:46:20,337] [INFO] [runner_train_mujoco] Average cumulative reward after 150 steps: 2.15788927000747
+[2022-11-23 23:46:20,337] [INFO] [runner_train_mujoco] Average state value: 0.38726500023404753
+[2022-11-23 23:46:20,337] [INFO] [controller] ITERATION NUM: 21
+[2022-11-23 23:46:20,385] [INFO] [controller] EPOCH 1 loss ppo:  -0.01448, loss val: 0.03125
+[2022-11-23 23:46:20,428] [INFO] [controller] EPOCH 2 loss ppo:  -0.04407, loss val: 0.03288
+[2022-11-23 23:46:20,469] [INFO] [controller] EPOCH 3 loss ppo:  -0.06354, loss val: 0.03268
+[2022-11-23 23:46:20,513] [INFO] [controller] EPOCH 4 loss ppo:  -0.07556, loss val: 0.03168
+[2022-11-23 23:46:20,523] [INFO] [runner_train_mujoco] Finished batch.
+[2022-11-23 23:46:20,628] [INFO] [runner_train_mujoco] Starting simulation batch with mujoco.
+[2022-11-23 23:46:20,628] [INFO] [runner_train_mujoco] Environment 0
+[2022-11-23 23:46:28,789] [INFO] [runner_train_mujoco] Environment 1
+[2022-11-23 23:46:37,084] [INFO] [runner_train_mujoco] Environment 2
+[2022-11-23 23:46:44,754] [INFO] [runner_train_mujoco] Environment 3
+[2022-11-23 23:46:51,854] [INFO] [runner_train_mujoco] Environment 4
+[2022-11-23 23:46:59,028] [INFO] [runner_train_mujoco] Environment 5
+[2022-11-23 23:47:06,582] [INFO] [runner_train_mujoco] Environment 6
+[2022-11-23 23:47:14,156] [INFO] [runner_train_mujoco] Environment 7
+[2022-11-23 23:47:22,299] [INFO] [runner_train_mujoco] Environment 8
+[2022-11-23 23:47:29,955] [INFO] [runner_train_mujoco] Environment 9
+[2022-11-23 23:47:37,196] [INFO] [runner_train_mujoco] Average cumulative reward after 150 steps: 3.015374961580489
+[2022-11-23 23:47:37,196] [INFO] [runner_train_mujoco] Average state value: 0.3956833768039942
+[2022-11-23 23:47:37,196] [INFO] [controller] ITERATION NUM: 22
+[2022-11-23 23:47:37,247] [INFO] [controller] EPOCH 1 loss ppo:  -0.01398, loss val: 0.03503
+[2022-11-23 23:47:37,288] [INFO] [controller] EPOCH 2 loss ppo:  -0.04023, loss val: 0.03399
+[2022-11-23 23:47:37,328] [INFO] [controller] EPOCH 3 loss ppo:  -0.06262, loss val: 0.03224
+[2022-11-23 23:47:37,364] [INFO] [controller] EPOCH 4 loss ppo:  -0.07465, loss val: 0.03452
+[2022-11-23 23:47:37,373] [INFO] [runner_train_mujoco] Finished batch.
+[2022-11-23 23:47:37,467] [INFO] [runner_train_mujoco] Starting simulation batch with mujoco.
+[2022-11-23 23:47:37,467] [INFO] [runner_train_mujoco] Environment 0
+[2022-11-23 23:47:45,506] [INFO] [runner_train_mujoco] Environment 1
+[2022-11-23 23:47:52,851] [INFO] [runner_train_mujoco] Environment 2
+[2022-11-23 23:48:01,158] [INFO] [runner_train_mujoco] Environment 3
+[2022-11-23 23:48:08,271] [INFO] [runner_train_mujoco] Environment 4
+[2022-11-23 23:48:15,832] [INFO] [runner_train_mujoco] Environment 5
+[2022-11-23 23:48:23,427] [INFO] [runner_train_mujoco] Environment 6
+[2022-11-23 23:48:30,813] [INFO] [runner_train_mujoco] Environment 7
+[2022-11-23 23:48:38,029] [INFO] [runner_train_mujoco] Environment 8
+[2022-11-23 23:48:44,996] [INFO] [runner_train_mujoco] Environment 9
+[2022-11-23 23:48:51,904] [INFO] [runner_train_mujoco] Average cumulative reward after 150 steps: 3.525711034185464
+[2022-11-23 23:48:51,904] [INFO] [runner_train_mujoco] Average state value: 0.3942299628605445
+[2022-11-23 23:48:51,904] [INFO] [controller] ITERATION NUM: 23
+[2022-11-23 23:48:51,962] [INFO] [controller] EPOCH 1 loss ppo:  -0.01766, loss val: 0.04062
+[2022-11-23 23:48:52,003] [INFO] [controller] EPOCH 2 loss ppo:  -0.05088, loss val: 0.04043
+[2022-11-23 23:48:52,044] [INFO] [controller] EPOCH 3 loss ppo:  -0.06714, loss val: 0.04541
+[2022-11-23 23:48:52,087] [INFO] [controller] EPOCH 4 loss ppo:  -0.08124, loss val: 0.04007
+[2022-11-23 23:48:52,096] [INFO] [runner_train_mujoco] Finished batch.
+[2022-11-23 23:48:52,192] [INFO] [runner_train_mujoco] Starting simulation batch with mujoco.
+[2022-11-23 23:48:52,193] [INFO] [runner_train_mujoco] Environment 0
+[2022-11-23 23:49:00,203] [INFO] [runner_train_mujoco] Environment 1
+[2022-11-23 23:49:07,334] [INFO] [runner_train_mujoco] Environment 2
+[2022-11-23 23:49:15,878] [INFO] [runner_train_mujoco] Environment 3
+[2022-11-23 23:49:22,890] [INFO] [runner_train_mujoco] Environment 4
+[2022-11-23 23:49:29,723] [INFO] [runner_train_mujoco] Environment 5
+[2022-11-23 23:49:36,901] [INFO] [runner_train_mujoco] Environment 6
+[2022-11-23 23:49:44,193] [INFO] [runner_train_mujoco] Environment 7
+[2022-11-23 23:49:51,660] [INFO] [runner_train_mujoco] Environment 8
+[2022-11-23 23:49:58,672] [INFO] [runner_train_mujoco] Environment 9
+[2022-11-23 23:50:06,465] [INFO] [runner_train_mujoco] Average cumulative reward after 150 steps: 3.690911351970157
+[2022-11-23 23:50:06,466] [INFO] [runner_train_mujoco] Average state value: 0.3897321588496367
+[2022-11-23 23:50:06,466] [INFO] [controller] ITERATION NUM: 24
+[2022-11-23 23:50:06,514] [INFO] [controller] EPOCH 1 loss ppo:  -0.01469, loss val: 0.04055
+[2022-11-23 23:50:06,553] [INFO] [controller] EPOCH 2 loss ppo:  -0.04534, loss val: 0.04200
+[2022-11-23 23:50:06,594] [INFO] [controller] EPOCH 3 loss ppo:  -0.06586, loss val: 0.04183
+[2022-11-23 23:50:06,633] [INFO] [controller] EPOCH 4 loss ppo:  -0.08161, loss val: 0.04087
+[2022-11-23 23:50:06,642] [INFO] [runner_train_mujoco] Finished batch.
+[2022-11-23 23:50:06,741] [INFO] [runner_train_mujoco] Starting simulation batch with mujoco.
+[2022-11-23 23:50:06,742] [INFO] [runner_train_mujoco] Environment 0
+[2022-11-23 23:50:14,837] [INFO] [runner_train_mujoco] Environment 1
+[2022-11-23 23:50:22,512] [INFO] [runner_train_mujoco] Environment 2
+[2022-11-23 23:50:29,689] [INFO] [runner_train_mujoco] Environment 3
+[2022-11-23 23:50:36,783] [INFO] [runner_train_mujoco] Environment 4
+[2022-11-23 23:50:44,252] [INFO] [runner_train_mujoco] Environment 5
+[2022-11-23 23:50:51,744] [INFO] [runner_train_mujoco] Environment 6
+[2022-11-23 23:50:59,210] [INFO] [runner_train_mujoco] Environment 7
+[2022-11-23 23:51:06,747] [INFO] [runner_train_mujoco] Environment 8
+[2022-11-23 23:51:14,234] [INFO] [runner_train_mujoco] Environment 9
+[2022-11-23 23:51:21,639] [INFO] [runner_train_mujoco] Average cumulative reward after 150 steps: 5.319840149229541
+[2022-11-23 23:51:21,639] [INFO] [runner_train_mujoco] Average state value: 0.3919793264269829
+[2022-11-23 23:51:21,639] [INFO] [controller] ITERATION NUM: 25
+[2022-11-23 23:51:21,690] [INFO] [controller] EPOCH 1 loss ppo:  -0.01442, loss val: 0.04582
+[2022-11-23 23:51:21,733] [INFO] [controller] EPOCH 2 loss ppo:  -0.04455, loss val: 0.04592
+[2022-11-23 23:51:21,776] [INFO] [controller] EPOCH 3 loss ppo:  -0.06240, loss val: 0.04556
+[2022-11-23 23:51:21,819] [INFO] [controller] EPOCH 4 loss ppo:  -0.07784, loss val: 0.04537
+[2022-11-23 23:51:21,828] [INFO] [runner_train_mujoco] Finished batch.
+[2022-11-23 23:51:21,910] [INFO] [runner_train_mujoco] Starting simulation batch with mujoco.
+[2022-11-23 23:51:21,910] [INFO] [runner_train_mujoco] Environment 0
+[2022-11-23 23:51:29,935] [INFO] [runner_train_mujoco] Environment 1
+[2022-11-23 23:51:38,382] [INFO] [runner_train_mujoco] Environment 2
+[2022-11-23 23:51:46,090] [INFO] [runner_train_mujoco] Environment 3
+[2022-11-23 23:51:53,412] [INFO] [runner_train_mujoco] Environment 4
+[2022-11-23 23:52:01,369] [INFO] [runner_train_mujoco] Environment 5
+[2022-11-23 23:52:10,147] [INFO] [runner_train_mujoco] Environment 6
+[2022-11-23 23:52:18,049] [INFO] [runner_train_mujoco] Environment 7
+[2022-11-23 23:52:26,279] [INFO] [runner_train_mujoco] Environment 8
+[2022-11-23 23:52:33,995] [INFO] [runner_train_mujoco] Environment 9
+[2022-11-23 23:52:41,616] [INFO] [runner_train_mujoco] Average cumulative reward after 150 steps: 4.89494680533654
+[2022-11-23 23:52:41,616] [INFO] [runner_train_mujoco] Average state value: 0.412487862120072
+[2022-11-23 23:52:41,617] [INFO] [controller] ITERATION NUM: 26
+[2022-11-23 23:52:41,670] [INFO] [controller] EPOCH 1 loss ppo:  -0.01525, loss val: 0.04536
+[2022-11-23 23:52:41,714] [INFO] [controller] EPOCH 2 loss ppo:  -0.04099, loss val: 0.04780
+[2022-11-23 23:52:41,751] [INFO] [controller] EPOCH 3 loss ppo:  -0.05834, loss val: 0.04284
+[2022-11-23 23:52:41,793] [INFO] [controller] EPOCH 4 loss ppo:  -0.07513, loss val: 0.04276
+[2022-11-23 23:52:41,804] [INFO] [runner_train_mujoco] Finished batch.
+[2022-11-23 23:52:41,902] [INFO] [runner_train_mujoco] Starting simulation batch with mujoco.
+[2022-11-23 23:52:41,903] [INFO] [runner_train_mujoco] Environment 0
+[2022-11-23 23:52:49,738] [INFO] [runner_train_mujoco] Environment 1
+[2022-11-23 23:52:57,161] [INFO] [runner_train_mujoco] Environment 2
+[2022-11-23 23:53:04,890] [INFO] [runner_train_mujoco] Environment 3
+[2022-11-23 23:53:13,120] [INFO] [runner_train_mujoco] Environment 4
+[2022-11-23 23:53:21,121] [INFO] [runner_train_mujoco] Environment 5
+[2022-11-23 23:53:29,709] [INFO] [runner_train_mujoco] Environment 6
+[2022-11-23 23:53:36,893] [INFO] [runner_train_mujoco] Environment 7
+[2022-11-23 23:53:43,825] [INFO] [runner_train_mujoco] Environment 8
+[2022-11-23 23:53:51,221] [INFO] [runner_train_mujoco] Environment 9
+[2022-11-23 23:53:58,155] [INFO] [runner_train_mujoco] Average cumulative reward after 150 steps: 5.18537997963338
+[2022-11-23 23:53:58,156] [INFO] [runner_train_mujoco] Average state value: 0.39133224355181057
+[2022-11-23 23:53:58,156] [INFO] [controller] ITERATION NUM: 27
+[2022-11-23 23:53:58,217] [INFO] [controller] EPOCH 1 loss ppo:  -0.01593, loss val: 0.03662
+[2022-11-23 23:53:58,261] [INFO] [controller] EPOCH 2 loss ppo:  -0.04633, loss val: 0.03797
+[2022-11-23 23:53:58,309] [INFO] [controller] EPOCH 3 loss ppo:  -0.06306, loss val: 0.03704
+[2022-11-23 23:53:58,527] [INFO] [controller] EPOCH 4 loss ppo:  -0.07974, loss val: 0.03716
+[2022-11-23 23:53:58,540] [INFO] [runner_train_mujoco] Finished batch.
+[2022-11-23 23:53:58,649] [INFO] [runner_train_mujoco] Starting simulation batch with mujoco.
+[2022-11-23 23:53:58,650] [INFO] [runner_train_mujoco] Environment 0
+[2022-11-23 23:54:06,656] [INFO] [runner_train_mujoco] Environment 1
+[2022-11-23 23:54:13,931] [INFO] [runner_train_mujoco] Environment 2
+[2022-11-23 23:54:21,573] [INFO] [runner_train_mujoco] Environment 3
+[2022-11-23 23:54:28,819] [INFO] [runner_train_mujoco] Environment 4
+[2022-11-23 23:54:35,763] [INFO] [runner_train_mujoco] Environment 5
+[2022-11-23 23:54:42,979] [INFO] [runner_train_mujoco] Environment 6
+[2022-11-23 23:54:51,459] [INFO] [runner_train_mujoco] Environment 7
+[2022-11-23 23:54:59,368] [INFO] [runner_train_mujoco] Environment 8
+[2022-11-23 23:55:06,474] [INFO] [runner_train_mujoco] Environment 9
+[2022-11-23 23:55:13,506] [INFO] [runner_train_mujoco] Average cumulative reward after 150 steps: 5.289913383891978
+[2022-11-23 23:55:13,506] [INFO] [runner_train_mujoco] Average state value: 0.369402006516854
+[2022-11-23 23:55:13,506] [INFO] [controller] ITERATION NUM: 28
+[2022-11-23 23:55:13,554] [INFO] [controller] EPOCH 1 loss ppo:  -0.01428, loss val: 0.05073
+[2022-11-23 23:55:13,596] [INFO] [controller] EPOCH 2 loss ppo:  -0.04110, loss val: 0.04887
+[2022-11-23 23:55:13,638] [INFO] [controller] EPOCH 3 loss ppo:  -0.05786, loss val: 0.05022
+[2022-11-23 23:55:13,674] [INFO] [controller] EPOCH 4 loss ppo:  -0.07184, loss val: 0.04847
+[2022-11-23 23:55:13,684] [INFO] [runner_train_mujoco] Finished batch.
+[2022-11-23 23:55:13,778] [INFO] [runner_train_mujoco] Starting simulation batch with mujoco.
+[2022-11-23 23:55:13,778] [INFO] [runner_train_mujoco] Environment 0
+[2022-11-23 23:55:21,084] [INFO] [runner_train_mujoco] Environment 1
+[2022-11-23 23:55:28,041] [INFO] [runner_train_mujoco] Environment 2
+[2022-11-23 23:55:36,254] [INFO] [runner_train_mujoco] Environment 3
+[2022-11-23 23:55:43,523] [INFO] [runner_train_mujoco] Environment 4
+[2022-11-23 23:55:50,389] [INFO] [runner_train_mujoco] Environment 5
+[2022-11-23 23:55:57,431] [INFO] [runner_train_mujoco] Environment 6
+[2022-11-23 23:56:05,046] [INFO] [runner_train_mujoco] Environment 7
+[2022-11-23 23:56:12,527] [INFO] [runner_train_mujoco] Environment 8
+[2022-11-23 23:56:19,693] [INFO] [runner_train_mujoco] Environment 9
+[2022-11-23 23:56:26,176] [INFO] [runner_train_mujoco] Average cumulative reward after 150 steps: 5.452521951634689
+[2022-11-23 23:56:26,176] [INFO] [runner_train_mujoco] Average state value: 0.38218643958866594
+[2022-11-23 23:56:26,176] [INFO] [controller] ITERATION NUM: 29
+[2022-11-23 23:56:26,226] [INFO] [controller] EPOCH 1 loss ppo:  -0.01313, loss val: 0.02840
+[2022-11-23 23:56:26,266] [INFO] [controller] EPOCH 2 loss ppo:  -0.03687, loss val: 0.02917
+[2022-11-23 23:56:26,310] [INFO] [controller] EPOCH 3 loss ppo:  -0.05818, loss val: 0.02941
+[2022-11-23 23:56:26,346] [INFO] [controller] EPOCH 4 loss ppo:  -0.06937, loss val: 0.02926
+[2022-11-23 23:56:26,354] [INFO] [runner_train_mujoco] Finished batch.
+[2022-11-23 23:56:26,445] [INFO] [runner_train_mujoco] Starting simulation batch with mujoco.
+[2022-11-23 23:56:26,445] [INFO] [runner_train_mujoco] Environment 0
+[2022-11-23 23:56:33,328] [INFO] [runner_train_mujoco] Environment 1
+[2022-11-23 23:56:40,209] [INFO] [runner_train_mujoco] Environment 2
+[2022-11-23 23:56:47,442] [INFO] [runner_train_mujoco] Environment 3
+[2022-11-23 23:56:54,616] [INFO] [runner_train_mujoco] Environment 4
+[2022-11-23 23:57:01,761] [INFO] [runner_train_mujoco] Environment 5
+[2022-11-23 23:57:08,159] [INFO] [runner_train_mujoco] Environment 6
+[2022-11-23 23:57:15,324] [INFO] [runner_train_mujoco] Environment 7
+[2022-11-23 23:57:22,420] [INFO] [runner_train_mujoco] Environment 8
+[2022-11-23 23:57:29,722] [INFO] [runner_train_mujoco] Environment 9
+[2022-11-23 23:57:36,838] [INFO] [runner_train_mujoco] Average cumulative reward after 150 steps: 6.320496934227207
+[2022-11-23 23:57:36,838] [INFO] [runner_train_mujoco] Average state value: 0.3827908203899861
+[2022-11-23 23:57:36,838] [INFO] [controller] ITERATION NUM: 30
+[2022-11-23 23:57:36,887] [INFO] [controller] EPOCH 1 loss ppo:  -0.01391, loss val: 0.05410
+[2022-11-23 23:57:36,927] [INFO] [controller] EPOCH 2 loss ppo:  -0.02953, loss val: 0.05200
+[2022-11-23 23:57:36,969] [INFO] [controller] EPOCH 3 loss ppo:  -0.04480, loss val: 0.04728
+[2022-11-23 23:57:37,010] [INFO] [controller] EPOCH 4 loss ppo:  -0.05872, loss val: 0.04416
+[2022-11-23 23:57:37,019] [INFO] [runner_train_mujoco] Finished batch.
+[2022-11-23 23:57:37,106] [INFO] [runner_train_mujoco] Starting simulation batch with mujoco.
+[2022-11-23 23:57:37,114] [INFO] [runner_train_mujoco] Environment 0
+[2022-11-23 23:57:44,388] [INFO] [runner_train_mujoco] Environment 1
+[2022-11-23 23:57:51,660] [INFO] [runner_train_mujoco] Environment 2
+[2022-11-23 23:57:58,509] [INFO] [runner_train_mujoco] Environment 3
+[2022-11-23 23:58:05,754] [INFO] [runner_train_mujoco] Environment 4
+[2022-11-23 23:58:12,575] [INFO] [runner_train_mujoco] Environment 5
+[2022-11-23 23:58:19,129] [INFO] [runner_train_mujoco] Environment 6
+[2022-11-23 23:58:26,430] [INFO] [runner_train_mujoco] Environment 7
+[2022-11-23 23:58:33,348] [INFO] [runner_train_mujoco] Environment 8
+[2022-11-23 23:58:40,607] [INFO] [runner_train_mujoco] Environment 9
+[2022-11-23 23:58:47,767] [INFO] [runner_train_mujoco] Average cumulative reward after 150 steps: 5.580185873086383
+[2022-11-23 23:58:47,767] [INFO] [runner_train_mujoco] Average state value: 0.4367825768093268
+[2022-11-23 23:58:47,767] [INFO] [controller] ITERATION NUM: 31
+[2022-11-23 23:58:47,818] [INFO] [controller] EPOCH 1 loss ppo:  -0.01435, loss val: 0.07052
+[2022-11-23 23:58:47,864] [INFO] [controller] EPOCH 2 loss ppo:  -0.03271, loss val: 0.06098
+[2022-11-23 23:58:47,980] [INFO] [controller] EPOCH 3 loss ppo:  -0.04548, loss val: 0.05238
+[2022-11-23 23:58:48,023] [INFO] [controller] EPOCH 4 loss ppo:  -0.06084, loss val: 0.04575
+[2022-11-23 23:58:48,033] [INFO] [runner_train_mujoco] Finished batch.
+[2022-11-23 23:58:48,126] [INFO] [runner_train_mujoco] Starting simulation batch with mujoco.
+[2022-11-23 23:58:48,127] [INFO] [runner_train_mujoco] Environment 0
+[2022-11-23 23:58:55,006] [INFO] [runner_train_mujoco] Environment 1
+[2022-11-23 23:59:02,215] [INFO] [runner_train_mujoco] Environment 2
+[2022-11-23 23:59:08,501] [INFO] [runner_train_mujoco] Environment 3
+[2022-11-23 23:59:15,479] [INFO] [runner_train_mujoco] Environment 4
+[2022-11-23 23:59:22,388] [INFO] [runner_train_mujoco] Environment 5
+[2022-11-23 23:59:29,269] [INFO] [runner_train_mujoco] Environment 6
+[2022-11-23 23:59:36,610] [INFO] [runner_train_mujoco] Environment 7
+[2022-11-23 23:59:43,845] [INFO] [runner_train_mujoco] Environment 8
+[2022-11-23 23:59:50,798] [INFO] [runner_train_mujoco] Environment 9
+[2022-11-23 23:59:57,471] [INFO] [runner_train_mujoco] Average cumulative reward after 150 steps: 6.63485501010585
+[2022-11-23 23:59:57,471] [INFO] [runner_train_mujoco] Average state value: 0.5491767991185189
+[2022-11-23 23:59:57,471] [INFO] [controller] ITERATION NUM: 32
+[2022-11-23 23:59:57,519] [INFO] [controller] EPOCH 1 loss ppo:  -0.01398, loss val: 0.06779
+[2022-11-23 23:59:57,559] [INFO] [controller] EPOCH 2 loss ppo:  -0.03605, loss val: 0.07507
+[2022-11-23 23:59:57,601] [INFO] [controller] EPOCH 3 loss ppo:  -0.05327, loss val: 0.07665
+[2022-11-23 23:59:57,647] [INFO] [controller] EPOCH 4 loss ppo:  -0.06732, loss val: 0.07398
+[2022-11-23 23:59:57,659] [INFO] [runner_train_mujoco] Finished batch.
+[2022-11-23 23:59:57,744] [INFO] [runner_train_mujoco] Starting simulation batch with mujoco.
+[2022-11-23 23:59:57,744] [INFO] [runner_train_mujoco] Environment 0
+[2022-11-24 00:00:05,327] [INFO] [runner_train_mujoco] Environment 1
+[2022-11-24 00:00:12,020] [INFO] [runner_train_mujoco] Environment 2
+[2022-11-24 00:00:18,767] [INFO] [runner_train_mujoco] Environment 3
+[2022-11-24 00:00:25,498] [INFO] [runner_train_mujoco] Environment 4
+[2022-11-24 00:00:32,636] [INFO] [runner_train_mujoco] Environment 5
+[2022-11-24 00:00:39,490] [INFO] [runner_train_mujoco] Environment 6
+[2022-11-24 00:00:46,456] [INFO] [runner_train_mujoco] Environment 7
+[2022-11-24 00:00:53,363] [INFO] [runner_train_mujoco] Environment 8
+[2022-11-24 00:01:00,589] [INFO] [runner_train_mujoco] Environment 9
+[2022-11-24 00:01:07,379] [INFO] [runner_train_mujoco] Average cumulative reward after 150 steps: 6.498801146754761
+[2022-11-24 00:01:07,379] [INFO] [runner_train_mujoco] Average state value: 0.5138782518145939
+[2022-11-24 00:01:07,379] [INFO] [controller] ITERATION NUM: 33
+[2022-11-24 00:01:07,431] [INFO] [controller] EPOCH 1 loss ppo:  -0.01372, loss val: 0.07996
+[2022-11-24 00:01:07,474] [INFO] [controller] EPOCH 2 loss ppo:  -0.03742, loss val: 0.07494
+[2022-11-24 00:01:07,518] [INFO] [controller] EPOCH 3 loss ppo:  -0.05491, loss val: 0.06838
+[2022-11-24 00:01:07,562] [INFO] [controller] EPOCH 4 loss ppo:  -0.06866, loss val: 0.07174
+[2022-11-24 00:01:07,573] [INFO] [runner_train_mujoco] Finished batch.
+[2022-11-24 00:01:07,666] [INFO] [runner_train_mujoco] Starting simulation batch with mujoco.
+[2022-11-24 00:01:07,667] [INFO] [runner_train_mujoco] Environment 0
+[2022-11-24 00:01:14,763] [INFO] [runner_train_mujoco] Environment 1
+[2022-11-24 00:01:21,829] [INFO] [runner_train_mujoco] Environment 2
+[2022-11-24 00:01:28,768] [INFO] [runner_train_mujoco] Environment 3
+[2022-11-24 00:01:35,224] [INFO] [runner_train_mujoco] Environment 4
+[2022-11-24 00:01:42,380] [INFO] [runner_train_mujoco] Environment 5
+[2022-11-24 00:01:49,061] [INFO] [runner_train_mujoco] Environment 6
+[2022-11-24 00:01:58,450] [INFO] [runner_train_mujoco] Environment 7
+[2022-11-24 00:02:05,380] [INFO] [runner_train_mujoco] Environment 8
+[2022-11-24 00:02:11,969] [INFO] [runner_train_mujoco] Environment 9
+[2022-11-24 00:02:18,429] [INFO] [runner_train_mujoco] Average cumulative reward after 150 steps: 6.7172886729454975
+[2022-11-24 00:02:18,430] [INFO] [runner_train_mujoco] Average state value: 0.4990685435036818
+[2022-11-24 00:02:18,430] [INFO] [controller] ITERATION NUM: 34
+[2022-11-24 00:02:18,482] [INFO] [controller] EPOCH 1 loss ppo:  -0.01485, loss val: 0.06768
+[2022-11-24 00:02:18,520] [INFO] [controller] EPOCH 2 loss ppo:  -0.03645, loss val: 0.06343
+[2022-11-24 00:02:18,557] [INFO] [controller] EPOCH 3 loss ppo:  -0.05700, loss val: 0.06160
+[2022-11-24 00:02:18,598] [INFO] [controller] EPOCH 4 loss ppo:  -0.07238, loss val: 0.05912
+[2022-11-24 00:02:18,607] [INFO] [runner_train_mujoco] Finished batch.
+[2022-11-24 00:02:18,688] [INFO] [runner_train_mujoco] Starting simulation batch with mujoco.
+[2022-11-24 00:02:18,688] [INFO] [runner_train_mujoco] Environment 0
+[2022-11-24 00:02:25,148] [INFO] [runner_train_mujoco] Environment 1
+[2022-11-24 00:02:31,362] [INFO] [runner_train_mujoco] Environment 2
+[2022-11-24 00:02:37,870] [INFO] [runner_train_mujoco] Environment 3
+[2022-11-24 00:02:43,945] [INFO] [runner_train_mujoco] Environment 4
+[2022-11-24 00:02:50,615] [INFO] [runner_train_mujoco] Environment 5
+[2022-11-24 00:02:56,966] [INFO] [runner_train_mujoco] Environment 6
+[2022-11-24 00:03:03,455] [INFO] [runner_train_mujoco] Environment 7
+[2022-11-24 00:03:09,509] [INFO] [runner_train_mujoco] Environment 8
+[2022-11-24 00:03:15,456] [INFO] [runner_train_mujoco] Environment 9
+[2022-11-24 00:03:21,859] [INFO] [runner_train_mujoco] Average cumulative reward after 150 steps: 6.7551727591659185
+[2022-11-24 00:03:21,859] [INFO] [runner_train_mujoco] Average state value: 0.41459023123979566
+[2022-11-24 00:03:21,859] [INFO] [controller] ITERATION NUM: 35
+[2022-11-24 00:03:21,905] [INFO] [controller] EPOCH 1 loss ppo:  -0.01465, loss val: 0.03617
+[2022-11-24 00:03:21,944] [INFO] [controller] EPOCH 2 loss ppo:  -0.04014, loss val: 0.03611
+[2022-11-24 00:03:21,985] [INFO] [controller] EPOCH 3 loss ppo:  -0.05792, loss val: 0.03704
+[2022-11-24 00:03:22,025] [INFO] [controller] EPOCH 4 loss ppo:  -0.07304, loss val: 0.03684
+[2022-11-24 00:03:22,034] [INFO] [runner_train_mujoco] Finished batch.
+[2022-11-24 00:03:22,126] [INFO] [runner_train_mujoco] Starting simulation batch with mujoco.
+[2022-11-24 00:03:22,127] [INFO] [runner_train_mujoco] Environment 0
+[2022-11-24 00:03:28,749] [INFO] [runner_train_mujoco] Environment 1
+[2022-11-24 00:03:35,117] [INFO] [runner_train_mujoco] Environment 2
+[2022-11-24 00:03:41,124] [INFO] [runner_train_mujoco] Environment 3
+[2022-11-24 00:03:47,088] [INFO] [runner_train_mujoco] Environment 4
+[2022-11-24 00:03:53,068] [INFO] [runner_train_mujoco] Environment 5
+[2022-11-24 00:03:59,686] [INFO] [runner_train_mujoco] Environment 6
+[2022-11-24 00:04:06,161] [INFO] [runner_train_mujoco] Environment 7
+[2022-11-24 00:04:12,498] [INFO] [runner_train_mujoco] Environment 8
+[2022-11-24 00:04:18,790] [INFO] [runner_train_mujoco] Environment 9
+[2022-11-24 00:04:25,668] [INFO] [runner_train_mujoco] Average cumulative reward after 150 steps: 6.737241399436343
+[2022-11-24 00:04:25,668] [INFO] [runner_train_mujoco] Average state value: 0.38435146335760756
+[2022-11-24 00:04:25,668] [INFO] [controller] ITERATION NUM: 36
+[2022-11-24 00:04:25,707] [INFO] [controller] EPOCH 1 loss ppo:  -0.01366, loss val: 0.04741
+[2022-11-24 00:04:25,744] [INFO] [controller] EPOCH 2 loss ppo:  -0.02885, loss val: 0.04631
+[2022-11-24 00:04:25,784] [INFO] [controller] EPOCH 3 loss ppo:  -0.04440, loss val: 0.04458
+[2022-11-24 00:04:25,818] [INFO] [controller] EPOCH 4 loss ppo:  -0.05644, loss val: 0.04223
+[2022-11-24 00:04:25,824] [INFO] [runner_train_mujoco] Finished batch.
+[2022-11-24 00:04:25,899] [INFO] [runner_train_mujoco] Starting simulation batch with mujoco.
+[2022-11-24 00:04:25,899] [INFO] [runner_train_mujoco] Environment 0
+[2022-11-24 00:04:32,142] [INFO] [runner_train_mujoco] Environment 1
+[2022-11-24 00:04:38,483] [INFO] [runner_train_mujoco] Environment 2
+[2022-11-24 00:04:44,458] [INFO] [runner_train_mujoco] Environment 3
+[2022-11-24 00:04:50,396] [INFO] [runner_train_mujoco] Environment 4
+[2022-11-24 00:04:56,491] [INFO] [runner_train_mujoco] Environment 5
+[2022-11-24 00:05:02,850] [INFO] [runner_train_mujoco] Environment 6
+[2022-11-24 00:05:09,444] [INFO] [runner_train_mujoco] Environment 7
+[2022-11-24 00:05:15,851] [INFO] [runner_train_mujoco] Environment 8
+[2022-11-24 00:05:22,428] [INFO] [runner_train_mujoco] Environment 9
+[2022-11-24 00:05:28,448] [INFO] [runner_train_mujoco] Average cumulative reward after 150 steps: 6.7445461830010585
+[2022-11-24 00:05:28,448] [INFO] [runner_train_mujoco] Average state value: 0.41477801227817934
+[2022-11-24 00:05:28,448] [INFO] [controller] ITERATION NUM: 37
+[2022-11-24 00:05:28,496] [INFO] [controller] EPOCH 1 loss ppo:  -0.01475, loss val: 0.04630
+[2022-11-24 00:05:28,536] [INFO] [controller] EPOCH 2 loss ppo:  -0.03923, loss val: 0.04959
+[2022-11-24 00:05:28,577] [INFO] [controller] EPOCH 3 loss ppo:  -0.05687, loss val: 0.04382
+[2022-11-24 00:05:28,617] [INFO] [controller] EPOCH 4 loss ppo:  -0.07019, loss val: 0.04173
+[2022-11-24 00:05:28,626] [INFO] [runner_train_mujoco] Finished batch.
+[2022-11-24 00:05:28,714] [INFO] [runner_train_mujoco] Starting simulation batch with mujoco.
+[2022-11-24 00:05:28,714] [INFO] [runner_train_mujoco] Environment 0
+[2022-11-24 00:05:35,279] [INFO] [runner_train_mujoco] Environment 1
+[2022-11-24 00:05:42,494] [INFO] [runner_train_mujoco] Environment 2
+[2022-11-24 00:05:48,390] [INFO] [runner_train_mujoco] Environment 3
+[2022-11-24 00:05:54,380] [INFO] [runner_train_mujoco] Environment 4
+[2022-11-24 00:06:00,193] [INFO] [runner_train_mujoco] Environment 5
+[2022-11-24 00:06:06,073] [INFO] [runner_train_mujoco] Environment 6
+[2022-11-24 00:06:12,994] [INFO] [runner_train_mujoco] Environment 7
+[2022-11-24 00:06:19,330] [INFO] [runner_train_mujoco] Environment 8
+[2022-11-24 00:06:25,462] [INFO] [runner_train_mujoco] Environment 9
+[2022-11-24 00:06:31,774] [INFO] [runner_train_mujoco] Average cumulative reward after 150 steps: 6.921752472642579
+[2022-11-24 00:06:31,774] [INFO] [runner_train_mujoco] Average state value: 0.4821518438657125
+[2022-11-24 00:06:31,774] [INFO] [controller] ITERATION NUM: 38
+[2022-11-24 00:06:31,825] [INFO] [controller] EPOCH 1 loss ppo:  -0.01237, loss val: 0.04227
+[2022-11-24 00:06:31,871] [INFO] [controller] EPOCH 2 loss ppo:  -0.03326, loss val: 0.04167
+[2022-11-24 00:06:31,913] [INFO] [controller] EPOCH 3 loss ppo:  -0.05126, loss val: 0.04225
+[2022-11-24 00:06:31,954] [INFO] [controller] EPOCH 4 loss ppo:  -0.06568, loss val: 0.04209
+[2022-11-24 00:06:31,963] [INFO] [runner_train_mujoco] Finished batch.
+[2022-11-24 00:06:32,042] [INFO] [runner_train_mujoco] Starting simulation batch with mujoco.
+[2022-11-24 00:06:32,042] [INFO] [runner_train_mujoco] Environment 0
+[2022-11-24 00:06:38,833] [INFO] [runner_train_mujoco] Environment 1
+[2022-11-24 00:06:45,063] [INFO] [runner_train_mujoco] Environment 2
+[2022-11-24 00:06:51,130] [INFO] [runner_train_mujoco] Environment 3
+[2022-11-24 00:06:57,058] [INFO] [runner_train_mujoco] Environment 4
+[2022-11-24 00:07:03,109] [INFO] [runner_train_mujoco] Environment 5
+[2022-11-24 00:07:09,047] [INFO] [runner_train_mujoco] Environment 6
+[2022-11-24 00:07:16,219] [INFO] [runner_train_mujoco] Environment 7
+[2022-11-24 00:07:22,805] [INFO] [runner_train_mujoco] Environment 8
+[2022-11-24 00:07:29,220] [INFO] [runner_train_mujoco] Environment 9
+[2022-11-24 00:07:35,246] [INFO] [runner_train_mujoco] Average cumulative reward after 150 steps: 7.215078851818355
+[2022-11-24 00:07:35,246] [INFO] [runner_train_mujoco] Average state value: 0.5091739565432072
+[2022-11-24 00:07:35,247] [INFO] [controller] ITERATION NUM: 39
+[2022-11-24 00:07:35,286] [INFO] [controller] EPOCH 1 loss ppo:  -0.01603, loss val: 0.04747
+[2022-11-24 00:07:35,321] [INFO] [controller] EPOCH 2 loss ppo:  -0.03805, loss val: 0.04687
+[2022-11-24 00:07:35,362] [INFO] [controller] EPOCH 3 loss ppo:  -0.05082, loss val: 0.04591
+[2022-11-24 00:07:35,401] [INFO] [controller] EPOCH 4 loss ppo:  -0.06510, loss val: 0.04446
+[2022-11-24 00:07:35,407] [INFO] [runner_train_mujoco] Finished batch.
+[2022-11-24 00:07:35,472] [INFO] [runner_train_mujoco] Starting simulation batch with mujoco.
+[2022-11-24 00:07:35,472] [INFO] [runner_train_mujoco] Environment 0
+[2022-11-24 00:07:41,627] [INFO] [runner_train_mujoco] Environment 1
+[2022-11-24 00:07:48,551] [INFO] [runner_train_mujoco] Environment 2
+[2022-11-24 00:07:54,637] [INFO] [runner_train_mujoco] Environment 3
+[2022-11-24 00:08:00,835] [INFO] [runner_train_mujoco] Environment 4
+[2022-11-24 00:08:06,815] [INFO] [runner_train_mujoco] Environment 5
+[2022-11-24 00:08:12,727] [INFO] [runner_train_mujoco] Environment 6
+[2022-11-24 00:08:18,790] [INFO] [runner_train_mujoco] Environment 7
+[2022-11-24 00:08:25,287] [INFO] [runner_train_mujoco] Environment 8
+[2022-11-24 00:08:32,231] [INFO] [runner_train_mujoco] Environment 9
+[2022-11-24 00:08:38,359] [INFO] [runner_train_mujoco] Average cumulative reward after 150 steps: 7.266892562632213
+[2022-11-24 00:08:38,359] [INFO] [runner_train_mujoco] Average state value: 0.4803553875982761
+[2022-11-24 00:08:38,359] [INFO] [controller] ITERATION NUM: 40
+[2022-11-24 00:08:38,406] [INFO] [controller] EPOCH 1 loss ppo:  -0.01482, loss val: 0.04995
+[2022-11-24 00:08:38,440] [INFO] [controller] EPOCH 2 loss ppo:  -0.03647, loss val: 0.04715
+[2022-11-24 00:08:38,474] [INFO] [controller] EPOCH 3 loss ppo:  -0.05131, loss val: 0.04639
+[2022-11-24 00:08:38,514] [INFO] [controller] EPOCH 4 loss ppo:  -0.06348, loss val: 0.04652
+[2022-11-24 00:08:38,523] [INFO] [runner_train_mujoco] Finished batch.
+[2022-11-24 00:08:38,607] [INFO] [runner_train_mujoco] Starting simulation batch with mujoco.
+[2022-11-24 00:08:38,607] [INFO] [runner_train_mujoco] Environment 0
+[2022-11-24 00:08:45,077] [INFO] [runner_train_mujoco] Environment 1
+[2022-11-24 00:08:51,525] [INFO] [runner_train_mujoco] Environment 2
+[2022-11-24 00:08:57,771] [INFO] [runner_train_mujoco] Environment 3
+[2022-11-24 00:09:05,206] [INFO] [runner_train_mujoco] Environment 4
+[2022-11-24 00:09:11,219] [INFO] [runner_train_mujoco] Environment 5
+[2022-11-24 00:09:17,260] [INFO] [runner_train_mujoco] Environment 6
+[2022-11-24 00:09:23,647] [INFO] [runner_train_mujoco] Environment 7
+[2022-11-24 00:09:30,286] [INFO] [runner_train_mujoco] Environment 8
+[2022-11-24 00:09:36,394] [INFO] [runner_train_mujoco] Environment 9
+[2022-11-24 00:09:42,645] [INFO] [runner_train_mujoco] Average cumulative reward after 150 steps: 7.291933802854845
+[2022-11-24 00:09:42,645] [INFO] [runner_train_mujoco] Average state value: 0.44244434573252994
+[2022-11-24 00:09:42,645] [INFO] [controller] ITERATION NUM: 41
+[2022-11-24 00:09:42,692] [INFO] [controller] EPOCH 1 loss ppo:  -0.01374, loss val: 0.03732
+[2022-11-24 00:09:42,725] [INFO] [controller] EPOCH 2 loss ppo:  -0.03061, loss val: 0.03741
+[2022-11-24 00:09:42,766] [INFO] [controller] EPOCH 3 loss ppo:  -0.04705, loss val: 0.03897
+[2022-11-24 00:09:42,806] [INFO] [controller] EPOCH 4 loss ppo:  -0.06375, loss val: 0.03895
+[2022-11-24 00:09:42,813] [INFO] [runner_train_mujoco] Finished batch.
+[2022-11-24 00:09:42,890] [INFO] [runner_train_mujoco] Starting simulation batch with mujoco.
+[2022-11-24 00:09:42,890] [INFO] [runner_train_mujoco] Environment 0
+[2022-11-24 00:09:49,288] [INFO] [runner_train_mujoco] Environment 1
+[2022-11-24 00:09:55,536] [INFO] [runner_train_mujoco] Environment 2
+[2022-11-24 00:10:01,772] [INFO] [runner_train_mujoco] Environment 3
+[2022-11-24 00:10:08,244] [INFO] [runner_train_mujoco] Environment 4
+[2022-11-24 00:10:14,420] [INFO] [runner_train_mujoco] Environment 5
+[2022-11-24 00:10:20,695] [INFO] [runner_train_mujoco] Environment 6
+[2022-11-24 00:10:26,846] [INFO] [runner_train_mujoco] Environment 7
+[2022-11-24 00:10:33,125] [INFO] [runner_train_mujoco] Environment 8
+[2022-11-24 00:10:39,638] [INFO] [runner_train_mujoco] Environment 9
+[2022-11-24 00:10:45,847] [INFO] [runner_train_mujoco] Average cumulative reward after 150 steps: 7.106719193786515
+[2022-11-24 00:10:45,847] [INFO] [runner_train_mujoco] Average state value: 0.42330690744022526
+[2022-11-24 00:10:45,848] [INFO] [controller] ITERATION NUM: 42
+[2022-11-24 00:10:45,894] [INFO] [controller] EPOCH 1 loss ppo:  -0.01540, loss val: 0.05648
+[2022-11-24 00:10:45,931] [INFO] [controller] EPOCH 2 loss ppo:  -0.03061, loss val: 0.05488
+[2022-11-24 00:10:45,974] [INFO] [controller] EPOCH 3 loss ppo:  -0.04317, loss val: 0.05310
+[2022-11-24 00:10:46,014] [INFO] [controller] EPOCH 4 loss ppo:  -0.05430, loss val: 0.05196
+[2022-11-24 00:10:46,020] [INFO] [runner_train_mujoco] Finished batch.
+[2022-11-24 00:10:46,104] [INFO] [runner_train_mujoco] Starting simulation batch with mujoco.
+[2022-11-24 00:10:46,104] [INFO] [runner_train_mujoco] Environment 0
+[2022-11-24 00:10:52,434] [INFO] [runner_train_mujoco] Environment 1
+[2022-11-24 00:10:59,777] [INFO] [runner_train_mujoco] Environment 2
+[2022-11-24 00:11:06,974] [INFO] [runner_train_mujoco] Environment 3
+[2022-11-24 00:11:14,508] [INFO] [runner_train_mujoco] Environment 4
+[2022-11-24 00:11:21,000] [INFO] [runner_train_mujoco] Environment 5
+[2022-11-24 00:11:28,400] [INFO] [runner_train_mujoco] Environment 6
+[2022-11-24 00:11:34,620] [INFO] [runner_train_mujoco] Environment 7
+[2022-11-24 00:11:40,869] [INFO] [runner_train_mujoco] Environment 8
+[2022-11-24 00:11:47,310] [INFO] [runner_train_mujoco] Environment 9
+[2022-11-24 00:11:53,445] [INFO] [runner_train_mujoco] Average cumulative reward after 150 steps: 6.753576084249849
+[2022-11-24 00:11:53,445] [INFO] [runner_train_mujoco] Average state value: 0.4439759500126044
+[2022-11-24 00:11:53,445] [INFO] [controller] ITERATION NUM: 43
+[2022-11-24 00:11:53,494] [INFO] [controller] EPOCH 1 loss ppo:  -0.01337, loss val: 0.03642
+[2022-11-24 00:11:53,533] [INFO] [controller] EPOCH 2 loss ppo:  -0.02975, loss val: 0.03500
+[2022-11-24 00:11:53,577] [INFO] [controller] EPOCH 3 loss ppo:  -0.04674, loss val: 0.03478
+[2022-11-24 00:11:53,622] [INFO] [controller] EPOCH 4 loss ppo:  -0.05949, loss val: 0.03416
+[2022-11-24 00:11:53,631] [INFO] [runner_train_mujoco] Finished batch.
+[2022-11-24 00:11:53,730] [INFO] [runner_train_mujoco] Starting simulation batch with mujoco.
+[2022-11-24 00:11:53,730] [INFO] [runner_train_mujoco] Environment 0
+[2022-11-24 00:12:00,260] [INFO] [runner_train_mujoco] Environment 1
+[2022-11-24 00:12:06,561] [INFO] [runner_train_mujoco] Environment 2
+[2022-11-24 00:12:12,916] [INFO] [runner_train_mujoco] Environment 3
+[2022-11-24 00:12:18,926] [INFO] [runner_train_mujoco] Environment 4
+[2022-11-24 00:12:25,148] [INFO] [runner_train_mujoco] Environment 5
+[2022-11-24 00:12:31,217] [INFO] [runner_train_mujoco] Environment 6
+[2022-11-24 00:12:37,446] [INFO] [runner_train_mujoco] Environment 7
+[2022-11-24 00:12:43,642] [INFO] [runner_train_mujoco] Environment 8
+[2022-11-24 00:12:49,707] [INFO] [runner_train_mujoco] Environment 9
+[2022-11-24 00:12:56,097] [INFO] [runner_train_mujoco] Average cumulative reward after 150 steps: 7.9519596739430085
+[2022-11-24 00:12:56,097] [INFO] [runner_train_mujoco] Average state value: 0.4905589389801025
+[2022-11-24 00:12:56,098] [INFO] [controller] ITERATION NUM: 44
+[2022-11-24 00:12:56,145] [INFO] [controller] EPOCH 1 loss ppo:  -0.01386, loss val: 0.06211
+[2022-11-24 00:12:56,184] [INFO] [controller] EPOCH 2 loss ppo:  -0.02840, loss val: 0.06209
+[2022-11-24 00:12:56,223] [INFO] [controller] EPOCH 3 loss ppo:  -0.04200, loss val: 0.06342
+[2022-11-24 00:12:56,264] [INFO] [controller] EPOCH 4 loss ppo:  -0.05449, loss val: 0.06407
+[2022-11-24 00:12:56,273] [INFO] [runner_train_mujoco] Finished batch.
+[2022-11-24 00:12:56,358] [INFO] [runner_train_mujoco] Starting simulation batch with mujoco.
+[2022-11-24 00:12:56,358] [INFO] [runner_train_mujoco] Environment 0
+[2022-11-24 00:13:02,797] [INFO] [runner_train_mujoco] Environment 1
+[2022-11-24 00:13:08,926] [INFO] [runner_train_mujoco] Environment 2
+[2022-11-24 00:13:14,955] [INFO] [runner_train_mujoco] Environment 3
+[2022-11-24 00:13:21,726] [INFO] [runner_train_mujoco] Environment 4
+[2022-11-24 00:13:27,986] [INFO] [runner_train_mujoco] Environment 5
+[2022-11-24 00:13:34,023] [INFO] [runner_train_mujoco] Environment 6
+[2022-11-24 00:13:39,942] [INFO] [runner_train_mujoco] Environment 7
+[2022-11-24 00:13:46,377] [INFO] [runner_train_mujoco] Environment 8
+[2022-11-24 00:13:52,797] [INFO] [runner_train_mujoco] Environment 9
+[2022-11-24 00:13:59,027] [INFO] [runner_train_mujoco] Average cumulative reward after 150 steps: 7.637716448499681
+[2022-11-24 00:13:59,027] [INFO] [runner_train_mujoco] Average state value: 0.49242024475336077
+[2022-11-24 00:13:59,027] [INFO] [controller] ITERATION NUM: 45
+[2022-11-24 00:13:59,074] [INFO] [controller] EPOCH 1 loss ppo:  -0.01271, loss val: 0.05452
+[2022-11-24 00:13:59,116] [INFO] [controller] EPOCH 2 loss ppo:  -0.02836, loss val: 0.05358
+[2022-11-24 00:13:59,158] [INFO] [controller] EPOCH 3 loss ppo:  -0.04563, loss val: 0.05376
+[2022-11-24 00:13:59,209] [INFO] [controller] EPOCH 4 loss ppo:  -0.05901, loss val: 0.05210
+[2022-11-24 00:13:59,220] [INFO] [runner_train_mujoco] Finished batch.
+[2022-11-24 00:13:59,337] [INFO] [runner_train_mujoco] Starting simulation batch with mujoco.
+[2022-11-24 00:13:59,338] [INFO] [runner_train_mujoco] Environment 0
+[2022-11-24 00:14:06,044] [INFO] [runner_train_mujoco] Environment 1
+[2022-11-24 00:14:12,123] [INFO] [runner_train_mujoco] Environment 2
+[2022-11-24 00:14:18,473] [INFO] [runner_train_mujoco] Environment 3
+[2022-11-24 00:14:24,788] [INFO] [runner_train_mujoco] Environment 4
+[2022-11-24 00:14:30,760] [INFO] [runner_train_mujoco] Environment 5
+[2022-11-24 00:14:36,874] [INFO] [runner_train_mujoco] Environment 6
+[2022-11-24 00:14:42,868] [INFO] [runner_train_mujoco] Environment 7
+[2022-11-24 00:14:49,272] [INFO] [runner_train_mujoco] Environment 8
+[2022-11-24 00:14:55,430] [INFO] [runner_train_mujoco] Environment 9
+[2022-11-24 00:15:01,681] [INFO] [runner_train_mujoco] Average cumulative reward after 150 steps: 7.227515301682104
+[2022-11-24 00:15:01,682] [INFO] [runner_train_mujoco] Average state value: 0.458526405096054
+[2022-11-24 00:15:01,682] [INFO] [controller] ITERATION NUM: 46
+[2022-11-24 00:15:01,730] [INFO] [controller] EPOCH 1 loss ppo:  -0.01424, loss val: 0.04661
+[2022-11-24 00:15:01,770] [INFO] [controller] EPOCH 2 loss ppo:  -0.02851, loss val: 0.04863
+[2022-11-24 00:15:01,810] [INFO] [controller] EPOCH 3 loss ppo:  -0.04205, loss val: 0.04880
+[2022-11-24 00:15:01,851] [INFO] [controller] EPOCH 4 loss ppo:  -0.05563, loss val: 0.04807
+[2022-11-24 00:15:01,860] [INFO] [runner_train_mujoco] Finished batch.
+[2022-11-24 00:15:01,938] [INFO] [runner_train_mujoco] Starting simulation batch with mujoco.
+[2022-11-24 00:15:01,939] [INFO] [runner_train_mujoco] Environment 0
+[2022-11-24 00:15:09,123] [INFO] [runner_train_mujoco] Environment 1
+[2022-11-24 00:15:18,632] [INFO] [runner_train_mujoco] Environment 2
+[2022-11-24 00:15:25,666] [INFO] [runner_train_mujoco] Environment 3
+[2022-11-24 00:15:32,364] [INFO] [runner_train_mujoco] Environment 4
+[2022-11-24 00:15:39,565] [INFO] [runner_train_mujoco] Environment 5
+[2022-11-24 00:15:46,794] [INFO] [runner_train_mujoco] Environment 6
+[2022-11-24 00:15:53,858] [INFO] [runner_train_mujoco] Environment 7
+[2022-11-24 00:16:01,362] [INFO] [runner_train_mujoco] Environment 8
+[2022-11-24 00:16:08,370] [INFO] [runner_train_mujoco] Environment 9
+[2022-11-24 00:16:15,162] [INFO] [runner_train_mujoco] Average cumulative reward after 150 steps: 8.15554228166847
+[2022-11-24 00:16:15,163] [INFO] [runner_train_mujoco] Average state value: 0.46416270037492124
+[2022-11-24 00:16:15,163] [INFO] [controller] ITERATION NUM: 47
+[2022-11-24 00:16:15,221] [INFO] [controller] EPOCH 1 loss ppo:  -0.01459, loss val: 0.03640
+[2022-11-24 00:16:15,261] [INFO] [controller] EPOCH 2 loss ppo:  -0.02796, loss val: 0.03593
+[2022-11-24 00:16:15,301] [INFO] [controller] EPOCH 3 loss ppo:  -0.04556, loss val: 0.03464
+[2022-11-24 00:16:15,345] [INFO] [controller] EPOCH 4 loss ppo:  -0.05935, loss val: 0.03546
+[2022-11-24 00:16:15,354] [INFO] [runner_train_mujoco] Finished batch.
+[2022-11-24 00:16:15,453] [INFO] [runner_train_mujoco] Starting simulation batch with mujoco.
+[2022-11-24 00:16:15,454] [INFO] [runner_train_mujoco] Environment 0
+[2022-11-24 00:16:23,536] [INFO] [runner_train_mujoco] Environment 1
+[2022-11-24 00:16:30,499] [INFO] [runner_train_mujoco] Environment 2
+[2022-11-24 00:16:37,592] [INFO] [runner_train_mujoco] Environment 3
+[2022-11-24 00:16:44,512] [INFO] [runner_train_mujoco] Environment 4
+[2022-11-24 00:16:51,269] [INFO] [runner_train_mujoco] Environment 5
+[2022-11-24 00:16:58,842] [INFO] [runner_train_mujoco] Environment 6
+[2022-11-24 00:17:06,036] [INFO] [runner_train_mujoco] Environment 7
+[2022-11-24 00:17:13,670] [INFO] [runner_train_mujoco] Environment 8
+[2022-11-24 00:17:20,948] [INFO] [runner_train_mujoco] Environment 9
+[2022-11-24 00:17:27,880] [INFO] [runner_train_mujoco] Average cumulative reward after 150 steps: 7.783438872847095
+[2022-11-24 00:17:27,880] [INFO] [runner_train_mujoco] Average state value: 0.4793656039138635
+[2022-11-24 00:17:27,880] [INFO] [controller] ITERATION NUM: 48
+[2022-11-24 00:17:27,937] [INFO] [controller] EPOCH 1 loss ppo:  -0.01396, loss val: 0.03991
+[2022-11-24 00:17:27,979] [INFO] [controller] EPOCH 2 loss ppo:  -0.02684, loss val: 0.04008
+[2022-11-24 00:17:28,090] [INFO] [controller] EPOCH 3 loss ppo:  -0.04200, loss val: 0.04052
+[2022-11-24 00:17:28,147] [INFO] [controller] EPOCH 4 loss ppo:  -0.05738, loss val: 0.04043
+[2022-11-24 00:17:28,157] [INFO] [runner_train_mujoco] Finished batch.
+[2022-11-24 00:17:28,240] [INFO] [runner_train_mujoco] Starting simulation batch with mujoco.
+[2022-11-24 00:17:28,240] [INFO] [runner_train_mujoco] Environment 0
+[2022-11-24 00:17:35,195] [INFO] [runner_train_mujoco] Environment 1
+[2022-11-24 00:17:42,300] [INFO] [runner_train_mujoco] Environment 2
+[2022-11-24 00:17:49,445] [INFO] [runner_train_mujoco] Environment 3
+[2022-11-24 00:17:56,491] [INFO] [runner_train_mujoco] Environment 4
+[2022-11-24 00:18:03,611] [INFO] [runner_train_mujoco] Environment 5
+[2022-11-24 00:18:10,692] [INFO] [runner_train_mujoco] Environment 6
+[2022-11-24 00:18:17,984] [INFO] [runner_train_mujoco] Environment 7
+[2022-11-24 00:18:25,377] [INFO] [runner_train_mujoco] Environment 8
+[2022-11-24 00:18:32,925] [INFO] [runner_train_mujoco] Environment 9
+[2022-11-24 00:18:39,790] [INFO] [runner_train_mujoco] Average cumulative reward after 150 steps: 7.805352129749503
+[2022-11-24 00:18:39,790] [INFO] [runner_train_mujoco] Average state value: 0.48457705672581997
+[2022-11-24 00:18:39,790] [INFO] [controller] ITERATION NUM: 49
+[2022-11-24 00:18:39,842] [INFO] [controller] EPOCH 1 loss ppo:  -0.01473, loss val: 0.04098
+[2022-11-24 00:18:39,885] [INFO] [controller] EPOCH 2 loss ppo:  -0.02660, loss val: 0.04065
+[2022-11-24 00:18:39,925] [INFO] [controller] EPOCH 3 loss ppo:  -0.03893, loss val: 0.03995
+[2022-11-24 00:18:39,968] [INFO] [controller] EPOCH 4 loss ppo:  -0.05247, loss val: 0.03939
+[2022-11-24 00:18:39,976] [INFO] [runner_train_mujoco] Finished batch.
+[2022-11-24 00:18:40,067] [INFO] [runner_train_mujoco] Starting simulation batch with mujoco.
+[2022-11-24 00:18:40,068] [INFO] [runner_train_mujoco] Environment 0
+[2022-11-24 00:18:47,133] [INFO] [runner_train_mujoco] Environment 1
+[2022-11-24 00:18:54,576] [INFO] [runner_train_mujoco] Environment 2
+[2022-11-24 00:19:02,540] [INFO] [runner_train_mujoco] Environment 3
+[2022-11-24 00:19:10,053] [INFO] [runner_train_mujoco] Environment 4
+[2022-11-24 00:19:17,911] [INFO] [runner_train_mujoco] Environment 5
+[2022-11-24 00:19:24,484] [INFO] [runner_train_mujoco] Environment 6
+[2022-11-24 00:19:31,494] [INFO] [runner_train_mujoco] Environment 7
+[2022-11-24 00:19:38,840] [INFO] [runner_train_mujoco] Environment 8
+[2022-11-24 00:19:46,473] [INFO] [runner_train_mujoco] Environment 9
+[2022-11-24 00:19:53,234] [INFO] [runner_train_mujoco] Average cumulative reward after 150 steps: 8.013669241972332
+[2022-11-24 00:19:53,235] [INFO] [runner_train_mujoco] Average state value: 0.46918661392728483
+[2022-11-24 00:19:53,235] [INFO] [controller] ITERATION NUM: 50
+[2022-11-24 00:19:53,288] [INFO] [controller] EPOCH 1 loss ppo:  -0.01427, loss val: 0.03983
+[2022-11-24 00:19:53,333] [INFO] [controller] EPOCH 2 loss ppo:  -0.02595, loss val: 0.03780
+[2022-11-24 00:19:53,379] [INFO] [controller] EPOCH 3 loss ppo:  -0.03803, loss val: 0.03774
+[2022-11-24 00:19:53,424] [INFO] [controller] EPOCH 4 loss ppo:  -0.04887, loss val: 0.03937
+[2022-11-24 00:19:53,434] [INFO] [runner_train_mujoco] Finished batch.
+[2022-11-24 00:19:53,526] [INFO] [runner_train_mujoco] Starting simulation batch with mujoco.
+[2022-11-24 00:19:53,527] [INFO] [runner_train_mujoco] Environment 0
+[2022-11-24 00:20:00,932] [INFO] [runner_train_mujoco] Environment 1
+[2022-11-24 00:20:08,174] [INFO] [runner_train_mujoco] Environment 2
+[2022-11-24 00:20:15,188] [INFO] [runner_train_mujoco] Environment 3
+[2022-11-24 00:20:22,311] [INFO] [runner_train_mujoco] Environment 4
+[2022-11-24 00:20:29,383] [INFO] [runner_train_mujoco] Environment 5
+[2022-11-24 00:20:36,265] [INFO] [runner_train_mujoco] Environment 6
+[2022-11-24 00:20:43,389] [INFO] [runner_train_mujoco] Environment 7
+[2022-11-24 00:20:50,377] [INFO] [runner_train_mujoco] Environment 8
+[2022-11-24 00:20:57,788] [INFO] [runner_train_mujoco] Environment 9
+[2022-11-24 00:21:04,963] [INFO] [runner_train_mujoco] Average cumulative reward after 150 steps: 8.30824473033227
+[2022-11-24 00:21:04,964] [INFO] [runner_train_mujoco] Average state value: 0.4561841421723366
+[2022-11-24 00:21:04,964] [INFO] [controller] ITERATION NUM: 51
+[2022-11-24 00:21:05,010] [INFO] [controller] EPOCH 1 loss ppo:  -0.01447, loss val: 0.03305
+[2022-11-24 00:21:05,051] [INFO] [controller] EPOCH 2 loss ppo:  -0.02652, loss val: 0.03298
+[2022-11-24 00:21:05,091] [INFO] [controller] EPOCH 3 loss ppo:  -0.03871, loss val: 0.03243
+[2022-11-24 00:21:05,134] [INFO] [controller] EPOCH 4 loss ppo:  -0.04951, loss val: 0.03246
+[2022-11-24 00:21:05,143] [INFO] [runner_train_mujoco] Finished batch.
+[2022-11-24 00:21:05,235] [INFO] [runner_train_mujoco] Starting simulation batch with mujoco.
+[2022-11-24 00:21:05,235] [INFO] [runner_train_mujoco] Environment 0
+[2022-11-24 00:21:12,296] [INFO] [runner_train_mujoco] Environment 1
+[2022-11-24 00:21:19,079] [INFO] [runner_train_mujoco] Environment 2
+[2022-11-24 00:21:26,210] [INFO] [runner_train_mujoco] Environment 3
+[2022-11-24 00:21:33,917] [INFO] [runner_train_mujoco] Environment 4
+[2022-11-24 00:21:41,409] [INFO] [runner_train_mujoco] Environment 5
+[2022-11-24 00:21:48,369] [INFO] [runner_train_mujoco] Environment 6
+[2022-11-24 00:21:55,187] [INFO] [runner_train_mujoco] Environment 7
+[2022-11-24 00:22:02,438] [INFO] [runner_train_mujoco] Environment 8
+[2022-11-24 00:22:09,348] [INFO] [runner_train_mujoco] Environment 9
+[2022-11-24 00:22:16,511] [INFO] [runner_train_mujoco] Average cumulative reward after 150 steps: 8.03604491033003
+[2022-11-24 00:22:16,511] [INFO] [runner_train_mujoco] Average state value: 0.44789210820198055
+[2022-11-24 00:22:16,511] [INFO] [controller] ITERATION NUM: 52
+[2022-11-24 00:22:16,561] [INFO] [controller] EPOCH 1 loss ppo:  -0.01389, loss val: 0.03968
+[2022-11-24 00:22:16,607] [INFO] [controller] EPOCH 2 loss ppo:  -0.02306, loss val: 0.03987
+[2022-11-24 00:22:16,658] [INFO] [controller] EPOCH 3 loss ppo:  -0.03625, loss val: 0.04018
+[2022-11-24 00:22:16,702] [INFO] [controller] EPOCH 4 loss ppo:  -0.04754, loss val: 0.04361
+[2022-11-24 00:22:16,712] [INFO] [runner_train_mujoco] Finished batch.
+[2022-11-24 00:22:16,804] [INFO] [runner_train_mujoco] Starting simulation batch with mujoco.
+[2022-11-24 00:22:16,804] [INFO] [runner_train_mujoco] Environment 0
+[2022-11-24 00:22:23,631] [INFO] [runner_train_mujoco] Environment 1
+[2022-11-24 00:22:30,694] [INFO] [runner_train_mujoco] Environment 2
+[2022-11-24 00:22:37,695] [INFO] [runner_train_mujoco] Environment 3
+[2022-11-24 00:22:44,993] [INFO] [runner_train_mujoco] Environment 4
+[2022-11-24 00:22:51,994] [INFO] [runner_train_mujoco] Environment 5
+[2022-11-24 00:22:58,834] [INFO] [runner_train_mujoco] Environment 6
+[2022-11-24 00:23:06,041] [INFO] [runner_train_mujoco] Environment 7
+[2022-11-24 00:23:12,699] [INFO] [runner_train_mujoco] Environment 8
+[2022-11-24 00:23:20,695] [INFO] [runner_train_mujoco] Environment 9
+[2022-11-24 00:23:27,623] [INFO] [runner_train_mujoco] Average cumulative reward after 150 steps: 7.42905309943005
+[2022-11-24 00:23:27,623] [INFO] [runner_train_mujoco] Average state value: 0.4459133995932837
+[2022-11-24 00:23:27,623] [INFO] [controller] ITERATION NUM: 53
+[2022-11-24 00:23:27,678] [INFO] [controller] EPOCH 1 loss ppo:  -0.01361, loss val: 0.03849
+[2022-11-24 00:23:27,728] [INFO] [controller] EPOCH 2 loss ppo:  -0.02054, loss val: 0.03938
+[2022-11-24 00:23:27,788] [INFO] [controller] EPOCH 3 loss ppo:  -0.02972, loss val: 0.03850
+[2022-11-24 00:23:27,841] [INFO] [controller] EPOCH 4 loss ppo:  -0.03981, loss val: 0.03790
+[2022-11-24 00:23:27,851] [INFO] [runner_train_mujoco] Finished batch.
+[2022-11-24 00:23:27,959] [INFO] [runner_train_mujoco] Starting simulation batch with mujoco.
+[2022-11-24 00:23:27,959] [INFO] [runner_train_mujoco] Environment 0
+[2022-11-24 00:23:35,512] [INFO] [runner_train_mujoco] Environment 1
+[2022-11-24 00:23:42,695] [INFO] [runner_train_mujoco] Environment 2
+[2022-11-24 00:23:49,581] [INFO] [runner_train_mujoco] Environment 3
+[2022-11-24 00:23:56,336] [INFO] [runner_train_mujoco] Environment 4
+[2022-11-24 00:24:03,331] [INFO] [runner_train_mujoco] Environment 5
+[2022-11-24 00:24:10,578] [INFO] [runner_train_mujoco] Environment 6
+[2022-11-24 00:24:17,525] [INFO] [runner_train_mujoco] Environment 7
+[2022-11-24 00:24:24,314] [INFO] [runner_train_mujoco] Environment 8
+[2022-11-24 00:24:31,782] [INFO] [runner_train_mujoco] Environment 9
+[2022-11-24 00:24:38,954] [INFO] [runner_train_mujoco] Average cumulative reward after 150 steps: 7.624154080846829
+[2022-11-24 00:24:38,954] [INFO] [runner_train_mujoco] Average state value: 0.45520714038610466
+[2022-11-24 00:24:38,954] [INFO] [controller] ITERATION NUM: 54
+[2022-11-24 00:24:39,007] [INFO] [controller] EPOCH 1 loss ppo:  -0.01369, loss val: 0.04301
+[2022-11-24 00:24:39,049] [INFO] [controller] EPOCH 2 loss ppo:  -0.02001, loss val: 0.04260
+[2022-11-24 00:24:39,111] [INFO] [controller] EPOCH 3 loss ppo:  -0.02998, loss val: 0.04258
+[2022-11-24 00:24:39,155] [INFO] [controller] EPOCH 4 loss ppo:  -0.04024, loss val: 0.04218
+[2022-11-24 00:24:39,165] [INFO] [runner_train_mujoco] Finished batch.
+[2022-11-24 00:24:39,263] [INFO] [runner_train_mujoco] Starting simulation batch with mujoco.
+[2022-11-24 00:24:39,264] [INFO] [runner_train_mujoco] Environment 0
+[2022-11-24 00:24:46,579] [INFO] [runner_train_mujoco] Environment 1
+[2022-11-24 00:24:54,264] [INFO] [runner_train_mujoco] Environment 2
+[2022-11-24 00:25:01,233] [INFO] [runner_train_mujoco] Environment 3
+[2022-11-24 00:25:08,474] [INFO] [runner_train_mujoco] Environment 4
+[2022-11-24 00:25:15,274] [INFO] [runner_train_mujoco] Environment 5
+[2022-11-24 00:25:21,942] [INFO] [runner_train_mujoco] Environment 6
+[2022-11-24 00:25:28,831] [INFO] [runner_train_mujoco] Environment 7
+[2022-11-24 00:25:35,953] [INFO] [runner_train_mujoco] Environment 8
+[2022-11-24 00:25:43,032] [INFO] [runner_train_mujoco] Environment 9
+[2022-11-24 00:25:50,123] [INFO] [runner_train_mujoco] Average cumulative reward after 150 steps: 8.28210200613534
+[2022-11-24 00:25:50,123] [INFO] [runner_train_mujoco] Average state value: 0.47053090351819993
+[2022-11-24 00:25:50,124] [INFO] [controller] ITERATION NUM: 55
+[2022-11-24 00:25:50,190] [INFO] [controller] EPOCH 1 loss ppo:  -0.01383, loss val: 0.03578
+[2022-11-24 00:25:50,242] [INFO] [controller] EPOCH 2 loss ppo:  -0.01993, loss val: 0.03602
+[2022-11-24 00:25:50,283] [INFO] [controller] EPOCH 3 loss ppo:  -0.02877, loss val: 0.03588
+[2022-11-24 00:25:50,329] [INFO] [controller] EPOCH 4 loss ppo:  -0.03645, loss val: 0.03634
+[2022-11-24 00:25:50,338] [INFO] [runner_train_mujoco] Finished batch.
+[2022-11-24 00:25:50,433] [INFO] [runner_train_mujoco] Starting simulation batch with mujoco.
+[2022-11-24 00:25:50,434] [INFO] [runner_train_mujoco] Environment 0
+[2022-11-24 00:25:58,415] [INFO] [runner_train_mujoco] Environment 1
+[2022-11-24 00:26:05,813] [INFO] [runner_train_mujoco] Environment 2
+[2022-11-24 00:26:12,963] [INFO] [runner_train_mujoco] Environment 3
+[2022-11-24 00:26:19,898] [INFO] [runner_train_mujoco] Environment 4
+[2022-11-24 00:26:26,351] [INFO] [runner_train_mujoco] Environment 5
+[2022-11-24 00:26:33,045] [INFO] [runner_train_mujoco] Environment 6
+[2022-11-24 00:26:40,423] [INFO] [runner_train_mujoco] Environment 7
+[2022-11-24 00:26:47,147] [INFO] [runner_train_mujoco] Environment 8
+[2022-11-24 00:26:54,327] [INFO] [runner_train_mujoco] Environment 9
+[2022-11-24 00:27:02,684] [INFO] [runner_train_mujoco] Average cumulative reward after 150 steps: 8.131016098537419
+[2022-11-24 00:27:02,684] [INFO] [runner_train_mujoco] Average state value: 0.47418973437945044
+[2022-11-24 00:27:02,685] [INFO] [controller] ITERATION NUM: 56
+[2022-11-24 00:27:02,745] [INFO] [controller] EPOCH 1 loss ppo:  -0.01358, loss val: 0.04370
+[2022-11-24 00:27:02,789] [INFO] [controller] EPOCH 2 loss ppo:  -0.01758, loss val: 0.04339
+[2022-11-24 00:27:02,830] [INFO] [controller] EPOCH 3 loss ppo:  -0.02476, loss val: 0.04236
+[2022-11-24 00:27:02,875] [INFO] [controller] EPOCH 4 loss ppo:  -0.03280, loss val: 0.04220
+[2022-11-24 00:27:02,884] [INFO] [runner_train_mujoco] Finished batch.
+[2022-11-24 00:27:02,974] [INFO] [runner_train_mujoco] Starting simulation batch with mujoco.
+[2022-11-24 00:27:02,974] [INFO] [runner_train_mujoco] Environment 0
+[2022-11-24 00:27:09,785] [INFO] [runner_train_mujoco] Environment 1
+[2022-11-24 00:27:16,944] [INFO] [runner_train_mujoco] Environment 2
+[2022-11-24 00:27:23,949] [INFO] [runner_train_mujoco] Environment 3
+[2022-11-24 00:27:30,854] [INFO] [runner_train_mujoco] Environment 4
+[2022-11-24 00:27:37,690] [INFO] [runner_train_mujoco] Environment 5
+[2022-11-24 00:27:44,582] [INFO] [runner_train_mujoco] Environment 6
+[2022-11-24 00:27:51,550] [INFO] [runner_train_mujoco] Environment 7
+[2022-11-24 00:27:58,358] [INFO] [runner_train_mujoco] Environment 8
+[2022-11-24 00:28:06,093] [INFO] [runner_train_mujoco] Environment 9
+[2022-11-24 00:28:12,961] [INFO] [runner_train_mujoco] Average cumulative reward after 150 steps: 8.317335180242177
+[2022-11-24 00:28:12,961] [INFO] [runner_train_mujoco] Average state value: 0.463610109421114
+[2022-11-24 00:28:12,961] [INFO] [controller] ITERATION NUM: 57
+[2022-11-24 00:28:13,011] [INFO] [controller] EPOCH 1 loss ppo:  -0.01372, loss val: 0.03657
+[2022-11-24 00:28:13,047] [INFO] [controller] EPOCH 2 loss ppo:  -0.01643, loss val: 0.03669
+[2022-11-24 00:28:13,091] [INFO] [controller] EPOCH 3 loss ppo:  -0.02078, loss val: 0.03943
+[2022-11-24 00:28:13,129] [INFO] [controller] EPOCH 4 loss ppo:  -0.02604, loss val: 0.03772
+[2022-11-24 00:28:13,139] [INFO] [runner_train_mujoco] Finished batch.
+[2022-11-24 00:28:13,226] [INFO] [runner_train_mujoco] Starting simulation batch with mujoco.
+[2022-11-24 00:28:13,227] [INFO] [runner_train_mujoco] Environment 0
+[2022-11-24 00:28:20,210] [INFO] [runner_train_mujoco] Environment 1
+[2022-11-24 00:28:27,357] [INFO] [runner_train_mujoco] Environment 2
+[2022-11-24 00:28:34,473] [INFO] [runner_train_mujoco] Environment 3
+[2022-11-24 00:28:41,414] [INFO] [runner_train_mujoco] Environment 4
+[2022-11-24 00:28:48,517] [INFO] [runner_train_mujoco] Environment 5
+[2022-11-24 00:28:55,755] [INFO] [runner_train_mujoco] Environment 6
+[2022-11-24 00:29:03,207] [INFO] [runner_train_mujoco] Environment 7
+[2022-11-24 00:29:10,093] [INFO] [runner_train_mujoco] Environment 8
+[2022-11-24 00:29:17,130] [INFO] [runner_train_mujoco] Environment 9
+[2022-11-24 00:29:24,187] [INFO] [runner_train_mujoco] Average cumulative reward after 150 steps: 8.50364514710718
+[2022-11-24 00:29:24,187] [INFO] [runner_train_mujoco] Average state value: 0.46943829756975175
+[2022-11-24 00:29:24,187] [INFO] [controller] ITERATION NUM: 58
+[2022-11-24 00:29:24,237] [INFO] [controller] EPOCH 1 loss ppo:  -0.01384, loss val: 0.04091
+[2022-11-24 00:29:24,275] [INFO] [controller] EPOCH 2 loss ppo:  -0.01528, loss val: 0.04075
+[2022-11-24 00:29:24,324] [INFO] [controller] EPOCH 3 loss ppo:  -0.01741, loss val: 0.04126
+[2022-11-24 00:29:24,371] [INFO] [controller] EPOCH 4 loss ppo:  -0.02067, loss val: 0.04070
+[2022-11-24 00:29:24,383] [INFO] [runner_train_mujoco] Finished batch.
+[2022-11-24 00:29:24,388] [INFO] [optimize] Finished learning.

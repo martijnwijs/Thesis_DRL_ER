@@ -1,0 +1,956 @@
+[2022-12-21 00:33:03,690] [INFO] [optimize] No recovery data found. Starting at generation 0.
+[2022-12-21 00:33:03,792] [INFO] [optimize] Starting optimization process..
+[2022-12-21 00:33:04,389] [INFO] [runner_mujoco] Starting simulation batch with mujoco.
+[2022-12-21 00:33:04,389] [INFO] [runner_mujoco] Environment 0
+[2022-12-21 00:33:13,211] [WARNING] [core] Nan, Inf or huge value in QVEL at DOF 0. The simulation is unstable. Time = 22.9245.
+[2022-12-21 00:33:38,658] [INFO] [runner_mujoco] Environment 1
+[2022-12-21 00:33:51,720] [WARNING] [core] Nan, Inf or huge value in QVEL at DOF 0. The simulation is unstable. Time = 24.3525.
+[2022-12-21 00:34:17,918] [INFO] [runner_mujoco] Environment 2
+[2022-12-21 00:34:27,055] [WARNING] [core] Nan, Inf or huge value in QACC at DOF 0. The simulation is unstable. Time = 21.5005.
+[2022-12-21 00:34:51,762] [INFO] [runner_mujoco] Environment 3
+[2022-12-21 00:35:00,543] [INFO] [runner_mujoco] Environment 4
+[2022-12-21 00:35:05,731] [WARNING] [core] Nan, Inf or huge value in QVEL at DOF 0. The simulation is unstable. Time = 16.6145.
+[2022-12-21 00:35:28,095] [INFO] [runner_mujoco] Environment 5
+[2022-12-21 00:35:44,236] [INFO] [runner_mujoco] Environment 6
+[2022-12-21 00:35:56,011] [INFO] [runner_mujoco] Environment 7
+[2022-12-21 00:36:05,537] [INFO] [runner_mujoco] Environment 8
+[2022-12-21 00:36:17,831] [INFO] [runner_mujoco] Environment 9
+[2022-12-21 00:36:30,585] [INFO] [runner_mujoco] Finished batch.
+[2022-12-21 00:36:30,711] [INFO] [openai_es] Finished generation 1
+[2022-12-21 00:36:31,352] [INFO] [runner_mujoco] Starting simulation batch with mujoco.
+[2022-12-21 00:36:31,352] [INFO] [runner_mujoco] Environment 0
+[2022-12-21 00:36:38,657] [WARNING] [core] Nan, Inf or huge value in QVEL at DOF 0. The simulation is unstable. Time = 23.3880.
+[2022-12-21 00:37:05,426] [INFO] [runner_mujoco] Environment 1
+[2022-12-21 00:37:18,015] [INFO] [runner_mujoco] Environment 2
+[2022-12-21 00:37:29,365] [INFO] [runner_mujoco] Environment 3
+[2022-12-21 00:37:40,519] [INFO] [runner_mujoco] Environment 4
+[2022-12-21 00:37:47,594] [WARNING] [core] Nan, Inf or huge value in QVEL at DOF 0. The simulation is unstable. Time = 16.3170.
+[2022-12-21 00:38:08,613] [INFO] [runner_mujoco] Environment 5
+[2022-12-21 00:38:20,128] [INFO] [runner_mujoco] Environment 6
+[2022-12-21 00:38:24,660] [WARNING] [core] Nan, Inf or huge value in QVEL at DOF 0. The simulation is unstable. Time = 13.9500.
+[2022-12-21 00:38:44,369] [INFO] [runner_mujoco] Environment 7
+[2022-12-21 00:38:54,866] [INFO] [runner_mujoco] Environment 8
+[2022-12-21 00:39:20,741] [WARNING] [core] Nan, Inf or huge value in QACC at DOF 0. The simulation is unstable. Time = 28.3970.
+[2022-12-21 00:39:49,049] [INFO] [runner_mujoco] Environment 9
+[2022-12-21 00:40:02,375] [WARNING] [core] Nan, Inf or huge value in QACC at DOF 2. The simulation is unstable. Time = 26.3795.
+[2022-12-21 00:40:30,389] [INFO] [runner_mujoco] Finished batch.
+[2022-12-21 00:40:30,491] [INFO] [openai_es] Finished generation 2
+[2022-12-21 00:40:31,115] [INFO] [runner_mujoco] Starting simulation batch with mujoco.
+[2022-12-21 00:40:31,115] [INFO] [runner_mujoco] Environment 0
+[2022-12-21 00:40:37,205] [WARNING] [core] Nan, Inf or huge value in QACC at DOF 3. The simulation is unstable. Time = 16.0625.
+[2022-12-21 00:40:58,596] [INFO] [runner_mujoco] Environment 1
+[2022-12-21 00:41:09,052] [INFO] [runner_mujoco] Environment 2
+[2022-12-21 00:41:19,265] [INFO] [runner_mujoco] Environment 3
+[2022-12-21 00:41:29,119] [INFO] [runner_mujoco] Environment 4
+[2022-12-21 00:41:34,128] [WARNING] [core] Nan, Inf or huge value in QACC at DOF 4. The simulation is unstable. Time = 14.6120.
+[2022-12-21 00:42:14,845] [INFO] [runner_mujoco] Environment 5
+[2022-12-21 00:42:23,809] [WARNING] [core] Nan, Inf or huge value in QACC at DOF 0. The simulation is unstable. Time = 24.8290.
+[2022-12-21 00:42:48,652] [INFO] [runner_mujoco] Environment 6
+[2022-12-21 00:42:57,519] [INFO] [runner_mujoco] Environment 7
+[2022-12-21 00:43:09,176] [INFO] [runner_mujoco] Environment 8
+[2022-12-21 00:43:18,212] [INFO] [runner_mujoco] Environment 9
+[2022-12-21 00:43:29,071] [INFO] [runner_mujoco] Finished batch.
+[2022-12-21 00:43:29,175] [INFO] [openai_es] Finished generation 3
+[2022-12-21 00:43:29,715] [INFO] [runner_mujoco] Starting simulation batch with mujoco.
+[2022-12-21 00:43:29,716] [INFO] [runner_mujoco] Environment 0
+[2022-12-21 00:43:41,102] [INFO] [runner_mujoco] Environment 1
+[2022-12-21 00:43:50,999] [INFO] [runner_mujoco] Environment 2
+[2022-12-21 00:44:00,690] [INFO] [runner_mujoco] Environment 3
+[2022-12-21 00:44:11,008] [INFO] [runner_mujoco] Environment 4
+[2022-12-21 00:44:19,632] [WARNING] [core] Nan, Inf or huge value in QVEL at DOF 0. The simulation is unstable. Time = 23.7705.
+[2022-12-21 00:44:43,961] [INFO] [runner_mujoco] Environment 5
+[2022-12-21 00:44:54,156] [INFO] [runner_mujoco] Environment 6
+[2022-12-21 00:45:04,377] [WARNING] [core] Nan, Inf or huge value in QVEL at DOF 0. The simulation is unstable. Time = 27.9780.
+[2022-12-21 00:45:31,249] [INFO] [runner_mujoco] Environment 7
+[2022-12-21 00:45:39,694] [WARNING] [core] Nan, Inf or huge value in QACC at DOF 0. The simulation is unstable. Time = 24.1915.
+[2022-12-21 00:46:04,414] [INFO] [runner_mujoco] Environment 8
+[2022-12-21 00:46:14,477] [INFO] [runner_mujoco] Environment 9
+[2022-12-21 00:46:23,710] [WARNING] [core] Nan, Inf or huge value in QACC at DOF 4. The simulation is unstable. Time = 29.4710.
+[2022-12-21 00:46:51,110] [INFO] [runner_mujoco] Finished batch.
+[2022-12-21 00:46:51,217] [INFO] [openai_es] Finished generation 4
+[2022-12-21 00:46:51,804] [INFO] [runner_mujoco] Starting simulation batch with mujoco.
+[2022-12-21 00:46:51,804] [INFO] [runner_mujoco] Environment 0
+[2022-12-21 00:46:55,825] [WARNING] [core] Nan, Inf or huge value in QVEL at DOF 0. The simulation is unstable. Time = 13.6930.
+[2022-12-21 00:47:13,608] [INFO] [runner_mujoco] Environment 1
+[2022-12-21 00:47:23,284] [INFO] [runner_mujoco] Environment 2
+[2022-12-21 00:47:33,117] [INFO] [runner_mujoco] Environment 3
+[2022-12-21 00:47:35,208] [WARNING] [core] Nan, Inf or huge value in QVEL at DOF 0. The simulation is unstable. Time = 5.6525.
+[2022-12-21 00:47:48,288] [INFO] [runner_mujoco] Environment 4
+[2022-12-21 00:47:56,835] [INFO] [runner_mujoco] Environment 5
+[2022-12-21 00:48:05,118] [WARNING] [core] Nan, Inf or huge value in QACC at DOF 0. The simulation is unstable. Time = 24.2360.
+[2022-12-21 00:48:30,414] [INFO] [runner_mujoco] Environment 6
+[2022-12-21 00:48:41,468] [INFO] [runner_mujoco] Environment 7
+[2022-12-21 00:48:51,018] [INFO] [runner_mujoco] Environment 8
+[2022-12-21 00:49:02,947] [INFO] [runner_mujoco] Environment 9
+[2022-12-21 00:49:12,534] [INFO] [runner_mujoco] Finished batch.
+[2022-12-21 00:49:12,616] [INFO] [openai_es] Finished generation 5
+[2022-12-21 00:49:13,204] [INFO] [runner_mujoco] Starting simulation batch with mujoco.
+[2022-12-21 00:49:13,204] [INFO] [runner_mujoco] Environment 0
+[2022-12-21 00:49:22,046] [INFO] [runner_mujoco] Environment 1
+[2022-12-21 00:49:38,322] [INFO] [runner_mujoco] Environment 2
+[2022-12-21 00:49:45,458] [WARNING] [core] Nan, Inf or huge value in QVEL at DOF 0. The simulation is unstable. Time = 19.7245.
+[2022-12-21 00:50:08,445] [INFO] [runner_mujoco] Environment 3
+[2022-12-21 00:50:17,628] [INFO] [runner_mujoco] Environment 4
+[2022-12-21 00:50:27,825] [INFO] [runner_mujoco] Environment 5
+[2022-12-21 00:50:34,699] [WARNING] [core] Nan, Inf or huge value in QACC at DOF 3. The simulation is unstable. Time = 18.1520.
+[2022-12-21 00:50:55,061] [INFO] [runner_mujoco] Environment 6
+[2022-12-21 00:51:06,882] [INFO] [runner_mujoco] Environment 7
+[2022-12-21 00:51:15,570] [INFO] [runner_mujoco] Environment 8
+[2022-12-21 00:51:23,641] [WARNING] [core] Nan, Inf or huge value in QACC at DOF 0. The simulation is unstable. Time = 25.8825.
+[2022-12-21 00:51:49,054] [INFO] [runner_mujoco] Environment 9
+[2022-12-21 00:51:57,676] [INFO] [runner_mujoco] Finished batch.
+[2022-12-21 00:51:57,782] [INFO] [openai_es] Finished generation 6
+[2022-12-21 00:51:58,373] [INFO] [runner_mujoco] Starting simulation batch with mujoco.
+[2022-12-21 00:51:58,373] [INFO] [runner_mujoco] Environment 0
+[2022-12-21 00:52:08,256] [INFO] [runner_mujoco] Environment 1
+[2022-12-21 00:52:18,213] [INFO] [runner_mujoco] Environment 2
+[2022-12-21 00:52:26,742] [WARNING] [core] Nan, Inf or huge value in QVEL at DOF 3. The simulation is unstable. Time = 21.9510.
+[2022-12-21 00:52:48,495] [INFO] [runner_mujoco] Environment 3
+[2022-12-21 00:52:56,836] [INFO] [runner_mujoco] Environment 4
+[2022-12-21 00:53:16,447] [INFO] [runner_mujoco] Environment 5
+[2022-12-21 00:53:26,721] [INFO] [runner_mujoco] Environment 6
+[2022-12-21 00:53:37,353] [INFO] [runner_mujoco] Environment 7
+[2022-12-21 00:53:47,678] [INFO] [runner_mujoco] Environment 8
+[2022-12-21 00:53:57,348] [INFO] [runner_mujoco] Environment 9
+[2022-12-21 00:54:08,600] [INFO] [runner_mujoco] Finished batch.
+[2022-12-21 00:54:08,721] [INFO] [openai_es] Finished generation 7
+[2022-12-21 00:54:09,313] [INFO] [runner_mujoco] Starting simulation batch with mujoco.
+[2022-12-21 00:54:09,313] [INFO] [runner_mujoco] Environment 0
+[2022-12-21 00:54:16,356] [WARNING] [core] Nan, Inf or huge value in QACC at DOF 6. The simulation is unstable. Time = 19.3595.
+[2022-12-21 00:54:38,036] [INFO] [runner_mujoco] Environment 1
+[2022-12-21 00:54:48,217] [INFO] [runner_mujoco] Environment 2
+[2022-12-21 00:54:58,464] [INFO] [runner_mujoco] Environment 3
+[2022-12-21 00:55:04,228] [WARNING] [core] Nan, Inf or huge value in QACC at DOF 0. The simulation is unstable. Time = 19.5455.
+[2022-12-21 00:55:25,358] [INFO] [runner_mujoco] Environment 4
+[2022-12-21 00:55:34,975] [WARNING] [core] Nan, Inf or huge value in QACC at DOF 10. The simulation is unstable. Time = 29.5555.
+[2022-12-21 00:56:03,304] [INFO] [runner_mujoco] Environment 5
+[2022-12-21 00:56:11,912] [INFO] [runner_mujoco] Environment 6
+[2022-12-21 00:56:23,208] [INFO] [runner_mujoco] Environment 7
+[2022-12-21 00:56:33,942] [INFO] [runner_mujoco] Environment 8
+[2022-12-21 00:56:42,100] [WARNING] [core] Nan, Inf or huge value in QACC at DOF 12. The simulation is unstable. Time = 22.4840.
+[2022-12-21 00:57:05,052] [INFO] [runner_mujoco] Environment 9
+[2022-12-21 00:57:12,907] [WARNING] [core] Nan, Inf or huge value in QACC at DOF 0. The simulation is unstable. Time = 23.1300.
+[2022-12-21 00:57:36,769] [INFO] [runner_mujoco] Finished batch.
+[2022-12-21 00:57:36,883] [INFO] [openai_es] Finished generation 8
+[2022-12-21 00:57:37,473] [INFO] [runner_mujoco] Starting simulation batch with mujoco.
+[2022-12-21 00:57:37,473] [INFO] [runner_mujoco] Environment 0
+[2022-12-21 00:57:46,590] [INFO] [runner_mujoco] Environment 1
+[2022-12-21 00:57:55,864] [INFO] [runner_mujoco] Environment 2
+[2022-12-21 00:58:05,350] [INFO] [runner_mujoco] Environment 3
+[2022-12-21 00:58:10,921] [WARNING] [core] Nan, Inf or huge value in QACC at DOF 3. The simulation is unstable. Time = 13.2935.
+[2022-12-21 00:58:27,725] [INFO] [runner_mujoco] Environment 4
+[2022-12-21 00:58:39,095] [INFO] [runner_mujoco] Environment 5
+[2022-12-21 00:58:49,245] [INFO] [runner_mujoco] Environment 6
+[2022-12-21 00:58:58,578] [INFO] [runner_mujoco] Environment 7
+[2022-12-21 00:59:09,747] [INFO] [runner_mujoco] Environment 8
+[2022-12-21 00:59:15,086] [WARNING] [core] Nan, Inf or huge value in QACC at DOF 3. The simulation is unstable. Time = 14.6825.
+[2022-12-21 00:59:32,387] [INFO] [runner_mujoco] Environment 9
+[2022-12-21 00:59:36,165] [WARNING] [core] Nan, Inf or huge value in QVEL at DOF 0. The simulation is unstable. Time = 11.2460.
+[2022-12-21 00:59:51,634] [INFO] [runner_mujoco] Finished batch.
+[2022-12-21 00:59:51,713] [INFO] [openai_es] Finished generation 9
+[2022-12-21 00:59:52,272] [INFO] [runner_mujoco] Starting simulation batch with mujoco.
+[2022-12-21 00:59:52,272] [INFO] [runner_mujoco] Environment 0
+[2022-12-21 01:00:08,720] [INFO] [runner_mujoco] Environment 1
+[2022-12-21 01:00:09,703] [WARNING] [core] Nan, Inf or huge value in QVEL at DOF 3. The simulation is unstable. Time = 1.7410.
+[2022-12-21 01:00:38,781] [INFO] [runner_mujoco] Environment 2
+[2022-12-21 01:00:48,054] [INFO] [runner_mujoco] Environment 3
+[2022-12-21 01:00:54,845] [WARNING] [core] Nan, Inf or huge value in QACC at DOF 3. The simulation is unstable. Time = 24.6230.
+[2022-12-21 01:01:19,056] [INFO] [runner_mujoco] Environment 4
+[2022-12-21 01:01:27,620] [INFO] [runner_mujoco] Environment 5
+[2022-12-21 01:01:37,597] [WARNING] [core] Nan, Inf or huge value in QVEL at DOF 0. The simulation is unstable. Time = 27.0080.
+[2022-12-21 01:02:03,387] [INFO] [runner_mujoco] Environment 6
+[2022-12-21 01:02:12,620] [INFO] [runner_mujoco] Environment 7
+[2022-12-21 01:02:21,001] [INFO] [runner_mujoco] Environment 8
+[2022-12-21 01:02:31,026] [INFO] [runner_mujoco] Environment 9
+[2022-12-21 01:02:39,582] [WARNING] [core] Nan, Inf or huge value in QACC at DOF 0. The simulation is unstable. Time = 22.4610.
+[2022-12-21 01:03:02,387] [INFO] [runner_mujoco] Finished batch.
+[2022-12-21 01:03:02,505] [INFO] [openai_es] Finished generation 10
+[2022-12-21 01:03:03,167] [INFO] [runner_mujoco] Starting simulation batch with mujoco.
+[2022-12-21 01:03:03,167] [INFO] [runner_mujoco] Environment 0
+[2022-12-21 01:03:12,342] [INFO] [runner_mujoco] Environment 1
+[2022-12-21 01:03:22,274] [INFO] [runner_mujoco] Environment 2
+[2022-12-21 01:03:32,665] [INFO] [runner_mujoco] Environment 3
+[2022-12-21 01:03:41,965] [INFO] [runner_mujoco] Environment 4
+[2022-12-21 01:03:43,927] [WARNING] [core] Nan, Inf or huge value in QACC at DOF 0. The simulation is unstable. Time = 5.7225.
+[2022-12-21 01:03:52,065] [WARNING] [core] Nan, Inf or huge value in QVEL at DOF 4. The simulation is unstable. Time = 15.5885.
+[2022-12-21 01:04:10,653] [INFO] [runner_mujoco] Environment 5
+[2022-12-21 01:04:18,380] [WARNING] [core] Nan, Inf or huge value in QACC at DOF 0. The simulation is unstable. Time = 25.7020.
+[2022-12-21 01:04:43,086] [INFO] [runner_mujoco] Environment 6
+[2022-12-21 01:04:47,860] [WARNING] [core] Nan, Inf or huge value in QVEL at DOF 0. The simulation is unstable. Time = 15.0380.
+[2022-12-21 01:05:06,294] [INFO] [runner_mujoco] Environment 7
+[2022-12-21 01:05:15,229] [INFO] [runner_mujoco] Environment 8
+[2022-12-21 01:05:24,383] [INFO] [runner_mujoco] Environment 9
+[2022-12-21 01:05:30,231] [WARNING] [core] Nan, Inf or huge value in QACC at DOF 0. The simulation is unstable. Time = 16.0485.
+[2022-12-21 01:05:48,459] [INFO] [runner_mujoco] Finished batch.
+[2022-12-21 01:05:48,546] [INFO] [openai_es] Finished generation 11
+[2022-12-21 01:05:49,129] [INFO] [runner_mujoco] Starting simulation batch with mujoco.
+[2022-12-21 01:05:49,130] [INFO] [runner_mujoco] Environment 0
+[2022-12-21 01:05:57,969] [WARNING] [core] Nan, Inf or huge value in QACC at DOF 1. The simulation is unstable. Time = 23.2360.
+[2022-12-21 01:06:21,852] [INFO] [runner_mujoco] Environment 1
+[2022-12-21 01:06:29,768] [INFO] [runner_mujoco] Environment 2
+[2022-12-21 01:06:40,753] [INFO] [runner_mujoco] Environment 3
+[2022-12-21 01:06:48,361] [WARNING] [core] Nan, Inf or huge value in QVEL at DOF 0. The simulation is unstable. Time = 19.2070.
+[2022-12-21 01:07:11,120] [INFO] [runner_mujoco] Environment 4
+[2022-12-21 01:07:19,915] [WARNING] [core] Nan, Inf or huge value in QACC at DOF 3. The simulation is unstable. Time = 21.9855.
+[2022-12-21 01:07:43,098] [INFO] [runner_mujoco] Environment 5
+[2022-12-21 01:07:53,404] [INFO] [runner_mujoco] Environment 6
+[2022-12-21 01:08:03,093] [INFO] [runner_mujoco] Environment 7
+[2022-12-21 01:08:10,319] [WARNING] [core] Nan, Inf or huge value in QACC at DOF 0. The simulation is unstable. Time = 21.9550.
+[2022-12-21 01:08:33,366] [INFO] [runner_mujoco] Environment 8
+[2022-12-21 01:08:37,037] [WARNING] [core] Nan, Inf or huge value in QVEL at DOF 3. The simulation is unstable. Time = 13.4175.
+[2022-12-21 01:08:54,540] [INFO] [runner_mujoco] Environment 9
+[2022-12-21 01:09:04,596] [INFO] [runner_mujoco] Finished batch.
+[2022-12-21 01:09:04,696] [INFO] [openai_es] Finished generation 12
+[2022-12-21 01:09:05,288] [INFO] [runner_mujoco] Starting simulation batch with mujoco.
+[2022-12-21 01:09:05,288] [INFO] [runner_mujoco] Environment 0
+[2022-12-21 01:09:13,101] [WARNING] [core] Nan, Inf or huge value in QACC at DOF 6. The simulation is unstable. Time = 21.8710.
+[2022-12-21 01:09:35,542] [INFO] [runner_mujoco] Environment 1
+[2022-12-21 01:09:46,773] [INFO] [runner_mujoco] Environment 2
+[2022-12-21 01:09:55,672] [INFO] [runner_mujoco] Environment 3
+[2022-12-21 01:10:05,976] [INFO] [runner_mujoco] Environment 4
+[2022-12-21 01:10:18,277] [INFO] [runner_mujoco] Environment 5
+[2022-12-21 01:10:23,754] [WARNING] [core] Nan, Inf or huge value in QACC at DOF 3. The simulation is unstable. Time = 15.9160.
+[2022-12-21 01:10:42,651] [INFO] [runner_mujoco] Environment 6
+[2022-12-21 01:10:52,321] [INFO] [runner_mujoco] Environment 7
+[2022-12-21 01:11:00,873] [INFO] [runner_mujoco] Environment 8
+[2022-12-21 01:11:06,990] [WARNING] [core] Nan, Inf or huge value in QVEL at DOF 0. The simulation is unstable. Time = 22.6330.
+[2022-12-21 01:11:29,474] [INFO] [runner_mujoco] Environment 9
+[2022-12-21 01:11:39,436] [INFO] [runner_mujoco] Finished batch.
+[2022-12-21 01:11:39,530] [INFO] [openai_es] Finished generation 13
+[2022-12-21 01:11:40,100] [INFO] [runner_mujoco] Starting simulation batch with mujoco.
+[2022-12-21 01:11:40,100] [INFO] [runner_mujoco] Environment 0
+[2022-12-21 01:11:49,286] [INFO] [runner_mujoco] Environment 1
+[2022-12-21 01:11:55,678] [WARNING] [core] Nan, Inf or huge value in QACC at DOF 0. The simulation is unstable. Time = 18.4300.
+[2022-12-21 01:12:16,271] [INFO] [runner_mujoco] Environment 2
+[2022-12-21 01:12:27,176] [INFO] [runner_mujoco] Environment 3
+[2022-12-21 01:12:37,675] [INFO] [runner_mujoco] Environment 4
+[2022-12-21 01:12:44,122] [WARNING] [core] Nan, Inf or huge value in QPOS at DOF 7. The simulation is unstable. Time = 19.3410.
+[2022-12-21 01:13:04,586] [INFO] [runner_mujoco] Environment 5
+[2022-12-21 01:13:14,543] [INFO] [runner_mujoco] Environment 6
+[2022-12-21 01:13:23,347] [INFO] [runner_mujoco] Environment 7
+[2022-12-21 01:13:32,603] [INFO] [runner_mujoco] Environment 8
+[2022-12-21 01:13:41,394] [WARNING] [core] Nan, Inf or huge value in QACC at DOF 4. The simulation is unstable. Time = 24.1460.
+[2022-12-21 01:14:04,837] [INFO] [runner_mujoco] Environment 9
+[2022-12-21 01:14:09,797] [WARNING] [core] Nan, Inf or huge value in QVEL at DOF 0. The simulation is unstable. Time = 10.4580.
+[2022-12-21 01:14:25,577] [INFO] [runner_mujoco] Finished batch.
+[2022-12-21 01:14:25,681] [INFO] [openai_es] Finished generation 14
+[2022-12-21 01:14:26,260] [INFO] [runner_mujoco] Starting simulation batch with mujoco.
+[2022-12-21 01:14:26,260] [INFO] [runner_mujoco] Environment 0
+[2022-12-21 01:14:35,997] [INFO] [runner_mujoco] Environment 1
+[2022-12-21 01:14:42,398] [WARNING] [core] Nan, Inf or huge value in QVEL at DOF 0. The simulation is unstable. Time = 20.5915.
+[2022-12-21 01:15:03,926] [INFO] [runner_mujoco] Environment 2
+[2022-12-21 01:15:12,101] [INFO] [runner_mujoco] Environment 3
+[2022-12-21 01:15:22,798] [INFO] [runner_mujoco] Environment 4
+[2022-12-21 01:15:31,332] [INFO] [runner_mujoco] Environment 5
+[2022-12-21 01:15:39,605] [INFO] [runner_mujoco] Environment 6
+[2022-12-21 01:15:49,955] [INFO] [runner_mujoco] Environment 7
+[2022-12-21 01:15:55,158] [WARNING] [core] Nan, Inf or huge value in QACC at DOF 10. The simulation is unstable. Time = 17.8710.
+[2022-12-21 01:16:16,059] [INFO] [runner_mujoco] Environment 8
+[2022-12-21 01:16:25,122] [WARNING] [core] Nan, Inf or huge value in QACC at DOF 3. The simulation is unstable. Time = 25.8045.
+[2022-12-21 01:16:50,298] [INFO] [runner_mujoco] Environment 9
+[2022-12-21 01:17:00,825] [WARNING] [core] Nan, Inf or huge value in QACC at DOF 9. The simulation is unstable. Time = 27.1500.
+[2022-12-21 01:17:27,706] [INFO] [runner_mujoco] Finished batch.
+[2022-12-21 01:17:27,804] [INFO] [openai_es] Finished generation 15
+[2022-12-21 01:17:28,361] [INFO] [runner_mujoco] Starting simulation batch with mujoco.
+[2022-12-21 01:17:28,362] [INFO] [runner_mujoco] Environment 0
+[2022-12-21 01:17:38,121] [INFO] [runner_mujoco] Environment 1
+[2022-12-21 01:17:47,039] [INFO] [runner_mujoco] Environment 2
+[2022-12-21 01:17:51,192] [WARNING] [core] Nan, Inf or huge value in QACC at DOF 15. The simulation is unstable. Time = 13.0335.
+[2022-12-21 01:18:09,335] [INFO] [runner_mujoco] Environment 3
+[2022-12-21 01:18:18,478] [INFO] [runner_mujoco] Environment 4
+[2022-12-21 01:18:25,942] [WARNING] [core] Nan, Inf or huge value in QPOS at DOF 7. The simulation is unstable. Time = 24.2485.
+[2022-12-21 01:18:49,780] [INFO] [runner_mujoco] Environment 5
+[2022-12-21 01:18:54,758] [WARNING] [core] Nan, Inf or huge value in QACC at DOF 0. The simulation is unstable. Time = 15.0495.
+[2022-12-21 01:19:13,127] [INFO] [runner_mujoco] Environment 6
+[2022-12-21 01:19:21,109] [INFO] [runner_mujoco] Environment 7
+[2022-12-21 01:19:29,542] [INFO] [runner_mujoco] Environment 8
+[2022-12-21 01:19:35,525] [WARNING] [core] Nan, Inf or huge value in QACC at DOF 0. The simulation is unstable. Time = 15.2930.
+[2022-12-21 01:19:53,534] [INFO] [runner_mujoco] Environment 9
+[2022-12-21 01:20:02,353] [INFO] [runner_mujoco] Finished batch.
+[2022-12-21 01:20:02,448] [INFO] [openai_es] Finished generation 16
+[2022-12-21 01:20:03,212] [INFO] [runner_mujoco] Starting simulation batch with mujoco.
+[2022-12-21 01:20:03,212] [INFO] [runner_mujoco] Environment 0
+[2022-12-21 01:20:13,280] [INFO] [runner_mujoco] Environment 1
+[2022-12-21 01:20:17,530] [WARNING] [core] Nan, Inf or huge value in QACC at DOF 1. The simulation is unstable. Time = 14.3725.
+[2022-12-21 01:21:04,853] [INFO] [runner_mujoco] Environment 2
+[2022-12-21 01:21:13,867] [INFO] [runner_mujoco] Environment 3
+[2022-12-21 01:21:29,233] [INFO] [runner_mujoco] Environment 4
+[2022-12-21 01:21:38,006] [WARNING] [core] Nan, Inf or huge value in QACC at DOF 0. The simulation is unstable. Time = 26.2125.
+[2022-12-21 01:22:03,345] [INFO] [runner_mujoco] Environment 5
+[2022-12-21 01:22:13,205] [INFO] [runner_mujoco] Environment 6
+[2022-12-21 01:22:22,746] [INFO] [runner_mujoco] Environment 7
+[2022-12-21 01:22:33,969] [INFO] [runner_mujoco] Environment 8
+[2022-12-21 01:22:44,712] [INFO] [runner_mujoco] Environment 9
+[2022-12-21 01:22:56,243] [INFO] [runner_mujoco] Finished batch.
+[2022-12-21 01:22:56,361] [INFO] [openai_es] Finished generation 17
+[2022-12-21 01:22:56,965] [INFO] [runner_mujoco] Starting simulation batch with mujoco.
+[2022-12-21 01:22:56,965] [INFO] [runner_mujoco] Environment 0
+[2022-12-21 01:23:02,456] [WARNING] [core] Nan, Inf or huge value in QACC at DOF 0. The simulation is unstable. Time = 14.3525.
+[2022-12-21 01:23:22,031] [INFO] [runner_mujoco] Environment 1
+[2022-12-21 01:23:29,526] [WARNING] [core] Nan, Inf or huge value in QACC at DOF 0. The simulation is unstable. Time = 15.0635.
+[2022-12-21 01:23:48,985] [INFO] [runner_mujoco] Environment 2
+[2022-12-21 01:23:58,971] [INFO] [runner_mujoco] Environment 3
+[2022-12-21 01:24:05,630] [WARNING] [core] Nan, Inf or huge value in QACC at DOF 0. The simulation is unstable. Time = 17.8705.
+[2022-12-21 01:24:26,912] [INFO] [runner_mujoco] Environment 4
+[2022-12-21 01:24:35,916] [INFO] [runner_mujoco] Environment 5
+[2022-12-21 01:24:44,623] [INFO] [runner_mujoco] Environment 6
+[2022-12-21 01:24:53,995] [INFO] [runner_mujoco] Environment 7
+[2022-12-21 01:25:02,792] [WARNING] [core] Nan, Inf or huge value in QVEL at DOF 0. The simulation is unstable. Time = 25.6580.
+[2022-12-21 01:25:28,198] [INFO] [runner_mujoco] Environment 8
+[2022-12-21 01:25:37,653] [INFO] [runner_mujoco] Environment 9
+[2022-12-21 01:25:46,247] [INFO] [runner_mujoco] Finished batch.
+[2022-12-21 01:25:46,325] [INFO] [openai_es] Finished generation 18
+[2022-12-21 01:25:46,945] [INFO] [runner_mujoco] Starting simulation batch with mujoco.
+[2022-12-21 01:25:46,945] [INFO] [runner_mujoco] Environment 0
+[2022-12-21 01:25:56,935] [INFO] [runner_mujoco] Environment 1
+[2022-12-21 01:26:07,028] [WARNING] [core] Nan, Inf or huge value in QVEL at DOF 4. The simulation is unstable. Time = 27.8325.
+[2022-12-21 01:26:33,843] [INFO] [runner_mujoco] Environment 2
+[2022-12-21 01:26:43,137] [INFO] [runner_mujoco] Environment 3
+[2022-12-21 01:26:53,313] [INFO] [runner_mujoco] Environment 4
+[2022-12-21 01:27:04,678] [INFO] [runner_mujoco] Environment 5
+[2022-12-21 01:27:13,464] [INFO] [runner_mujoco] Environment 6
+[2022-12-21 01:27:18,995] [WARNING] [core] Nan, Inf or huge value in QACC at DOF 8. The simulation is unstable. Time = 14.8715.
+[2022-12-21 01:27:38,073] [INFO] [runner_mujoco] Environment 7
+[2022-12-21 01:27:43,497] [WARNING] [core] Nan, Inf or huge value in QPOS at DOF 13. The simulation is unstable. Time = 19.5495.
+[2022-12-21 01:28:04,976] [INFO] [runner_mujoco] Environment 8
+[2022-12-21 01:28:14,808] [INFO] [runner_mujoco] Environment 9
+[2022-12-21 01:28:18,645] [WARNING] [core] Nan, Inf or huge value in QACC at DOF 8. The simulation is unstable. Time = 8.8710.
+[2022-12-21 01:28:33,934] [INFO] [runner_mujoco] Finished batch.
+[2022-12-21 01:28:34,048] [INFO] [openai_es] Finished generation 19
+[2022-12-21 01:28:34,635] [INFO] [runner_mujoco] Starting simulation batch with mujoco.
+[2022-12-21 01:28:34,635] [INFO] [runner_mujoco] Environment 0
+[2022-12-21 01:28:43,761] [WARNING] [core] Nan, Inf or huge value in QACC at DOF 0. The simulation is unstable. Time = 26.1510.
+[2022-12-21 01:29:08,576] [INFO] [runner_mujoco] Environment 1
+[2022-12-21 01:29:19,384] [INFO] [runner_mujoco] Environment 2
+[2022-12-21 01:29:29,199] [INFO] [runner_mujoco] Environment 3
+[2022-12-21 01:29:38,614] [INFO] [runner_mujoco] Environment 4
+[2022-12-21 01:29:40,543] [WARNING] [core] Nan, Inf or huge value in QVEL at DOF 0. The simulation is unstable. Time = 6.6920.
+[2022-12-21 01:30:19,207] [INFO] [runner_mujoco] Environment 5
+[2022-12-21 01:30:29,623] [INFO] [runner_mujoco] Environment 6
+[2022-12-21 01:30:41,554] [INFO] [runner_mujoco] Environment 7
+[2022-12-21 01:30:50,673] [INFO] [runner_mujoco] Environment 8
+[2022-12-21 01:31:00,619] [INFO] [runner_mujoco] Environment 9
+[2022-12-21 01:31:04,156] [WARNING] [core] Nan, Inf or huge value in QACC at DOF 1. The simulation is unstable. Time = 10.8915.
+[2022-12-21 01:31:22,603] [INFO] [runner_mujoco] Finished batch.
+[2022-12-21 01:31:22,701] [INFO] [openai_es] Finished generation 20
+[2022-12-21 01:31:23,329] [INFO] [runner_mujoco] Starting simulation batch with mujoco.
+[2022-12-21 01:31:23,330] [INFO] [runner_mujoco] Environment 0
+[2022-12-21 01:31:27,268] [WARNING] [core] Nan, Inf or huge value in QACC at DOF 3. The simulation is unstable. Time = 12.5630.
+[2022-12-21 01:31:43,545] [INFO] [runner_mujoco] Environment 1
+[2022-12-21 01:31:51,217] [WARNING] [core] Nan, Inf or huge value in QVEL at DOF 3. The simulation is unstable. Time = 27.4055.
+[2022-12-21 01:32:17,233] [INFO] [runner_mujoco] Environment 2
+[2022-12-21 01:32:27,241] [INFO] [runner_mujoco] Environment 3
+[2022-12-21 01:32:36,523] [INFO] [runner_mujoco] Environment 4
+[2022-12-21 01:32:45,411] [INFO] [runner_mujoco] Environment 5
+[2022-12-21 01:32:55,459] [INFO] [runner_mujoco] Environment 6
+[2022-12-21 01:33:06,269] [INFO] [runner_mujoco] Environment 7
+[2022-12-21 01:33:14,798] [INFO] [runner_mujoco] Environment 8
+[2022-12-21 01:33:24,192] [INFO] [runner_mujoco] Environment 9
+[2022-12-21 01:33:34,946] [INFO] [runner_mujoco] Finished batch.
+[2022-12-21 01:33:35,076] [INFO] [openai_es] Finished generation 21
+[2022-12-21 01:33:35,745] [INFO] [runner_mujoco] Starting simulation batch with mujoco.
+[2022-12-21 01:33:35,745] [INFO] [runner_mujoco] Environment 0
+[2022-12-21 01:33:42,033] [WARNING] [core] Nan, Inf or huge value in QACC at DOF 0. The simulation is unstable. Time = 22.2885.
+[2022-12-21 01:34:06,307] [INFO] [runner_mujoco] Environment 1
+[2022-12-21 01:34:17,220] [INFO] [runner_mujoco] Environment 2
+[2022-12-21 01:34:26,165] [WARNING] [core] Nan, Inf or huge value in QVEL at DOF 0. The simulation is unstable. Time = 20.0375.
+[2022-12-21 01:34:48,548] [INFO] [runner_mujoco] Environment 3
+[2022-12-21 01:35:08,051] [INFO] [runner_mujoco] Environment 4
+[2022-12-21 01:35:16,623] [INFO] [runner_mujoco] Environment 5
+[2022-12-21 01:35:26,317] [INFO] [runner_mujoco] Environment 6
+[2022-12-21 01:35:34,595] [INFO] [runner_mujoco] Environment 7
+[2022-12-21 01:35:39,123] [WARNING] [core] Nan, Inf or huge value in QACC at DOF 6. The simulation is unstable. Time = 13.6710.
+[2022-12-21 01:35:56,130] [INFO] [runner_mujoco] Environment 8
+[2022-12-21 01:36:06,411] [WARNING] [core] Nan, Inf or huge value in QACC at DOF 10. The simulation is unstable. Time = 28.6190.
+[2022-12-21 01:36:33,651] [INFO] [runner_mujoco] Environment 9
+[2022-12-21 01:36:40,976] [WARNING] [core] Nan, Inf or huge value in QACC at DOF 0. The simulation is unstable. Time = 21.8545.
+[2022-12-21 01:37:03,297] [WARNING] [core] Nan, Inf or huge value in QVEL at DOF 0. The simulation is unstable. Time = 28.6075.
+[2022-12-21 01:37:30,862] [INFO] [runner_mujoco] Finished batch.
+[2022-12-21 01:37:30,955] [INFO] [openai_es] Finished generation 22
+[2022-12-21 01:37:31,568] [INFO] [runner_mujoco] Starting simulation batch with mujoco.
+[2022-12-21 01:37:31,568] [INFO] [runner_mujoco] Environment 0
+[2022-12-21 01:37:42,420] [INFO] [runner_mujoco] Environment 1
+[2022-12-21 01:37:50,865] [INFO] [runner_mujoco] Environment 2
+[2022-12-21 01:37:57,149] [WARNING] [core] Nan, Inf or huge value in QVEL at DOF 0. The simulation is unstable. Time = 16.8910.
+[2022-12-21 01:38:17,114] [INFO] [runner_mujoco] Environment 3
+[2022-12-21 01:38:29,045] [INFO] [runner_mujoco] Environment 4
+[2022-12-21 01:38:39,696] [INFO] [runner_mujoco] Environment 5
+[2022-12-21 01:38:44,209] [WARNING] [core] Nan, Inf or huge value in QACC at DOF 0. The simulation is unstable. Time = 10.7945.
+[2022-12-21 01:39:00,566] [INFO] [runner_mujoco] Environment 6
+[2022-12-21 01:39:08,573] [INFO] [runner_mujoco] Environment 7
+[2022-12-21 01:39:18,522] [INFO] [runner_mujoco] Environment 8
+[2022-12-21 01:39:23,550] [WARNING] [core] Nan, Inf or huge value in QVEL at DOF 0. The simulation is unstable. Time = 17.7950.
+[2022-12-21 01:39:43,546] [INFO] [runner_mujoco] Environment 9
+[2022-12-21 01:39:52,383] [INFO] [runner_mujoco] Finished batch.
+[2022-12-21 01:39:52,486] [INFO] [openai_es] Finished generation 23
+[2022-12-21 01:39:53,079] [INFO] [runner_mujoco] Starting simulation batch with mujoco.
+[2022-12-21 01:39:53,079] [INFO] [runner_mujoco] Environment 0
+[2022-12-21 01:40:01,757] [INFO] [runner_mujoco] Environment 1
+[2022-12-21 01:40:11,035] [INFO] [runner_mujoco] Environment 2
+[2022-12-21 01:40:19,964] [INFO] [runner_mujoco] Environment 3
+[2022-12-21 01:40:27,262] [WARNING] [core] Nan, Inf or huge value in QVEL at DOF 0. The simulation is unstable. Time = 26.0530.
+[2022-12-21 01:40:53,321] [INFO] [runner_mujoco] Environment 4
+[2022-12-21 01:40:57,906] [WARNING] [core] Nan, Inf or huge value in QVEL at DOF 0. The simulation is unstable. Time = 15.9805.
+[2022-12-21 01:41:17,667] [INFO] [runner_mujoco] Environment 5
+[2022-12-21 01:41:29,200] [WARNING] [core] Nan, Inf or huge value in QVEL at DOF 0. The simulation is unstable. Time = 27.8035.
+[2022-12-21 01:41:56,805] [INFO] [runner_mujoco] Environment 6
+[2022-12-21 01:42:06,707] [INFO] [runner_mujoco] Environment 7
+[2022-12-21 01:42:15,438] [INFO] [runner_mujoco] Environment 8
+[2022-12-21 01:42:26,526] [INFO] [runner_mujoco] Environment 9
+[2022-12-21 01:42:33,309] [INFO] [runner_mujoco] Finished batch.
+[2022-12-21 01:42:33,414] [INFO] [openai_es] Finished generation 24
+[2022-12-21 01:42:33,980] [INFO] [runner_mujoco] Starting simulation batch with mujoco.
+[2022-12-21 01:42:33,980] [INFO] [runner_mujoco] Environment 0
+[2022-12-21 01:42:43,370] [INFO] [runner_mujoco] Environment 1
+[2022-12-21 01:42:53,006] [INFO] [runner_mujoco] Environment 2
+[2022-12-21 01:43:01,909] [WARNING] [core] Nan, Inf or huge value in QVEL at DOF 0. The simulation is unstable. Time = 27.8410.
+[2022-12-21 01:43:28,111] [INFO] [runner_mujoco] Environment 3
+[2022-12-21 01:43:37,414] [INFO] [runner_mujoco] Environment 4
+[2022-12-21 01:43:46,600] [INFO] [runner_mujoco] Environment 5
+[2022-12-21 01:43:55,699] [INFO] [runner_mujoco] Environment 6
+[2022-12-21 01:44:07,186] [INFO] [runner_mujoco] Environment 7
+[2022-12-21 01:44:16,200] [INFO] [runner_mujoco] Environment 8
+[2022-12-21 01:44:26,693] [INFO] [runner_mujoco] Environment 9
+[2022-12-21 01:44:38,224] [INFO] [runner_mujoco] Finished batch.
+[2022-12-21 01:44:38,323] [INFO] [openai_es] Finished generation 25
+[2022-12-21 01:44:38,938] [INFO] [runner_mujoco] Starting simulation batch with mujoco.
+[2022-12-21 01:44:38,939] [INFO] [runner_mujoco] Environment 0
+[2022-12-21 01:44:45,933] [WARNING] [core] Nan, Inf or huge value in QACC at DOF 0. The simulation is unstable. Time = 19.6805.
+[2022-12-21 01:45:06,456] [INFO] [runner_mujoco] Environment 1
+[2022-12-21 01:45:11,524] [WARNING] [core] Nan, Inf or huge value in QACC at DOF 0. The simulation is unstable. Time = 17.3875.
+[2022-12-21 01:45:31,502] [INFO] [runner_mujoco] Environment 2
+[2022-12-21 01:45:41,370] [INFO] [runner_mujoco] Environment 3
+[2022-12-21 01:45:50,750] [INFO] [runner_mujoco] Environment 4
+[2022-12-21 01:46:00,461] [INFO] [runner_mujoco] Environment 5
+[2022-12-21 01:46:10,160] [INFO] [runner_mujoco] Environment 6
+[2022-12-21 01:46:18,520] [INFO] [runner_mujoco] Environment 7
+[2022-12-21 01:46:28,523] [WARNING] [core] Nan, Inf or huge value in QVEL at DOF 0. The simulation is unstable. Time = 29.4675.
+[2022-12-21 01:46:56,296] [INFO] [runner_mujoco] Environment 8
+[2022-12-21 01:47:01,361] [WARNING] [core] Nan, Inf or huge value in QVEL at DOF 0. The simulation is unstable. Time = 15.1155.
+[2022-12-21 01:47:42,938] [INFO] [runner_mujoco] Environment 9
+[2022-12-21 01:47:52,736] [INFO] [runner_mujoco] Finished batch.
+[2022-12-21 01:47:52,845] [INFO] [openai_es] Finished generation 26
+[2022-12-21 01:47:53,421] [INFO] [runner_mujoco] Starting simulation batch with mujoco.
+[2022-12-21 01:47:53,421] [INFO] [runner_mujoco] Environment 0
+[2022-12-21 01:48:03,356] [INFO] [runner_mujoco] Environment 1
+[2022-12-21 01:48:10,910] [INFO] [runner_mujoco] Environment 2
+[2022-12-21 01:48:19,361] [WARNING] [core] Nan, Inf or huge value in QVEL at DOF 4. The simulation is unstable. Time = 24.6005.
+[2022-12-21 01:48:45,435] [INFO] [runner_mujoco] Environment 3
+[2022-12-21 01:48:55,644] [INFO] [runner_mujoco] Environment 4
+[2022-12-21 01:49:06,585] [INFO] [runner_mujoco] Environment 5
+[2022-12-21 01:49:18,564] [WARNING] [core] Nan, Inf or huge value in QACC at DOF 1. The simulation is unstable. Time = 28.1625.
+[2022-12-21 01:49:45,257] [INFO] [runner_mujoco] Environment 6
+[2022-12-21 01:49:53,494] [INFO] [runner_mujoco] Environment 7
+[2022-12-21 01:50:03,541] [INFO] [runner_mujoco] Environment 8
+[2022-12-21 01:50:13,170] [INFO] [runner_mujoco] Environment 9
+[2022-12-21 01:50:23,071] [INFO] [runner_mujoco] Finished batch.
+[2022-12-21 01:50:23,165] [INFO] [openai_es] Finished generation 27
+[2022-12-21 01:50:23,732] [INFO] [runner_mujoco] Starting simulation batch with mujoco.
+[2022-12-21 01:50:23,733] [INFO] [runner_mujoco] Environment 0
+[2022-12-21 01:50:34,801] [INFO] [runner_mujoco] Environment 1
+[2022-12-21 01:50:41,398] [WARNING] [core] Nan, Inf or huge value in QACC at DOF 0. The simulation is unstable. Time = 21.3940.
+[2022-12-21 01:51:04,716] [INFO] [runner_mujoco] Environment 2
+[2022-12-21 01:51:13,075] [WARNING] [core] Nan, Inf or huge value in QVEL at DOF 3. The simulation is unstable. Time = 29.7045.
+[2022-12-21 01:51:41,391] [INFO] [runner_mujoco] Environment 3
+[2022-12-21 01:51:54,006] [INFO] [runner_mujoco] Environment 4
+[2022-12-21 01:52:03,636] [INFO] [runner_mujoco] Environment 5
+[2022-12-21 01:52:13,187] [INFO] [runner_mujoco] Environment 6
+[2022-12-21 01:52:21,745] [INFO] [runner_mujoco] Environment 7
+[2022-12-21 01:52:32,323] [INFO] [runner_mujoco] Environment 8
+[2022-12-21 01:52:36,235] [WARNING] [core] Nan, Inf or huge value in QACC at DOF 0. The simulation is unstable. Time = 13.9375.
+[2022-12-21 01:52:55,787] [INFO] [runner_mujoco] Environment 9
+[2022-12-21 01:53:05,018] [INFO] [runner_mujoco] Finished batch.
+[2022-12-21 01:53:05,110] [INFO] [openai_es] Finished generation 28
+[2022-12-21 01:53:05,723] [INFO] [runner_mujoco] Starting simulation batch with mujoco.
+[2022-12-21 01:53:05,723] [INFO] [runner_mujoco] Environment 0
+[2022-12-21 01:53:14,845] [INFO] [runner_mujoco] Environment 1
+[2022-12-21 01:53:22,269] [WARNING] [core] Nan, Inf or huge value in QACC at DOF 0. The simulation is unstable. Time = 16.1300.
+[2022-12-21 01:53:41,917] [INFO] [runner_mujoco] Environment 2
+[2022-12-21 01:53:51,428] [INFO] [runner_mujoco] Environment 3
+[2022-12-21 01:54:00,067] [WARNING] [core] Nan, Inf or huge value in QACC at DOF 0. The simulation is unstable. Time = 23.2040.
+[2022-12-21 01:54:24,088] [INFO] [runner_mujoco] Environment 4
+[2022-12-21 01:54:30,760] [INFO] [runner_mujoco] Environment 5
+[2022-12-21 01:54:40,169] [INFO] [runner_mujoco] Environment 6
+[2022-12-21 01:54:49,501] [INFO] [runner_mujoco] Environment 7
+[2022-12-21 01:54:55,297] [WARNING] [core] Nan, Inf or huge value in QVEL at DOF 0. The simulation is unstable. Time = 17.2640.
+[2022-12-21 01:55:15,213] [INFO] [runner_mujoco] Environment 8
+[2022-12-21 01:55:23,879] [WARNING] [core] Nan, Inf or huge value in QVEL at DOF 5. The simulation is unstable. Time = 27.3495.
+[2022-12-21 01:55:49,982] [INFO] [runner_mujoco] Environment 9
+[2022-12-21 01:55:59,629] [INFO] [runner_mujoco] Finished batch.
+[2022-12-21 01:55:59,716] [INFO] [openai_es] Finished generation 29
+[2022-12-21 01:56:00,298] [INFO] [runner_mujoco] Starting simulation batch with mujoco.
+[2022-12-21 01:56:00,298] [INFO] [runner_mujoco] Environment 0
+[2022-12-21 01:56:04,928] [WARNING] [core] Nan, Inf or huge value in QVEL at DOF 0. The simulation is unstable. Time = 12.7110.
+[2022-12-21 01:56:22,204] [INFO] [runner_mujoco] Environment 1
+[2022-12-21 01:56:25,585] [WARNING] [core] Nan, Inf or huge value in QACC at DOF 0. The simulation is unstable. Time = 11.7135.
+[2022-12-21 01:56:41,620] [INFO] [runner_mujoco] Environment 2
+[2022-12-21 01:56:50,383] [INFO] [runner_mujoco] Environment 3
+[2022-12-21 01:56:53,394] [WARNING] [core] Nan, Inf or huge value in QACC at DOF 0. The simulation is unstable. Time = 7.8770.
+[2022-12-21 01:57:07,743] [INFO] [runner_mujoco] Environment 4
+[2022-12-21 01:57:17,269] [INFO] [runner_mujoco] Environment 5
+[2022-12-21 01:57:23,800] [WARNING] [core] Nan, Inf or huge value in QACC at DOF 0. The simulation is unstable. Time = 17.9015.
+[2022-12-21 01:57:44,165] [INFO] [runner_mujoco] Environment 6
+[2022-12-21 01:57:55,233] [INFO] [runner_mujoco] Environment 7
+[2022-12-21 01:58:04,289] [INFO] [runner_mujoco] Environment 8
+[2022-12-21 01:58:15,823] [INFO] [runner_mujoco] Environment 9
+[2022-12-21 01:58:25,258] [INFO] [runner_mujoco] Finished batch.
+[2022-12-21 01:58:25,353] [INFO] [openai_es] Finished generation 30
+[2022-12-21 01:58:25,993] [INFO] [runner_mujoco] Starting simulation batch with mujoco.
+[2022-12-21 01:58:25,993] [INFO] [runner_mujoco] Environment 0
+[2022-12-21 01:58:35,153] [WARNING] [core] Nan, Inf or huge value in QVEL at DOF 3. The simulation is unstable. Time = 28.9610.
+[2022-12-21 01:59:01,670] [INFO] [runner_mujoco] Environment 1
+[2022-12-21 01:59:10,248] [INFO] [runner_mujoco] Environment 2
+[2022-12-21 01:59:18,938] [WARNING] [core] Nan, Inf or huge value in QVEL at DOF 0. The simulation is unstable. Time = 24.6815.
+[2022-12-21 01:59:43,811] [INFO] [runner_mujoco] Environment 3
+[2022-12-21 01:59:54,818] [INFO] [runner_mujoco] Environment 4
+[2022-12-21 01:59:59,428] [WARNING] [core] Nan, Inf or huge value in QVEL at DOF 18. The simulation is unstable. Time = 11.2835.
+[2022-12-21 02:00:19,167] [INFO] [runner_mujoco] Environment 5
+[2022-12-21 02:00:24,871] [WARNING] [core] Nan, Inf or huge value in QVEL at DOF 3. The simulation is unstable. Time = 17.1980.
+[2022-12-21 02:00:45,483] [INFO] [runner_mujoco] Environment 6
+[2022-12-21 02:00:56,099] [INFO] [runner_mujoco] Environment 7
+[2022-12-21 02:01:04,692] [INFO] [runner_mujoco] Environment 8
+[2022-12-21 02:01:18,233] [INFO] [runner_mujoco] Environment 9
+[2022-12-21 02:01:26,253] [INFO] [runner_mujoco] Finished batch.
+[2022-12-21 02:01:26,365] [INFO] [openai_es] Finished generation 31
+[2022-12-21 02:01:26,900] [INFO] [runner_mujoco] Starting simulation batch with mujoco.
+[2022-12-21 02:01:26,900] [INFO] [runner_mujoco] Environment 0
+[2022-12-21 02:01:36,829] [INFO] [runner_mujoco] Environment 1
+[2022-12-21 02:01:43,522] [WARNING] [core] Nan, Inf or huge value in QACC at DOF 0. The simulation is unstable. Time = 16.9895.
+[2022-12-21 02:02:03,217] [INFO] [runner_mujoco] Environment 2
+[2022-12-21 02:02:11,492] [WARNING] [core] Nan, Inf or huge value in QVEL at DOF 7. The simulation is unstable. Time = 25.6650.
+[2022-12-21 02:02:36,594] [INFO] [runner_mujoco] Environment 3
+[2022-12-21 02:02:44,903] [INFO] [runner_mujoco] Environment 4
+[2022-12-21 02:02:53,902] [INFO] [runner_mujoco] Environment 5
+[2022-12-21 02:03:01,269] [INFO] [runner_mujoco] Environment 6
+[2022-12-21 02:03:09,974] [WARNING] [core] Nan, Inf or huge value in QVEL at DOF 0. The simulation is unstable. Time = 25.3685.
+[2022-12-21 02:03:34,792] [INFO] [runner_mujoco] Environment 7
+[2022-12-21 02:03:40,124] [WARNING] [core] Nan, Inf or huge value in QVEL at DOF 0. The simulation is unstable. Time = 19.4780.
+[2022-12-21 02:04:01,988] [INFO] [runner_mujoco] Environment 8
+[2022-12-21 02:04:11,425] [INFO] [runner_mujoco] Environment 9
+[2022-12-21 02:04:19,791] [WARNING] [core] Nan, Inf or huge value in QACC at DOF 3. The simulation is unstable. Time = 23.7115.
+[2022-12-21 02:04:43,600] [INFO] [runner_mujoco] Finished batch.
+[2022-12-21 02:04:43,706] [INFO] [openai_es] Finished generation 32
+[2022-12-21 02:04:44,312] [INFO] [runner_mujoco] Starting simulation batch with mujoco.
+[2022-12-21 02:04:44,312] [INFO] [runner_mujoco] Environment 0
+[2022-12-21 02:04:52,730] [INFO] [runner_mujoco] Environment 1
+[2022-12-21 02:04:58,397] [WARNING] [core] Nan, Inf or huge value in QVEL at DOF 0. The simulation is unstable. Time = 16.3005.
+[2022-12-21 02:05:16,294] [INFO] [runner_mujoco] Environment 2
+[2022-12-21 02:05:25,852] [INFO] [runner_mujoco] Environment 3
+[2022-12-21 02:05:30,211] [WARNING] [core] Nan, Inf or huge value in QACC at DOF 0. The simulation is unstable. Time = 14.1945.
+[2022-12-21 02:05:47,559] [INFO] [runner_mujoco] Environment 4
+[2022-12-21 02:05:57,937] [INFO] [runner_mujoco] Environment 5
+[2022-12-21 02:06:06,753] [INFO] [runner_mujoco] Environment 6
+[2022-12-21 02:06:16,325] [INFO] [runner_mujoco] Environment 7
+[2022-12-21 02:06:25,517] [INFO] [runner_mujoco] Environment 8
+[2022-12-21 02:06:33,859] [WARNING] [core] Nan, Inf or huge value in QVEL at DOF 0. The simulation is unstable. Time = 22.9935.
+[2022-12-21 02:06:58,545] [INFO] [runner_mujoco] Environment 9
+[2022-12-21 02:07:08,610] [WARNING] [core] Nan, Inf or huge value in QACC at DOF 0. The simulation is unstable. Time = 26.6235.
+[2022-12-21 02:07:34,917] [INFO] [runner_mujoco] Finished batch.
+[2022-12-21 02:07:35,032] [INFO] [openai_es] Finished generation 33
+[2022-12-21 02:07:35,605] [INFO] [runner_mujoco] Starting simulation batch with mujoco.
+[2022-12-21 02:07:35,605] [INFO] [runner_mujoco] Environment 0
+[2022-12-21 02:07:44,818] [INFO] [runner_mujoco] Environment 1
+[2022-12-21 02:07:52,827] [INFO] [runner_mujoco] Environment 2
+[2022-12-21 02:08:02,078] [INFO] [runner_mujoco] Environment 3
+[2022-12-21 02:08:13,139] [INFO] [runner_mujoco] Environment 4
+[2022-12-21 02:08:19,992] [WARNING] [core] Nan, Inf or huge value in QPOS at DOF 12. The simulation is unstable. Time = 23.1325.
+[2022-12-21 02:08:44,325] [INFO] [runner_mujoco] Environment 5
+[2022-12-21 02:08:51,799] [INFO] [runner_mujoco] Environment 6
+[2022-12-21 02:09:01,500] [INFO] [runner_mujoco] Environment 7
+[2022-12-21 02:09:07,863] [WARNING] [core] Nan, Inf or huge value in QVEL at DOF 12. The simulation is unstable. Time = 22.4450.
+[2022-12-21 02:09:31,267] [INFO] [runner_mujoco] Environment 8
+[2022-12-21 02:09:41,527] [INFO] [runner_mujoco] Environment 9
+[2022-12-21 02:09:50,618] [INFO] [runner_mujoco] Finished batch.
+[2022-12-21 02:09:50,706] [INFO] [openai_es] Finished generation 34
+[2022-12-21 02:09:51,309] [INFO] [runner_mujoco] Starting simulation batch with mujoco.
+[2022-12-21 02:09:51,309] [INFO] [runner_mujoco] Environment 0
+[2022-12-21 02:09:54,361] [WARNING] [core] Nan, Inf or huge value in QVEL at DOF 0. The simulation is unstable. Time = 10.1535.
+[2022-12-21 02:10:08,162] [INFO] [runner_mujoco] Environment 1
+[2022-12-21 02:10:28,828] [INFO] [runner_mujoco] Environment 2
+[2022-12-21 02:10:37,034] [WARNING] [core] Nan, Inf or huge value in QPOS at DOF 8. The simulation is unstable. Time = 22.7410.
+[2022-12-21 02:11:00,085] [INFO] [runner_mujoco] Environment 3
+[2022-12-21 02:11:10,247] [INFO] [runner_mujoco] Environment 4
+[2022-12-21 02:11:18,941] [INFO] [runner_mujoco] Environment 5
+[2022-12-21 02:11:29,282] [INFO] [runner_mujoco] Environment 6
+[2022-12-21 02:11:38,464] [INFO] [runner_mujoco] Environment 7
+[2022-12-21 02:11:46,062] [INFO] [runner_mujoco] Environment 8
+[2022-12-21 02:11:54,669] [INFO] [runner_mujoco] Environment 9
+[2022-12-21 02:12:04,598] [INFO] [runner_mujoco] Finished batch.
+[2022-12-21 02:12:04,682] [INFO] [openai_es] Finished generation 35
+[2022-12-21 02:12:05,334] [INFO] [runner_mujoco] Starting simulation batch with mujoco.
+[2022-12-21 02:12:05,334] [INFO] [runner_mujoco] Environment 0
+[2022-12-21 02:12:16,180] [WARNING] [core] Nan, Inf or huge value in QACC at DOF 3. The simulation is unstable. Time = 28.7185.
+[2022-12-21 02:12:43,127] [INFO] [runner_mujoco] Environment 1
+[2022-12-21 02:12:52,712] [WARNING] [core] Nan, Inf or huge value in QVEL at DOF 0. The simulation is unstable. Time = 26.3970.
+[2022-12-21 02:13:18,219] [INFO] [runner_mujoco] Environment 2
+[2022-12-21 02:13:29,347] [INFO] [runner_mujoco] Environment 3
+[2022-12-21 02:13:36,192] [WARNING] [core] Nan, Inf or huge value in QACC at DOF 0. The simulation is unstable. Time = 18.1805.
+[2022-12-21 02:13:56,911] [INFO] [runner_mujoco] Environment 4
+[2022-12-21 02:14:04,297] [WARNING] [core] Nan, Inf or huge value in QACC at DOF 3. The simulation is unstable. Time = 22.8860.
+[2022-12-21 02:14:27,272] [INFO] [runner_mujoco] Environment 5
+[2022-12-21 02:14:36,171] [INFO] [runner_mujoco] Environment 6
+[2022-12-21 02:14:42,385] [WARNING] [core] Nan, Inf or huge value in QVEL at DOF 0. The simulation is unstable. Time = 15.5250.
+[2022-12-21 02:15:00,965] [WARNING] [core] Nan, Inf or huge value in QACC at DOF 0. The simulation is unstable. Time = 28.3465.
+[2022-12-21 02:15:27,597] [INFO] [runner_mujoco] Environment 7
+[2022-12-21 02:15:39,474] [INFO] [runner_mujoco] Environment 8
+[2022-12-21 02:15:50,136] [INFO] [runner_mujoco] Environment 9
+[2022-12-21 02:15:52,522] [WARNING] [core] Nan, Inf or huge value in QACC at DOF 0. The simulation is unstable. Time = 8.8125.
+[2022-12-21 02:16:06,661] [INFO] [runner_mujoco] Finished batch.
+[2022-12-21 02:16:06,769] [INFO] [openai_es] Finished generation 36
+[2022-12-21 02:16:07,301] [INFO] [runner_mujoco] Starting simulation batch with mujoco.
+[2022-12-21 02:16:07,301] [INFO] [runner_mujoco] Environment 0
+[2022-12-21 02:16:10,138] [WARNING] [core] Nan, Inf or huge value in QACC at DOF 0. The simulation is unstable. Time = 6.5275.
+[2022-12-21 02:16:24,033] [INFO] [runner_mujoco] Environment 1
+[2022-12-21 02:16:31,913] [WARNING] [core] Nan, Inf or huge value in QACC at DOF 0. The simulation is unstable. Time = 19.5200.
+[2022-12-21 02:17:21,551] [INFO] [runner_mujoco] Environment 2
+[2022-12-21 02:17:29,129] [WARNING] [core] Nan, Inf or huge value in QACC at DOF 3. The simulation is unstable. Time = 22.1005.
+[2022-12-21 02:17:52,475] [INFO] [runner_mujoco] Environment 3
+[2022-12-21 02:18:02,519] [INFO] [runner_mujoco] Environment 4
+[2022-12-21 02:18:12,561] [INFO] [runner_mujoco] Environment 5
+[2022-12-21 02:18:21,936] [INFO] [runner_mujoco] Environment 6
+[2022-12-21 02:18:31,302] [INFO] [runner_mujoco] Environment 7
+[2022-12-21 02:18:40,615] [INFO] [runner_mujoco] Environment 8
+[2022-12-21 02:18:46,956] [WARNING] [core] Nan, Inf or huge value in QVEL at DOF 0. The simulation is unstable. Time = 22.3670.
+[2022-12-21 02:19:09,601] [INFO] [runner_mujoco] Environment 9
+[2022-12-21 02:19:18,737] [INFO] [runner_mujoco] Finished batch.
+[2022-12-21 02:19:18,847] [INFO] [openai_es] Finished generation 37
+[2022-12-21 02:19:19,444] [INFO] [runner_mujoco] Starting simulation batch with mujoco.
+[2022-12-21 02:19:19,444] [INFO] [runner_mujoco] Environment 0
+[2022-12-21 02:19:29,253] [INFO] [runner_mujoco] Environment 1
+[2022-12-21 02:19:34,524] [WARNING] [core] Nan, Inf or huge value in QVEL at DOF 0. The simulation is unstable. Time = 16.1325.
+[2022-12-21 02:19:53,348] [INFO] [runner_mujoco] Environment 2
+[2022-12-21 02:20:01,721] [INFO] [runner_mujoco] Environment 3
+[2022-12-21 02:20:13,170] [INFO] [runner_mujoco] Environment 4
+[2022-12-21 02:20:24,037] [INFO] [runner_mujoco] Environment 5
+[2022-12-21 02:20:31,018] [INFO] [runner_mujoco] Environment 6
+[2022-12-21 02:20:39,167] [INFO] [runner_mujoco] Environment 7
+[2022-12-21 02:20:48,653] [INFO] [runner_mujoco] Environment 8
+[2022-12-21 02:20:58,291] [INFO] [runner_mujoco] Environment 9
+[2022-12-21 02:21:06,860] [INFO] [runner_mujoco] Finished batch.
+[2022-12-21 02:21:06,967] [INFO] [openai_es] Finished generation 38
+[2022-12-21 02:21:07,594] [INFO] [runner_mujoco] Starting simulation batch with mujoco.
+[2022-12-21 02:21:07,594] [INFO] [runner_mujoco] Environment 0
+[2022-12-21 02:21:17,796] [INFO] [runner_mujoco] Environment 1
+[2022-12-21 02:21:26,529] [INFO] [runner_mujoco] Environment 2
+[2022-12-21 02:21:32,019] [WARNING] [core] Nan, Inf or huge value in QPOS at DOF 13. The simulation is unstable. Time = 18.5500.
+[2022-12-21 02:21:53,642] [INFO] [runner_mujoco] Environment 3
+[2022-12-21 02:22:01,814] [INFO] [runner_mujoco] Environment 4
+[2022-12-21 02:22:04,705] [WARNING] [core] Nan, Inf or huge value in QACC at DOF 0. The simulation is unstable. Time = 8.5600.
+[2022-12-21 02:22:20,825] [INFO] [runner_mujoco] Environment 5
+[2022-12-21 02:22:27,764] [WARNING] [core] Nan, Inf or huge value in QACC at DOF 12. The simulation is unstable. Time = 18.1510.
+[2022-12-21 02:22:47,355] [INFO] [runner_mujoco] Environment 6
+[2022-12-21 02:22:57,290] [WARNING] [core] Nan, Inf or huge value in QACC at DOF 0. The simulation is unstable. Time = 26.2735.
+[2022-12-21 02:23:23,303] [INFO] [runner_mujoco] Environment 7
+[2022-12-21 02:23:32,346] [WARNING] [core] Nan, Inf or huge value in QVEL at DOF 3. The simulation is unstable. Time = 28.8390.
+[2022-12-21 02:24:00,108] [INFO] [runner_mujoco] Environment 8
+[2022-12-21 02:24:07,425] [WARNING] [core] Nan, Inf or huge value in QVEL at DOF 5. The simulation is unstable. Time = 18.8380.
+[2022-12-21 02:24:29,312] [INFO] [runner_mujoco] Environment 9
+[2022-12-21 02:24:38,807] [INFO] [runner_mujoco] Finished batch.
+[2022-12-21 02:24:38,907] [INFO] [openai_es] Finished generation 39
+[2022-12-21 02:24:39,522] [INFO] [runner_mujoco] Starting simulation batch with mujoco.
+[2022-12-21 02:24:39,522] [INFO] [runner_mujoco] Environment 0
+[2022-12-21 02:24:48,018] [INFO] [runner_mujoco] Environment 1
+[2022-12-21 02:24:58,190] [INFO] [runner_mujoco] Environment 2
+[2022-12-21 02:25:08,089] [INFO] [runner_mujoco] Environment 3
+[2022-12-21 02:25:14,062] [WARNING] [core] Nan, Inf or huge value in QACC at DOF 0. The simulation is unstable. Time = 20.6330.
+[2022-12-21 02:25:36,144] [INFO] [runner_mujoco] Environment 4
+[2022-12-21 02:25:44,908] [INFO] [runner_mujoco] Environment 5
+[2022-12-21 02:26:02,755] [INFO] [runner_mujoco] Environment 6
+[2022-12-21 02:26:18,131] [INFO] [runner_mujoco] Environment 7
+[2022-12-21 02:26:29,269] [INFO] [runner_mujoco] Environment 8
+[2022-12-21 02:26:40,415] [INFO] [runner_mujoco] Environment 9
+[2022-12-21 02:26:48,794] [WARNING] [core] Nan, Inf or huge value in QVEL at DOF 0. The simulation is unstable. Time = 26.5250.
+[2022-12-21 02:27:14,741] [INFO] [runner_mujoco] Finished batch.
+[2022-12-21 02:27:14,841] [INFO] [openai_es] Finished generation 40
+[2022-12-21 02:27:15,452] [INFO] [runner_mujoco] Starting simulation batch with mujoco.
+[2022-12-21 02:27:15,452] [INFO] [runner_mujoco] Environment 0
+[2022-12-21 02:27:28,334] [INFO] [runner_mujoco] Environment 1
+[2022-12-21 02:27:38,503] [INFO] [runner_mujoco] Environment 2
+[2022-12-21 02:27:42,185] [WARNING] [core] Nan, Inf or huge value in QACC at DOF 0. The simulation is unstable. Time = 10.8180.
+[2022-12-21 02:27:58,967] [INFO] [runner_mujoco] Environment 3
+[2022-12-21 02:28:06,763] [WARNING] [core] Nan, Inf or huge value in QVEL at DOF 0. The simulation is unstable. Time = 25.9715.
+[2022-12-21 02:28:31,778] [INFO] [runner_mujoco] Environment 4
+[2022-12-21 02:28:39,637] [INFO] [runner_mujoco] Environment 5
+[2022-12-21 02:28:50,887] [INFO] [runner_mujoco] Environment 6
+[2022-12-21 02:29:00,831] [INFO] [runner_mujoco] Environment 7
+[2022-12-21 02:29:06,727] [WARNING] [core] Nan, Inf or huge value in QACC at DOF 3. The simulation is unstable. Time = 15.5845.
+[2022-12-21 02:29:25,028] [INFO] [runner_mujoco] Environment 8
+[2022-12-21 02:29:42,182] [INFO] [runner_mujoco] Environment 9
+[2022-12-21 02:29:51,726] [INFO] [runner_mujoco] Finished batch.
+[2022-12-21 02:29:51,827] [INFO] [openai_es] Finished generation 41
+[2022-12-21 02:29:52,391] [INFO] [runner_mujoco] Starting simulation batch with mujoco.
+[2022-12-21 02:29:52,391] [INFO] [runner_mujoco] Environment 0
+[2022-12-21 02:30:03,273] [INFO] [runner_mujoco] Environment 1
+[2022-12-21 02:30:13,175] [INFO] [runner_mujoco] Environment 2
+[2022-12-21 02:30:18,170] [WARNING] [core] Nan, Inf or huge value in QVEL at DOF 0. The simulation is unstable. Time = 11.1110.
+[2022-12-21 02:30:34,632] [INFO] [runner_mujoco] Environment 3
+[2022-12-21 02:30:43,473] [INFO] [runner_mujoco] Environment 4
+[2022-12-21 02:30:54,249] [INFO] [runner_mujoco] Environment 5
+[2022-12-21 02:31:04,952] [INFO] [runner_mujoco] Environment 6
+[2022-12-21 02:31:15,187] [INFO] [runner_mujoco] Environment 7
+[2022-12-21 02:31:25,928] [INFO] [runner_mujoco] Environment 8
+[2022-12-21 02:31:37,550] [INFO] [runner_mujoco] Environment 9
+[2022-12-21 02:31:46,209] [INFO] [runner_mujoco] Finished batch.
+[2022-12-21 02:31:46,291] [INFO] [openai_es] Finished generation 42
+[2022-12-21 02:31:46,935] [INFO] [runner_mujoco] Starting simulation batch with mujoco.
+[2022-12-21 02:31:46,935] [INFO] [runner_mujoco] Environment 0
+[2022-12-21 02:31:55,593] [INFO] [runner_mujoco] Environment 1
+[2022-12-21 02:32:04,895] [INFO] [runner_mujoco] Environment 2
+[2022-12-21 02:32:13,749] [WARNING] [core] Nan, Inf or huge value in QVEL at DOF 0. The simulation is unstable. Time = 27.3680.
+[2022-12-21 02:32:40,024] [INFO] [runner_mujoco] Environment 3
+[2022-12-21 02:32:48,756] [INFO] [runner_mujoco] Environment 4
+[2022-12-21 02:32:54,928] [WARNING] [core] Nan, Inf or huge value in QACC at DOF 3. The simulation is unstable. Time = 19.8295.
+[2022-12-21 02:33:16,232] [INFO] [runner_mujoco] Environment 5
+[2022-12-21 02:33:24,568] [INFO] [runner_mujoco] Environment 6
+[2022-12-21 02:33:33,527] [INFO] [runner_mujoco] Environment 7
+[2022-12-21 02:33:38,754] [WARNING] [core] Nan, Inf or huge value in QPOS at DOF 12. The simulation is unstable. Time = 15.0875.
+[2022-12-21 02:33:56,021] [INFO] [runner_mujoco] Environment 8
+[2022-12-21 02:34:05,130] [INFO] [runner_mujoco] Environment 9
+[2022-12-21 02:34:15,135] [INFO] [runner_mujoco] Finished batch.
+[2022-12-21 02:34:15,287] [INFO] [openai_es] Finished generation 43
+[2022-12-21 02:34:15,932] [INFO] [runner_mujoco] Starting simulation batch with mujoco.
+[2022-12-21 02:34:15,932] [INFO] [runner_mujoco] Environment 0
+[2022-12-21 02:34:25,833] [INFO] [runner_mujoco] Environment 1
+[2022-12-21 02:34:34,288] [INFO] [runner_mujoco] Environment 2
+[2022-12-21 02:34:42,996] [INFO] [runner_mujoco] Environment 3
+[2022-12-21 02:34:51,980] [INFO] [runner_mujoco] Environment 4
+[2022-12-21 02:34:55,727] [WARNING] [core] Nan, Inf or huge value in QVEL at DOF 0. The simulation is unstable. Time = 10.3525.
+[2022-12-21 02:35:12,199] [INFO] [runner_mujoco] Environment 5
+[2022-12-21 02:35:21,627] [WARNING] [core] Nan, Inf or huge value in QVEL at DOF 0. The simulation is unstable. Time = 29.8540.
+[2022-12-21 02:35:50,109] [INFO] [runner_mujoco] Environment 6
+[2022-12-21 02:35:53,206] [WARNING] [core] Nan, Inf or huge value in QACC at DOF 3. The simulation is unstable. Time = 9.5020.
+[2022-12-21 02:36:09,143] [INFO] [runner_mujoco] Environment 7
+[2022-12-21 02:36:19,636] [INFO] [runner_mujoco] Environment 8
+[2022-12-21 02:36:21,667] [WARNING] [core] Nan, Inf or huge value in QVEL at DOF 0. The simulation is unstable. Time = 7.6180.
+[2022-12-21 02:36:35,633] [INFO] [runner_mujoco] Environment 9
+[2022-12-21 02:36:44,303] [WARNING] [core] Nan, Inf or huge value in QVEL at DOF 0. The simulation is unstable. Time = 26.7935.
+[2022-12-21 02:37:10,151] [INFO] [runner_mujoco] Finished batch.
+[2022-12-21 02:37:10,243] [INFO] [openai_es] Finished generation 44
+[2022-12-21 02:37:10,818] [INFO] [runner_mujoco] Starting simulation batch with mujoco.
+[2022-12-21 02:37:10,818] [INFO] [runner_mujoco] Environment 0
+[2022-12-21 02:37:21,492] [INFO] [runner_mujoco] Environment 1
+[2022-12-21 02:37:26,744] [WARNING] [core] Nan, Inf or huge value in QACC at DOF 0. The simulation is unstable. Time = 13.6355.
+[2022-12-21 02:37:50,193] [INFO] [runner_mujoco] Environment 2
+[2022-12-21 02:37:58,794] [INFO] [runner_mujoco] Environment 3
+[2022-12-21 02:38:07,247] [INFO] [runner_mujoco] Environment 4
+[2022-12-21 02:38:10,770] [WARNING] [core] Nan, Inf or huge value in QVEL at DOF 0. The simulation is unstable. Time = 12.5820.
+[2022-12-21 02:38:28,729] [INFO] [runner_mujoco] Environment 5
+[2022-12-21 02:38:34,505] [WARNING] [core] Nan, Inf or huge value in QACC at DOF 0. The simulation is unstable. Time = 13.7185.
+[2022-12-21 02:38:52,437] [INFO] [runner_mujoco] Environment 6
+[2022-12-21 02:39:02,642] [INFO] [runner_mujoco] Environment 7
+[2022-12-21 02:39:10,059] [WARNING] [core] Nan, Inf or huge value in QACC at DOF 0. The simulation is unstable. Time = 18.9770.
+[2022-12-21 02:39:30,858] [INFO] [runner_mujoco] Environment 8
+[2022-12-21 02:39:39,890] [INFO] [runner_mujoco] Environment 9
+[2022-12-21 02:39:49,323] [INFO] [runner_mujoco] Finished batch.
+[2022-12-21 02:39:49,415] [INFO] [openai_es] Finished generation 45
+[2022-12-21 02:39:50,027] [INFO] [runner_mujoco] Starting simulation batch with mujoco.
+[2022-12-21 02:39:50,027] [INFO] [runner_mujoco] Environment 0
+[2022-12-21 02:39:59,724] [INFO] [runner_mujoco] Environment 1
+[2022-12-21 02:40:08,437] [INFO] [runner_mujoco] Environment 2
+[2022-12-21 02:40:17,698] [INFO] [runner_mujoco] Environment 3
+[2022-12-21 02:40:26,331] [INFO] [runner_mujoco] Environment 4
+[2022-12-21 02:40:32,662] [WARNING] [core] Nan, Inf or huge value in QACC at DOF 3. The simulation is unstable. Time = 18.0765.
+[2022-12-21 02:40:53,158] [INFO] [runner_mujoco] Environment 5
+[2022-12-21 02:41:03,956] [WARNING] [core] Nan, Inf or huge value in QVEL at DOF 0. The simulation is unstable. Time = 29.5060.
+[2022-12-21 02:41:32,491] [INFO] [runner_mujoco] Environment 6
+[2022-12-21 02:41:40,385] [WARNING] [core] Nan, Inf or huge value in QACC at DOF 0. The simulation is unstable. Time = 24.9060.
+[2022-12-21 02:42:04,975] [INFO] [runner_mujoco] Environment 7
+[2022-12-21 02:42:13,768] [INFO] [runner_mujoco] Environment 8
+[2022-12-21 02:42:22,898] [INFO] [runner_mujoco] Environment 9
+[2022-12-21 02:42:31,242] [INFO] [runner_mujoco] Finished batch.
+[2022-12-21 02:42:31,349] [INFO] [openai_es] Finished generation 46
+[2022-12-21 02:42:31,942] [INFO] [runner_mujoco] Starting simulation batch with mujoco.
+[2022-12-21 02:42:31,942] [INFO] [runner_mujoco] Environment 0
+[2022-12-21 02:42:42,216] [INFO] [runner_mujoco] Environment 1
+[2022-12-21 02:42:53,311] [INFO] [runner_mujoco] Environment 2
+[2022-12-21 02:43:04,825] [INFO] [runner_mujoco] Environment 3
+[2022-12-21 02:43:14,776] [INFO] [runner_mujoco] Environment 4
+[2022-12-21 02:43:23,279] [INFO] [runner_mujoco] Environment 5
+[2022-12-21 02:43:32,686] [INFO] [runner_mujoco] Environment 6
+[2022-12-21 02:43:38,886] [WARNING] [core] Nan, Inf or huge value in QACC at DOF 15. The simulation is unstable. Time = 20.8135.
+[2022-12-21 02:44:01,756] [INFO] [runner_mujoco] Environment 7
+[2022-12-21 02:44:09,177] [WARNING] [core] Nan, Inf or huge value in QACC at DOF 0. The simulation is unstable. Time = 20.3565.
+[2022-12-21 02:44:31,422] [INFO] [runner_mujoco] Environment 8
+[2022-12-21 02:44:39,909] [INFO] [runner_mujoco] Environment 9
+[2022-12-21 02:44:49,795] [WARNING] [core] Nan, Inf or huge value in QACC at DOF 0. The simulation is unstable. Time = 28.3320.
+[2022-12-21 02:45:17,125] [INFO] [runner_mujoco] Finished batch.
+[2022-12-21 02:45:17,212] [INFO] [openai_es] Finished generation 47
+[2022-12-21 02:45:17,793] [INFO] [runner_mujoco] Starting simulation batch with mujoco.
+[2022-12-21 02:45:17,793] [INFO] [runner_mujoco] Environment 0
+[2022-12-21 02:45:28,076] [INFO] [runner_mujoco] Environment 1
+[2022-12-21 02:45:36,935] [INFO] [runner_mujoco] Environment 2
+[2022-12-21 02:45:45,222] [WARNING] [core] Nan, Inf or huge value in QVEL at DOF 0. The simulation is unstable. Time = 21.0855.
+[2022-12-21 02:46:07,494] [WARNING] [core] Nan, Inf or huge value in QACC at DOF 4. The simulation is unstable. Time = 28.7585.
+[2022-12-21 02:46:34,944] [INFO] [runner_mujoco] Environment 3
+[2022-12-21 02:46:43,923] [INFO] [runner_mujoco] Environment 4
+[2022-12-21 02:46:53,780] [INFO] [runner_mujoco] Environment 5
+[2022-12-21 02:47:05,115] [INFO] [runner_mujoco] Environment 6
+[2022-12-21 02:47:14,627] [INFO] [runner_mujoco] Environment 7
+[2022-12-21 02:47:24,967] [INFO] [runner_mujoco] Environment 8
+[2022-12-21 02:47:35,257] [INFO] [runner_mujoco] Environment 9
+[2022-12-21 02:47:39,382] [WARNING] [core] Nan, Inf or huge value in QVEL at DOF 0. The simulation is unstable. Time = 10.7785.
+[2022-12-21 02:47:54,838] [INFO] [runner_mujoco] Finished batch.
+[2022-12-21 02:47:54,935] [INFO] [openai_es] Finished generation 48
+[2022-12-21 02:47:55,470] [INFO] [runner_mujoco] Starting simulation batch with mujoco.
+[2022-12-21 02:47:55,470] [INFO] [runner_mujoco] Environment 0
+[2022-12-21 02:48:04,660] [INFO] [runner_mujoco] Environment 1
+[2022-12-21 02:48:14,134] [INFO] [runner_mujoco] Environment 2
+[2022-12-21 02:48:20,802] [INFO] [runner_mujoco] Environment 3
+[2022-12-21 02:48:32,221] [WARNING] [core] Nan, Inf or huge value in QVEL at DOF 2. The simulation is unstable. Time = 29.8740.
+[2022-12-21 02:49:00,699] [INFO] [runner_mujoco] Environment 4
+[2022-12-21 02:49:10,029] [INFO] [runner_mujoco] Environment 5
+[2022-12-21 02:49:20,322] [INFO] [runner_mujoco] Environment 6
+[2022-12-21 02:49:30,431] [INFO] [runner_mujoco] Environment 7
+[2022-12-21 02:49:37,412] [WARNING] [core] Nan, Inf or huge value in QVEL at DOF 0. The simulation is unstable. Time = 19.9840.
+[2022-12-21 02:49:59,718] [INFO] [runner_mujoco] Environment 8
+[2022-12-21 02:50:09,525] [INFO] [runner_mujoco] Environment 9
+[2022-12-21 02:50:20,998] [INFO] [runner_mujoco] Finished batch.
+[2022-12-21 02:50:21,088] [INFO] [openai_es] Finished generation 49
+[2022-12-21 02:50:21,625] [INFO] [runner_mujoco] Starting simulation batch with mujoco.
+[2022-12-21 02:50:21,625] [INFO] [runner_mujoco] Environment 0
+[2022-12-21 02:50:26,137] [WARNING] [core] Nan, Inf or huge value in QACC at DOF 0. The simulation is unstable. Time = 10.6335.
+[2022-12-21 02:50:41,804] [INFO] [runner_mujoco] Environment 1
+[2022-12-21 02:50:43,302] [WARNING] [core] Nan, Inf or huge value in QVEL at DOF 0. The simulation is unstable. Time = 4.4390.
+[2022-12-21 02:50:54,915] [INFO] [runner_mujoco] Environment 2
+[2022-12-21 02:51:02,425] [WARNING] [core] Nan, Inf or huge value in QVEL at DOF 4. The simulation is unstable. Time = 21.8115.
+[2022-12-21 02:51:25,136] [INFO] [runner_mujoco] Environment 3
+[2022-12-21 02:51:33,680] [INFO] [runner_mujoco] Environment 4
+[2022-12-21 02:51:43,688] [INFO] [runner_mujoco] Environment 5
+[2022-12-21 02:51:49,157] [WARNING] [core] Nan, Inf or huge value in QACC at DOF 0. The simulation is unstable. Time = 13.8550.
+[2022-12-21 02:52:07,826] [INFO] [runner_mujoco] Environment 6
+[2022-12-21 02:52:16,453] [INFO] [runner_mujoco] Environment 7
+[2022-12-21 02:52:32,148] [INFO] [runner_mujoco] Environment 8
+[2022-12-21 02:52:41,369] [INFO] [runner_mujoco] Environment 9
+[2022-12-21 02:52:50,187] [INFO] [runner_mujoco] Finished batch.
+[2022-12-21 02:52:50,288] [INFO] [openai_es] Finished generation 50
+[2022-12-21 02:52:50,881] [INFO] [runner_mujoco] Starting simulation batch with mujoco.
+[2022-12-21 02:52:50,882] [INFO] [runner_mujoco] Environment 0
+[2022-12-21 02:52:59,237] [INFO] [runner_mujoco] Environment 1
+[2022-12-21 02:53:00,245] [WARNING] [core] Nan, Inf or huge value in QACC at DOF 0. The simulation is unstable. Time = 2.6285.
+[2022-12-21 02:53:10,552] [INFO] [runner_mujoco] Environment 2
+[2022-12-21 02:53:21,638] [INFO] [runner_mujoco] Environment 3
+[2022-12-21 02:53:28,782] [WARNING] [core] Nan, Inf or huge value in QACC at DOF 0. The simulation is unstable. Time = 20.9805.
+[2022-12-21 02:53:51,545] [INFO] [runner_mujoco] Environment 4
+[2022-12-21 02:54:01,299] [INFO] [runner_mujoco] Environment 5
+[2022-12-21 02:54:06,708] [WARNING] [core] Nan, Inf or huge value in QACC at DOF 7. The simulation is unstable. Time = 13.2625.
+[2022-12-21 02:54:24,988] [INFO] [runner_mujoco] Environment 6
+[2022-12-21 02:54:27,839] [WARNING] [core] Nan, Inf or huge value in QACC at DOF 0. The simulation is unstable. Time = 9.9890.
+[2022-12-21 02:54:44,088] [INFO] [runner_mujoco] Environment 7
+[2022-12-21 02:54:54,563] [WARNING] [core] Nan, Inf or huge value in QACC at DOF 0. The simulation is unstable. Time = 28.8520.
+[2022-12-21 02:55:21,856] [INFO] [runner_mujoco] Environment 8
+[2022-12-21 02:55:33,372] [INFO] [runner_mujoco] Environment 9
+[2022-12-21 02:55:48,891] [INFO] [runner_mujoco] Finished batch.
+[2022-12-21 02:55:48,978] [INFO] [openai_es] Finished generation 51
+[2022-12-21 02:55:49,563] [INFO] [runner_mujoco] Starting simulation batch with mujoco.
+[2022-12-21 02:55:49,564] [INFO] [runner_mujoco] Environment 0
+[2022-12-21 02:55:58,726] [INFO] [runner_mujoco] Environment 1
+[2022-12-21 02:56:07,688] [INFO] [runner_mujoco] Environment 2
+[2022-12-21 02:56:19,209] [INFO] [runner_mujoco] Environment 3
+[2022-12-21 02:56:28,900] [INFO] [runner_mujoco] Environment 4
+[2022-12-21 02:56:30,864] [WARNING] [core] Nan, Inf or huge value in QACC at DOF 0. The simulation is unstable. Time = 5.1925.
+[2022-12-21 02:57:25,635] [INFO] [runner_mujoco] Environment 5
+[2022-12-21 02:57:34,614] [INFO] [runner_mujoco] Environment 6
+[2022-12-21 02:57:47,761] [INFO] [runner_mujoco] Environment 7
+[2022-12-21 02:57:56,697] [INFO] [runner_mujoco] Environment 8
+[2022-12-21 02:58:04,955] [WARNING] [core] Nan, Inf or huge value in QACC at DOF 0. The simulation is unstable. Time = 22.4890.
+[2022-12-21 02:58:27,513] [INFO] [runner_mujoco] Environment 9
+[2022-12-21 02:58:30,632] [WARNING] [core] Nan, Inf or huge value in QVEL at DOF 0. The simulation is unstable. Time = 12.7615.
+[2022-12-21 02:58:47,782] [INFO] [runner_mujoco] Finished batch.
+[2022-12-21 02:58:47,884] [INFO] [openai_es] Finished generation 52
+[2022-12-21 02:58:48,497] [INFO] [runner_mujoco] Starting simulation batch with mujoco.
+[2022-12-21 02:58:48,497] [INFO] [runner_mujoco] Environment 0
+[2022-12-21 02:58:54,367] [WARNING] [core] Nan, Inf or huge value in QACC at DOF 12. The simulation is unstable. Time = 18.9520.
+[2022-12-21 02:59:15,420] [INFO] [runner_mujoco] Environment 1
+[2022-12-21 02:59:24,338] [WARNING] [core] Nan, Inf or huge value in QVEL at DOF 0. The simulation is unstable. Time = 21.4140.
+[2022-12-21 02:59:47,480] [INFO] [runner_mujoco] Environment 2
+[2022-12-21 02:59:52,497] [WARNING] [core] Nan, Inf or huge value in QACC at DOF 0. The simulation is unstable. Time = 16.0845.
+[2022-12-21 03:00:11,333] [INFO] [runner_mujoco] Environment 3
+[2022-12-21 03:00:20,711] [INFO] [runner_mujoco] Environment 4
+[2022-12-21 03:00:31,250] [INFO] [runner_mujoco] Environment 5
+[2022-12-21 03:00:40,042] [INFO] [runner_mujoco] Environment 6
+[2022-12-21 03:00:49,332] [INFO] [runner_mujoco] Environment 7
+[2022-12-21 03:01:00,135] [INFO] [runner_mujoco] Environment 8
+[2022-12-21 03:01:08,525] [INFO] [runner_mujoco] Environment 9
+[2022-12-21 03:01:19,136] [INFO] [runner_mujoco] Finished batch.
+[2022-12-21 03:01:19,242] [INFO] [openai_es] Finished generation 53
+[2022-12-21 03:01:19,842] [INFO] [runner_mujoco] Starting simulation batch with mujoco.
+[2022-12-21 03:01:19,842] [INFO] [runner_mujoco] Environment 0
+[2022-12-21 03:01:30,595] [INFO] [runner_mujoco] Environment 1
+[2022-12-21 03:01:39,416] [INFO] [runner_mujoco] Environment 2
+[2022-12-21 03:01:51,260] [INFO] [runner_mujoco] Environment 3
+[2022-12-21 03:01:56,825] [WARNING] [core] Nan, Inf or huge value in QVEL at DOF 0. The simulation is unstable. Time = 17.1090.
+[2022-12-21 03:02:17,681] [INFO] [runner_mujoco] Environment 4
+[2022-12-21 03:02:26,957] [INFO] [runner_mujoco] Environment 5
+[2022-12-21 03:02:33,928] [WARNING] [core] Nan, Inf or huge value in QVEL at DOF 0. The simulation is unstable. Time = 17.8115.
+[2022-12-21 03:02:53,763] [INFO] [runner_mujoco] Environment 6
+[2022-12-21 03:03:03,895] [INFO] [runner_mujoco] Environment 7
+[2022-12-21 03:03:12,022] [INFO] [runner_mujoco] Environment 8
+[2022-12-21 03:03:21,468] [INFO] [runner_mujoco] Environment 9
+[2022-12-21 03:03:28,913] [WARNING] [core] Nan, Inf or huge value in QVEL at DOF 0. The simulation is unstable. Time = 17.8920.
+[2022-12-21 03:03:49,557] [INFO] [runner_mujoco] Finished batch.
+[2022-12-21 03:03:49,672] [INFO] [openai_es] Finished generation 54
+[2022-12-21 03:03:50,308] [INFO] [runner_mujoco] Starting simulation batch with mujoco.
+[2022-12-21 03:03:50,308] [INFO] [runner_mujoco] Environment 0
+[2022-12-21 03:04:00,890] [INFO] [runner_mujoco] Environment 1
+[2022-12-21 03:04:03,875] [WARNING] [core] Nan, Inf or huge value in QACC at DOF 3. The simulation is unstable. Time = 9.4160.
+[2022-12-21 03:04:18,075] [INFO] [runner_mujoco] Environment 2
+[2022-12-21 03:04:25,565] [WARNING] [core] Nan, Inf or huge value in QVEL at DOF 0. The simulation is unstable. Time = 26.6665.
+[2022-12-21 03:04:51,126] [INFO] [runner_mujoco] Environment 3
+[2022-12-21 03:05:00,339] [INFO] [runner_mujoco] Environment 4
+[2022-12-21 03:05:08,278] [INFO] [runner_mujoco] Environment 5
+[2022-12-21 03:05:15,563] [INFO] [runner_mujoco] Environment 6
+[2022-12-21 03:05:17,885] [WARNING] [core] Nan, Inf or huge value in QVEL at DOF 0. The simulation is unstable. Time = 5.9120.
+[2022-12-21 03:05:31,926] [INFO] [runner_mujoco] Environment 7
+[2022-12-21 03:05:36,438] [WARNING] [core] Nan, Inf or huge value in QACC at DOF 0. The simulation is unstable. Time = 16.7650.
+[2022-12-21 03:05:56,339] [INFO] [runner_mujoco] Environment 8
+[2022-12-21 03:06:05,246] [INFO] [runner_mujoco] Environment 9
+[2022-12-21 03:06:15,306] [INFO] [runner_mujoco] Finished batch.
+[2022-12-21 03:06:15,419] [INFO] [openai_es] Finished generation 55
+[2022-12-21 03:06:16,005] [INFO] [runner_mujoco] Starting simulation batch with mujoco.
+[2022-12-21 03:06:16,005] [INFO] [runner_mujoco] Environment 0
+[2022-12-21 03:06:24,898] [INFO] [runner_mujoco] Environment 1
+[2022-12-21 03:06:29,606] [WARNING] [core] Nan, Inf or huge value in QACC at DOF 11. The simulation is unstable. Time = 13.4885.
+[2022-12-21 03:06:46,250] [INFO] [runner_mujoco] Environment 2
+[2022-12-21 03:06:57,163] [INFO] [runner_mujoco] Environment 3
+[2022-12-21 03:07:07,776] [INFO] [runner_mujoco] Environment 4
+[2022-12-21 03:07:18,591] [INFO] [runner_mujoco] Environment 5
+[2022-12-21 03:07:27,921] [INFO] [runner_mujoco] Environment 6
+[2022-12-21 03:07:38,220] [INFO] [runner_mujoco] Environment 7
+[2022-12-21 03:07:47,094] [INFO] [runner_mujoco] Environment 8
+[2022-12-21 03:07:49,557] [WARNING] [core] Nan, Inf or huge value in QVEL at DOF 0. The simulation is unstable. Time = 7.2500.
+[2022-12-21 03:08:04,225] [INFO] [runner_mujoco] Environment 9
+[2022-12-21 03:08:14,458] [WARNING] [core] Nan, Inf or huge value in QACC at DOF 0. The simulation is unstable. Time = 29.0330.
+[2022-12-21 03:08:42,475] [INFO] [runner_mujoco] Finished batch.
+[2022-12-21 03:08:42,569] [INFO] [openai_es] Finished generation 56
+[2022-12-21 03:08:43,133] [INFO] [runner_mujoco] Starting simulation batch with mujoco.
+[2022-12-21 03:08:43,133] [INFO] [runner_mujoco] Environment 0
+[2022-12-21 03:08:52,543] [INFO] [runner_mujoco] Environment 1
+[2022-12-21 03:09:03,509] [INFO] [runner_mujoco] Environment 2
+[2022-12-21 03:09:07,019] [WARNING] [core] Nan, Inf or huge value in QACC at DOF 7. The simulation is unstable. Time = 7.3895.
+[2022-12-21 03:09:20,998] [INFO] [runner_mujoco] Environment 3
+[2022-12-21 03:09:32,113] [INFO] [runner_mujoco] Environment 4
+[2022-12-21 03:09:43,509] [INFO] [runner_mujoco] Environment 5
+[2022-12-21 03:09:49,505] [WARNING] [core] Nan, Inf or huge value in QVEL at DOF 0. The simulation is unstable. Time = 18.1845.
+[2022-12-21 03:10:09,438] [INFO] [runner_mujoco] Environment 6
+[2022-12-21 03:10:20,155] [INFO] [runner_mujoco] Environment 7
+[2022-12-21 03:10:29,866] [INFO] [runner_mujoco] Environment 8
+[2022-12-21 03:10:38,640] [INFO] [runner_mujoco] Environment 9
+[2022-12-21 03:10:48,185] [INFO] [runner_mujoco] Finished batch.
+[2022-12-21 03:10:48,296] [INFO] [openai_es] Finished generation 57
+[2022-12-21 03:10:48,895] [INFO] [runner_mujoco] Starting simulation batch with mujoco.
+[2022-12-21 03:10:48,895] [INFO] [runner_mujoco] Environment 0
+[2022-12-21 03:10:58,439] [INFO] [runner_mujoco] Environment 1
+[2022-12-21 03:11:07,225] [INFO] [runner_mujoco] Environment 2
+[2022-12-21 03:11:17,026] [INFO] [runner_mujoco] Environment 3
+[2022-12-21 03:11:21,342] [WARNING] [core] Nan, Inf or huge value in QVEL at DOF 0. The simulation is unstable. Time = 11.3095.
+[2022-12-21 03:11:37,219] [WARNING] [core] Nan, Inf or huge value in QACC at DOF 0. The simulation is unstable. Time = 25.7705.
+[2022-12-21 03:12:01,809] [INFO] [runner_mujoco] Environment 4
+[2022-12-21 03:12:12,051] [INFO] [runner_mujoco] Environment 5
+[2022-12-21 03:12:21,394] [INFO] [runner_mujoco] Environment 6
+[2022-12-21 03:12:30,708] [INFO] [runner_mujoco] Environment 7
+[2022-12-21 03:12:40,675] [WARNING] [core] Nan, Inf or huge value in QVEL at DOF 0. The simulation is unstable. Time = 27.1155.
+[2022-12-21 03:13:06,869] [INFO] [runner_mujoco] Environment 8
+[2022-12-21 03:13:15,865] [INFO] [runner_mujoco] Environment 9
+[2022-12-21 03:13:24,248] [INFO] [runner_mujoco] Finished batch.
+[2022-12-21 03:13:24,339] [INFO] [openai_es] Finished generation 58
+[2022-12-21 03:13:24,358] [INFO] [optimize] Finished optimizing.
