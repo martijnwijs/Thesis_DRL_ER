@@ -7,14 +7,13 @@ the code is mainly from the following repository https://github.com/onerachel/Co
 ## Installation 
 simple steps to install are:
 ``` 
-1. Download isaacgym from https://developer.nvidia.com/isaac-gym
-2. git clone https://github.com/onerachel/revolve2
-3. cd revolve2/
+
+1. git clone https://github.com/onerachel/revolve2
+2. cd revolve2/
    git clone https://github.com/martijnwijs/Thesis_DRL_ER
-4. cd ..
-   virtualenv -p python3.8 .venv
-   source .venv/bin/activate
-5. pip install ~/isaacgym/python/
+3. cd ..
+4. virtualenv -p python3.8 .venv
+5. source .venv/bin/activate
 6. ./dev_requirements.sh
 ``` 
 ## running
