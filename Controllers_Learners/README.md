@@ -17,10 +17,12 @@ simple steps to install are:
 6. ./dev_requirements.sh
 ``` 
 ## running
+'''
 1. cd revolve2
 2. cd Thesis_DRL_ER
 3. cd Controllers_learners
 4. python run_Gecko.py (or 1 of the run files of the other morphologies)
+'''
 ## Documentation 
 
 [ci-group.github.io/revolve2](https://ci-group.github.io/revolve2/) 
