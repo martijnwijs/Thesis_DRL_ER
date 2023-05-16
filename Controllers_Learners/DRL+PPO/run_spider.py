@@ -12,11 +12,7 @@ morphologies = ('spider6', 'spider10' , 'spider14')
 
 
 os.environ["KMP_DUPLICATE_LIB_OK"]="TRUE"
-if __name__ == '__main__':    
-    # This block of code enables us to call the script from command line. 
-                                                                                  
- #   def execute(morphologie, iteration):                                                             
- #       os.system(f"python optimize.py --from_checkpoint {morphologie} {task} {iteration}")                                       
+if __name__ == '__main__':                                     
 
     for iteration in range(1, (iterations+1)):     
         #iterations = [iteration, iteration, iteration, iteration, iteration, iteration, iteration, iteration, iteration, iteration, iteration, iteration]
