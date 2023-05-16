@@ -71,15 +71,12 @@ async def main() -> None:
     """Run the simulation."""
     rng = Random()
     rng.seed(5)
-    #print(rng)
-    ######### creating the body object
+    # creating the body object
     body= 'snake14'
     body = modular_robots.get(body)
 
-    ###############################################
+
     brain = BrainCpgNetworkNeighbourRandom(rng)
-    ##active_hinges = body.find_active_hinges  ############
-    #brain._make_weights(active_hinges)  ########
     robot = ModularRobot(body, brain)
 
     sim = Simulator()
