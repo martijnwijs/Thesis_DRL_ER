@@ -2,7 +2,7 @@
 
 PPO learning algorithm on 12 different morphologies on the task of gait learning and rotation 
 for robot locomotion using Mujoco (preferred) and Isaacgym based Revolve2 simulator.
-the code is mainly a duplication from the following repository  https://github.com/onerachel/Controllers_Learners
+the code is for a large part a duplication from the following repository  https://github.com/onerachel/Controllers_Learners
 
 ## Installation 
 simple steps to install are:
